@@ -10,11 +10,9 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: update-site
   cancel-in-progress: false
 
 jobs:
@@ -38,13 +36,5 @@ jobs:
           commit_message: "Update lithium-metal battery papers"
           file_pattern: "index.html papers.json"
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: "."
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+      - name: Publish gh-pages branch
+        run: git push origin HEAD:gh-pages
