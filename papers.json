@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://openalex.org/W7203442996",
+    "title": "Quantifying the Correlation Between Capacity Utilization and Electrolyte Dosage for Ultrahigh‐Energy‐Density 769 Wh Kg <sup>−1</sup> Rechargeable Lithium Metal Batteries",
+    "authors": "Shuo Zhang, Yuyang Lu, Chong Yan, Xiangbiao Liao, Chen‐Zi Zhao, Junwei Zhao et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-08-14",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74644",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The pursuit of high‐energy‐density lithium metal batteries requires simultaneous optimization of electrode architecture, electrolyte formulation, and interfacial stability. Here, we establish a fundamental parameter g(σ e , D e ) that quantifies the relationship between electrolyte dosage and capacity utilization in ultra‐thick electrodes (&gt;100.0 µm), enabling precise determination of the minimal electrolyte requirement (1.1 g Ah −1 ). Through systematic investigation of electrolyte compatibility with high‐loading cathodes (&gt; 10.0 mAh cm −2 ) at high voltages (4.8 V), we develop an optimized formulation that forms stable interfaces while suppressing parasitic reactions. By integrating these advances—including a lightweight lithium metal anode—we demonstrate a 54.2 Ah pouch cell achieving 769 Wh kg −1 , representing a 150% improvement over conventional lithium‐ion batteries. This work provides both theoretical and practical frameworks for engineering next‐generation batteries through electrolyte minimization and interface stabilization.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte"
+    ],
+    "score": 6
+  },
+  {
     "id": "https://openalex.org/W7202397661",
     "title": "Solvation‐Preserving Gelation of Localized High‐Concentration Electrolytes for Lithium Metal Batteries",
     "authors": "Chong Xu, Lei Xu, Xiaohan Ban, Zongpu Shao, Yafei Liu, Yanbin Chen et al.",
@@ -524,26 +544,6 @@
       "Solid-state LMB"
     ],
     "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7167809177",
-    "title": "Applications of Dynamic Polymers in Next‐Generation High‐Performance Lithium‐Based Batteries",
-    "authors": "Chang Yan, Leiyu Chen, Wangmao Tian, Dongdong Li, Xiaoyang Wang, Ning Zhao",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-07-09",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74011",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "Dynamic polymers, featuring reversible networks enabled by dynamic covalent bonds or non-covalent interactions, exhibit functionalities such as self-healing, reprocessability, mechanical adaptability, and recyclability. These attributes offer innovative material platforms to address critical challenges in next-generation high-performance lithium-based batteries (LBBs), including unstable solid-solid interfaces, the trade-off between mechanical robustness and ionic conductivity, and battery sustainability. This review summarizes recent advances in the design strategies, working mechanisms, and electrochemical performance of dynamic polymers for three major fields of LBBs: polymer electrolyte design, interface engineering, and binder development. By summarizing the relationships among dynamic bond chemistry (e.g., hydrogen bonds, disulfide, boronate ester, and imine bonds), network dynamics, and functional performance, we highlight the unique roles of dynamic polymers in improving interfacial stability, suppressing lithium dendrite growth, accommodating electrode volume changes, and enabling closed-loop recycling of battery components. Finally, we outline existing challenges and future research directions of the application of dynamic polymers toward the realization of high-energy-density, long-cycle-life, safe, and sustainable LBBs, providing insightful perspectives for the rational design of smart and eco-friendly battery materials.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 3
   },
   {
     "id": "https://openalex.org/W7167365904",
