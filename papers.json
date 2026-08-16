@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://openalex.org/W7203554675",
+    "title": "Reveal Non‐Uniform Passivation on Lithium Metal Anode With Operando Spectroscopic Ellipsometry",
+    "authors": "Jianyu Li, Hanrui Zhang, Dongliang Chen, Feifei Shi",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-08-15",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71434",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT The passivity of lithium (Li) metal anode is crucial for the safety and long‐term cycling performance of Li metal batteries (LMBs), yet the mechanism and evolution of native passivation remain poorly understood. In this work, we use operando spectroscopic ellipsometry (SE) with a real‐time, spatially resolved thickness‐mapping function to study freshly prepared Li metal anodes with/without texture control. The native passivation reaction is monitored inside an Argon glovebox with precise control of O 2 , CO 2, and H 2 O gas environment. We discovered that the nucleation and anisotropic reactivity of Li metal are the root causes for the non‐uniform distribution of the native passivation layer. The equilibrium thickness has been studied for texture effects (i.e., Li with (200) and (110) out‐of‐plane orientations) and temperature effects. The growth of the native layer is fitted by Fehlner–Mott model. We correlate the thickness of the native passivation layer with subsequent SEI evolution by analyzing electrochemical impedance spectroscopy distribution of relaxation times (EIS‐DRT) and critical current densities (CCD) in three different electrolytes. By elucidating the fundamental growth mechanisms and roles of the native passivation layer, this work reveals the origin of non‐uniform reactivities on Li metal anodes, providing a new framework for engineering stable, dendrite‐free lithium metal interfaces.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Safety",
+      "Characterization/modeling"
+    ],
+    "score": 9
+  },
+  {
+    "id": "https://openalex.org/W7203561421",
+    "title": "Tailoring Electrolyte Chemistry Through Precise Organic Synthesis for Lithium Metal Batteries",
+    "authors": "Jingzhu Chen, Haoyu Wu, Sizhe Li, Yuheng Sun, Cheng Chang, Shiwei Liu et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-08-15",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71447",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Realizing next‐generation batteries with specific energies exceeding 500 Wh kg −1 requires coupling lithium metal anodes with high‐voltage cathodes. Conventional carbonate electrolytes fundamentally fail in these aggressive environments due to narrow electrochemical windows and catastrophic interfacial degradation. Overcoming these bottlenecks demands a paradigm shift from empirical formulation to rational molecular design. This review highlights synthetic molecular engineering as a systematic framework to tailor electrolyte chemistry at the atomic scale via precision organic synthesis—defined as deliberate covalent modification including de novo construction and targeted functionalization, focused herein on lithium metal systems. By employing precise organic synthesis through electronic regulation, steric hindrance modulation, and functional group integration, researchers actively program the physicochemical properties of salts, solvents, and additives. We systematically elucidate how these engineered components remodel primary solvation structures and direct the construction of robust interphases, navigating the long‐standing trade‐off between ionic conductivity and stability. We further benchmark performance against practical pouch‐cell constraints and distill conditional design rules specifying where each strategy succeeds and fails. Finally, integrating computational screening, perfluoroalkyl and polyfluoroalkyl substances (PFAS) sustainability considerations, and green synthesis will accelerate the industrial translation of advanced industrial lithium metal energy storage.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte"
+    ],
+    "score": 6
+  },
+  {
     "id": "https://openalex.org/W7203442996",
     "title": "Quantifying the Correlation Between Capacity Utilization and Electrolyte Dosage for Ultrahigh‐Energy‐Density 769 Wh Kg <sup>−1</sup> Rechargeable Lithium Metal Batteries",
     "authors": "Shuo Zhang, Yuyang Lu, Chong Yan, Xiangbiao Liao, Chen‐Zi Zhao, Junwei Zhao et al.",
@@ -494,7 +536,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.74037",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "Lithium battery performance remains limited by sluggish kinetics, interfacial instability, and mass transport constraints. The application of magnetic fields as a non-invasive physical modulation tool offers a promising paradigm to fundamentally circumvent these pervasive bottlenecks. This review first outlines the fundamental physical principles of magnetic fields to establish the theoretical basis for their functionality in electrochemical systems. Building upon this foundation, we systematically elucidate the role of the magnetic field in addressing multiscale scientific challenges within lithium-based batteries, specifically regarding interfacial dynamics, bulk phase transport, and chemical reactions. Regarding the electrode/electrolyte interface, the magnetic field effectively inhibits lithium dendrite proliferation and stabilizes the solid electrolyte interphase through the homogenization of ionic flux. Within the bulk phase, macroscopic convection induced by the magnetohydrodynamic effect mitigates concentration polarization, while magnetic force facilitates the directional transport of paramagnetic molecules such as oxygen and the targeted capture of detrimental ions. At the reaction level, magnetic modulation inhibits cation mixing via spin-state regulation and accelerates sluggish multielectron reactions. The objective of this review is to clarify the transformative potential of magnetic fields as multiscale and multifunctional regulatory tool for advancing the development of next-generation lithium-based batteries, including lithium-sulfur, lithium-oxygen, and all-solid-state batteries.",
     "tags": [
       "Dendrite/interface",
