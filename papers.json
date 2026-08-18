@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openalex.org/W7203629108",
+    "title": "Author Correction: Electrostatic regulation of solvation chemistry enables ampere-hour-scale high-energy lithium metal batteries",
+    "authors": "Haikuo Zhang, Long Chen, Junyi Hua, Ruhong Li, Haotian Zhu, Baochen Ma et al.",
+    "journal": "Nature Nanotechnology",
+    "journal_rank": 8,
+    "issn": "1748-3387",
+    "date": "2026-08-17",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1038/s41565-026-02277-z",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "",
+    "tags": [
+      "Electrolyte"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7203554675",
     "title": "Reveal Non‐Uniform Passivation on Lithium Metal Anode With Operando Spectroscopic Ellipsometry",
     "authors": "Jianyu Li, Hanrui Zhang, Dongliang Chen, Feifei Shi",
@@ -219,25 +237,6 @@
     "tags": [
       "Li metal anode",
       "Dendrite/interface",
-      "Electrolyte",
-      "Safety"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7172486283",
-    "title": "Dynamic Li <sup>+</sup> Releasing‐Pulling Design of Weakly Coordinated Gel Polymer Electrolytes Realizing Practical Wide‐Temperature Lithium Metal Batteries",
-    "authors": "Silin Chen, Shunchao Ma, Yutong Yang, Yishan Yang, Linyan Wang, Liqun Sun et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-08-04",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71386",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Polymer lithium metal batteries are promising for next‐generation high‐safety and high‐energy‐density applications, but their wide‐temperature operation is still limited by poor ion transport and interfacial side reactions. Herein, we develop a dynamic “releasing‐pulling” design for wide‐temperature propylene carbonate (PC)‐based gel polymer electrolytes (NSP‐GPE) featuring with weak Li + ‐polymer and Li + ‐PC coordination, simultaneously. Weak Li + ‐polymer coordination enabled by synergistic delocalized π‐electron transfer from the amide (─NH─CO─) and sulfuryl (O═S═O) groups, endows the NSP‐GPE with dynamic Li + pulling sites and reduced Li + decoupling energy barrier, ultimately delivering fast ion transport; Weak Li + ‐PC coordination established by the ─NH─CO─ group as stationary PC anchors via hydrogen bonding, sequesters PC from the Li + solvation sheath to facilitate Li + release, thereby reducing the Li + desolvation energy barrier and alleviating interfacial side reactions. Ultimately, the assembled Li||NCM811 cells show superior wide‐temperature (‐20∼60°C) electrochemical performances. A stable Ah‐level pouch cell with a high specific energy of 403.26 Wh kg −1 and a high power density of 2866.8 W kg −1 is also demonstrated, concurrently showing excellent safety under thermal and mechanical abuse. This work demonstrates that rational polymer structure engineering enables precise regulation of the coordination environment in GPEs, overcoming the inherent contradiction between ionic conductivity and interfacial stability.",
-    "tags": [
       "Electrolyte",
       "Safety"
     ],
@@ -524,26 +523,6 @@
       "Safety"
     ],
     "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7168239380",
-    "title": "Multiscale Magnetic Field Engineering for Advanced Lithium‐Based Batteries",
-    "authors": "Sijun Ren, Wanqi Tang, Lijun Zheng, Haibo Chen, Tianpin Wu, Jun Lu",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-07-14",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74037",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "Lithium battery performance remains limited by sluggish kinetics, interfacial instability, and mass transport constraints. The application of magnetic fields as a non-invasive physical modulation tool offers a promising paradigm to fundamentally circumvent these pervasive bottlenecks. This review first outlines the fundamental physical principles of magnetic fields to establish the theoretical basis for their functionality in electrochemical systems. Building upon this foundation, we systematically elucidate the role of the magnetic field in addressing multiscale scientific challenges within lithium-based batteries, specifically regarding interfacial dynamics, bulk phase transport, and chemical reactions. Regarding the electrode/electrolyte interface, the magnetic field effectively inhibits lithium dendrite proliferation and stabilizes the solid electrolyte interphase through the homogenization of ionic flux. Within the bulk phase, macroscopic convection induced by the magnetohydrodynamic effect mitigates concentration polarization, while magnetic force facilitates the directional transport of paramagnetic molecules such as oxygen and the targeted capture of detrimental ions. At the reaction level, magnetic modulation inhibits cation mixing via spin-state regulation and accelerates sluggish multielectron reactions. The objective of this review is to clarify the transformative potential of magnetic fields as multiscale and multifunctional regulatory tool for advancing the development of next-generation lithium-based batteries, including lithium-sulfur, lithium-oxygen, and all-solid-state batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 3
   },
   {
     "id": "https://openalex.org/W7168247057",
