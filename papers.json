@@ -10,7 +10,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1038/s41565-026-02277-z",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "",
     "tags": [
       "Electrolyte"
@@ -667,24 +667,5 @@
       "Safety"
     ],
     "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7161756204",
-    "title": "Advanced Design of Three-Dimensional Lithiophilic Carbon-Based Hosts for Anode-Free Lithium Metal Batteries",
-    "authors": "Fan Yang, Xiaoping Yang, ZhaoXia Xu, Maolin Zhang, Jiyue Hou, Shouyi Yuan et al.",
-    "journal": "Nano-Micro Letters",
-    "journal_rank": 6,
-    "issn": "2150-5551",
-    "date": "2026-05-20",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1007/s40820-026-02229-1",
-    "cited_by_count": 1,
-    "open_access": true,
-    "abstract": "In recent years, anode-free lithium metal batteries (AFLMBs) have garnered significant attention as prospective next-generation high-energy batteries. However, the advancement of high-performance AFLMBs is severely impeded by challenges such as the uncontrolled growth of lithium dendrites and excessive volume expansion during cycling. Consequently, the design of three-dimensional (3D) lithiophilic carbon-based hosts to substitute conventional metal current collectors has emerged as a promising strategy for constructing high-performance AFLMBs. Herein, we present a critical and timely review of recent advances in the design of 3D lithiophilic carbon-based hosts for AFLMBs. Specifically, the intrinsic properties of various carbon materials, such as graphene, carbon nanotubes, porous carbon and carbon fibers, and their applications in AFLMBs, are first summarized. This is followed by a systematic classification of lithiophilic modification strategies, including surface heteroatom doping, surface decorating, and lithiophilic structural engineering and framework design, along with their research progress. Furthermore, the classifications, mechanisms, and structural configurations of lithiophilic gradient designs for 3D carbon-based hosts are summarized, with a specific focus on their application in high-performance AFLMBs. Finally, future challenges and perspectives regarding the lithiophilic structural design and practical application of novel 3D lithiophilic carbon-based hosts are proposed, offering valuable insights for the development of advanced AFLMBs.",
-    "tags": [
-      "Anode-free",
-      "Dendrite/interface"
-    ],
-    "score": 9
   }
 ]
