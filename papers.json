@@ -103,7 +103,7 @@
   },
   {
     "id": "https://openalex.org/W7202367461",
-    "title": "A Pyridine Mediator Enables High‐Efficiency, Long‐Cycling Anode‐Less/Free Lithium–Sulfur Batteries With Li <sub>2</sub> S Cathodes",
+    "title": "A Pyridine Mediator Enables High‐Efficiency, Long‐Cycling Anode‐Less/Free Lithium–Sulfur Batteries With Li 2 S Cathodes",
     "authors": "Sijia Huang, Pengfei Sang, 孙昊婧, Yongzhu Fu, Xiang Li",
     "journal": "Advanced Materials",
     "journal_rank": 10,
@@ -113,7 +113,7 @@
     "doi_url": "https://doi.org/10.1002/adma.74616",
     "cited_by_count": 0,
     "open_access": false,
-    "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is a promising high‐capacity cathode material. Importantly, it can provide lithium source, enabling lithium batteries with an anode‐less/free configuration. However, Li 2 S suffers from poor conductivity, high polarization, low material utilization, as well as the shuttle effect, severely restricting the long cycling performance of batteries. Herein, lithium pyridine‐2‐thiolate (PySLi) is proposed as a multifunctional mediator for Li 2 S‐based anode‐less/free batteries. It is revealed that PySLi can modify the reaction pathway of Li 2 S, comprehensively enhancing its electrochemical redox kinetics and stability. Results show that the energy efficiency of the Li||Li 2 S cell with PySLi stabilizes at ∼80% in the full‐scale range from 0.1 C to 3 C rate, which is much higher than that without PySLi (49% at 0.1 C and 22% at 3 C). The stability of the lithium metal anode is also improved, maintaining a high coulombic efficiency of &gt;98% for 200 cycles and stable lithium stripping/plating behavior for 1000 h. Moreover, an anode‐free battery based on Li 2 S cathode works normally for 150 cycles, and an anode‐less pouch cell retains steady performance for 200 cycles. This multifunctional mediator provides a new strategy for the application of Li 2 S and stable anode‐less/free batteries with high energy density.",
+    "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is a promising high‐capacity cathode material. Importantly, it can provide lithium source, enabling lithium batteries with an anode‐less/free configuration. However, Li 2 S suffers from poor conductivity, high polarization, low material utilization, as well as the shuttle effect, severely restricting the long cycling performance of batteries. Herein, lithium pyridine‐2‐thiolate (PySLi) is proposed as a multifunctional mediator for Li 2 S‐based anode‐less/free batteries. It is revealed that PySLi can modify the reaction pathway of Li 2 S, comprehensively enhancing its electrochemical redox kinetics and stability. Results show that the energy efficiency of the Li||Li 2 S cell with PySLi stabilizes at ∼80% in the full‐scale range from 0.1 C to 3 C rate, which is much higher than that without PySLi (49% at 0.1 C and 22% at 3 C). The stability of the lithium metal anode is also improved, maintaining a high coulombic efficiency of >98% for 200 cycles and stable lithium stripping/plating behavior for 1000 h. Moreover, an anode‐free battery based on Li 2 S cathode works normally for 150 cycles, and an anode‐less pouch cell retains steady performance for 200 cycles. This multifunctional mediator provides a new strategy for the application of Li 2 S and stable anode‐less/free batteries with high energy density.",
     "tags": [
       "Li metal anode",
       "Plating/stripping",
@@ -144,7 +144,7 @@
   },
   {
     "id": "https://openalex.org/W7201971912",
-    "title": "3D Micro‐Network Li/Al <sub>4</sub> Li <sub>9</sub> Composite Anodes Constructed by One‐Step Melt‐Spinning for High Energy Density Lithium Metal Batteries",
+    "title": "3D Micro‐Network Li/Al 4 Li 9 Composite Anodes Constructed by One‐Step Melt‐Spinning for High Energy Density Lithium Metal Batteries",
     "authors": "Chenxing Wang, Yanxia Liu, W. J. Liu, Mingdong Du, Mingyu Shi, Mingchang Zhang et al.",
     "journal": "Advanced Energy Materials",
     "journal_rank": 12,
@@ -165,7 +165,7 @@
   },
   {
     "id": "https://openalex.org/W7196947599",
-    "title": "Encapsulating Hollow Perovskite Fluorides in Atomic Mn‐Embedded N‐Doped Carbon Fibers for Anode‐Less 5 V‐Class Li Metal Batteries",
+    "title": "Encapsulating Hollow Perovskite Fluorides in Atomic Mn‐Embedded N‐Doped Carbon Fibers for Anode‐Less 5 V‐Class Li Metal Batteries",
     "authors": "Yuan Tian, Zhihao Pei, Deyan Luan, Xiong Wen Lou",
     "journal": "Advanced Materials",
     "journal_rank": 10,
@@ -214,7 +214,7 @@
     "doi_url": "https://doi.org/10.1002/adma.74446",
     "cited_by_count": 0,
     "open_access": false,
-    "abstract": "ABSTRACT Unstable interfacial chemistry in Li metal batteries originates from the limited accessibility of anions at electrified interfaces, even in the electrolytes designed with anion‐coordinated solvation structures. Here we report a cascade solvation refinement (CSR) strategy that enables molecular‐level control over the size and dynamics of anion‐coordinated Li + clusters. This design principle is governed by the synergy between anion‐anion repulsion and average polarizability, which together dictate cluster miniaturization and anion‐exchange dynamics. By sequentially incorporating, bis(oxalate)borate (BOB − ) and bis(trifluoromethanesulphonyl)imide (TFSI − ) into a bis(fluorosulfonyl)imide (FSI − ) saturated electrolyte, the solvation environment evolves toward compact, highly dynamic Li + ‐anion clusters with accelerated anion‐exchange kinetics. The BOB − and TFSI − co‐refined electrolyte sustains continuous anion availability at electrode interfaces, facilitates the formation of robust inorganic‐rich interphases, and suppresses solvent‐dominated side reactions. Notably, the refined solvation structure also compresses the electric double layer, enabling anion‐coordinated solvation structures to approach the electrode surface more closely and construct inorganic interphases. Consequently, 4.4 V Li‐metal pouch cells with practical Ah‐level capacities (&gt;4 Ah), as well as the large‐format 20 Ah cells, exhibit markedly extended cycling stability and high gravimetric energy density (&gt;540 Wh kg −1 ). These results highlight the CSR approach as a powerful platform for advancing practical, high‐energy batteries.",
+    "abstract": "ABSTRACT Unstable interfacial chemistry in Li metal batteries originates from the limited accessibility of anions at electrified interfaces, even in the electrolytes designed with anion‐coordinated solvation structures. Here we report a cascade solvation refinement (CSR) strategy that enables molecular‐level control over the size and dynamics of anion‐coordinated Li + clusters. This design principle is governed by the synergy between anion‐anion repulsion and average polarizability, which together dictate cluster miniaturization and anion‐exchange dynamics. By sequentially incorporating, bis(oxalate)borate (BOB − ) and bis(trifluoromethanesulphonyl)imide (TFSI − ) into a bis(fluorosulfonyl)imide (FSI − ) saturated electrolyte, the solvation environment evolves toward compact, highly dynamic Li + ‐anion clusters with accelerated anion‐exchange kinetics. The BOB − and TFSI − co‐refined electrolyte sustains continuous anion availability at electrode interfaces, facilitates the formation of robust inorganic‐rich interphases, and suppresses solvent‐dominated side reactions. Notably, the refined solvation structure also compresses the electric double layer, enabling anion‐coordinated solvation structures to approach the electrode surface more closely and construct inorganic interphases. Consequently, 4.4 V Li‐metal pouch cells with practical Ah‐level capacities (>4 Ah), as well as the large‐format 20 Ah cells, exhibit markedly extended cycling stability and high gravimetric energy density (>540 Wh kg −1 ). These results highlight the CSR approach as a powerful platform for advancing practical, high‐energy batteries.",
     "tags": [
       "Dendrite/interface",
       "Electrolyte"
@@ -233,7 +233,7 @@
     "doi_url": "https://doi.org/10.1002/adma.74494",
     "cited_by_count": 0,
     "open_access": false,
-    "abstract": "ABSTRACT Coupling Ni‐rich cathodes with lithium metal anodes offers a compelling route to high‐energy‐density batteries, yet cation crosstalk from cathode dissolution destabilizes the anode interface, accelerates dendritic protrusion, and can trigger thermal runaway. Herein, we report an ion‐sieving, flame‐retardant separator based on a phosphonate‐pillared high‐entropy (HE) MXene (TiVNbMoC 3 /Tppm) functional layer that addresses these coupled failure modes. Through topological exfoliation, tetraphosphonate (TppmH 8 ) ligands act as molecular pillars to expand the TiVNbMoC 3 interlamellar spacing to 18.5 Å, enabling a 95% yield of few‐layer (&lt; 5 layers) nanosheets. The HE architecture constructs rapid and homogeneous Li + conduction pathways with a diffusion barrier of 0.179 eV while sequestering 82% of dissolved transition metals. The composite separator delivers an Li + transference number of 0.77, tensile strength of 95.17 MPa, and thermal stability at 180°C. The regulated nanochannels also facilitate stable interfacial chemistry at the Li‐metal anode. In 1.0 Ah NCM811||Li pouch cells under lean‐electrolyte conditions, it achieves 87.1% capacity retention after 200 cycles, gravimetric/volumetric energy densities of 411.8 Wh kg −1 /838.2 Wh L −1 , and a power density of 1127.0 W kg −1 . Phosphonate‐derived PO· radicals and MXene‐derived ceramic char synergistically suppress thermal propagation, enabling stable operation during thermal chamber testing.",
+    "abstract": "ABSTRACT Coupling Ni‐rich cathodes with lithium metal anodes offers a compelling route to high‐energy‐density batteries, yet cation crosstalk from cathode dissolution destabilizes the anode interface, accelerates dendritic protrusion, and can trigger thermal runaway. Herein, we report an ion‐sieving, flame‐retardant separator based on a phosphonate‐pillared high‐entropy (HE) MXene (TiVNbMoC 3 /Tppm) functional layer that addresses these coupled failure modes. Through topological exfoliation, tetraphosphonate (TppmH 8 ) ligands act as molecular pillars to expand the TiVNbMoC 3 interlamellar spacing to 18.5 Å, enabling a 95% yield of few‐layer (< 5 layers) nanosheets. The HE architecture constructs rapid and homogeneous Li + conduction pathways with a diffusion barrier of 0.179 eV while sequestering 82% of dissolved transition metals. The composite separator delivers an Li + transference number of 0.77, tensile strength of 95.17 MPa, and thermal stability at 180°C. The regulated nanochannels also facilitate stable interfacial chemistry at the Li‐metal anode. In 1.0 Ah NCM811||Li pouch cells under lean‐electrolyte conditions, it achieves 87.1% capacity retention after 200 cycles, gravimetric/volumetric energy densities of 411.8 Wh kg −1 /838.2 Wh L −1 , and a power density of 1127.0 W kg −1 . Phosphonate‐derived PO· radicals and MXene‐derived ceramic char synergistically suppress thermal propagation, enabling stable operation during thermal chamber testing.",
     "tags": [
       "Li metal anode",
       "Dendrite/interface",
@@ -295,7 +295,7 @@
     "doi_url": "https://doi.org/10.1002/adma.74405",
     "cited_by_count": 0,
     "open_access": true,
-    "abstract": "ABSTRACT All‐solid‐state Lithium–sulfur batteries (ASSLSBs) have emerged as a highly promising candidate for next‐generation energy storage systems, featuring a unique combination of earth‐abundant sulfur cathodes, high‐capacity lithium metal anodes, and nonflammable solid‐state electrolytes (SSEs). These components collectively circumvent the energy density limitations (&lt;300 Wh kg −1 ) and safety concerns for the conventional liquid electrolyte‐based lithium‐ion batteries. However, the high impedances at the SSEs/electrode interfaces, at both Li anodes and sulfur cathodes, impede efficient charge transfer and Li stripping/plating kinetics, indicating a critical bottleneck. This review focuses on the mechanistic dynamics governing these solid‐state interfaces. We provide an in‐depth analysis of the origin and evolution of SSEs/electrode interfaces and their impact on the electrochemical performance. Furthermore, we systematically evaluate state‐of‐the‐art strategies for deciphering solid‐state sulfur conversion reactions and Li plating/stripping processes, as well as for enhancing the interfacial stability and reaction kinetics. Finally, we examine the gap between current achievements in laboratories and the industrial requirements for practical ASSLSBs, followed by actionable perspectives. This review is expected to provide valuable insights for solid‐state battery community and facilitate the realization of high‐performance ASSLSBs.",
+    "abstract": "ABSTRACT All‐solid‐state Lithium–sulfur batteries (ASSLSBs) have emerged as a highly promising candidate for next‐generation energy storage systems, featuring a unique combination of earth‐abundant sulfur cathodes, high‐capacity lithium metal anodes, and nonflammable solid‐state electrolytes (SSEs). These components collectively circumvent the energy density limitations (<300 Wh kg −1 ) and safety concerns for the conventional liquid electrolyte‐based lithium‐ion batteries. However, the high impedances at the SSEs/electrode interfaces, at both Li anodes and sulfur cathodes, impede efficient charge transfer and Li stripping/plating kinetics, indicating a critical bottleneck. This review focuses on the mechanistic dynamics governing these solid‐state interfaces. We provide an in‐depth analysis of the origin and evolution of SSEs/electrode interfaces and their impact on the electrochemical performance. Furthermore, we systematically evaluate state‐of‐the‐art strategies for deciphering solid‐state sulfur conversion reactions and Li plating/stripping processes, as well as for enhancing the interfacial stability and reaction kinetics. Finally, we examine the gap between current achievements in laboratories and the industrial requirements for practical ASSLSBs, followed by actionable perspectives. This review is expected to provide valuable insights for solid‐state battery community and facilitate the realization of high‐performance ASSLSBs.",
     "tags": [
       "Li metal anode",
       "Dendrite/interface",
@@ -387,7 +387,7 @@
   },
   {
     "id": "https://openalex.org/W7171520068",
-    "title": "Electric‐field Self‐Regulating 3D Composite Current Collectors for Stable Flexible Lithium Metal Batteries Over 1100 Wh L <sup>−1</sup>",
+    "title": "Electric‐field Self‐Regulating 3D Composite Current Collectors for Stable Flexible Lithium Metal Batteries Over 1100 Wh L −1",
     "authors": "Shujing Wen, Chao Wang, Xinyan Li, Yichun Ding, Junhua Zhou, Jiehua Cai et al.",
     "journal": "Advanced Materials",
     "journal_rank": 10,
@@ -406,7 +406,7 @@
   },
   {
     "id": "https://openalex.org/W7171507143",
-    "title": "Host–Guest Synergy of COF and CoO Enables In Situ Oxygen Vacancies and Regulated Li <sup>+</sup> Behavior for High‐Performance Anode‑Free/Less Li Metal Batteries",
+    "title": "Host–Guest Synergy of COF and CoO Enables In Situ Oxygen Vacancies and Regulated Li + Behavior for High‐Performance Anode‑Free/Less Li Metal Batteries",
     "authors": "Haiyang Wu, Feng Liu, Wenyu Ma, Xiaowei Huang, Yahui Li, Derong Luo et al.",
     "journal": "Advanced Materials",
     "journal_rank": 10,
@@ -589,7 +589,7 @@
   },
   {
     "id": "https://openalex.org/W7166036614",
-    "title": "Molecular Interfacial Engineering of Lithiophilic Protection Layer Realizing 600 Wh kg <sup>−1</sup> Anode‐Free Lithium Metal Batteries",
+    "title": "Molecular Interfacial Engineering of Lithiophilic Protection Layer Realizing 600 Wh kg −1 Anode‐Free Lithium Metal Batteries",
     "authors": "Yazhan Liang, Ning Song, J Y Chen, F M Liu, Peng Wang, Jinkui Feng et al.",
     "journal": "Advanced Materials",
     "journal_rank": 10,
@@ -610,7 +610,7 @@
   },
   {
     "id": "https://openalex.org/W7164483746",
-    "title": "Synergistic Dual Modulation of Li <sub>2</sub> S Redox Kinetics and Anode Stability Enabled by a High‐Efficiency Organodisulfide Mediator in Anode‐Free Lithium–Sulfur Batteries",
+    "title": "Synergistic Dual Modulation of Li 2 S Redox Kinetics and Anode Stability Enabled by a High‐Efficiency Organodisulfide Mediator in Anode‐Free Lithium–Sulfur Batteries",
     "authors": "Kunlun Nie, Zhiwei Ni, Yuan Li, Qi Zhang, Yinghui Zhao, Baojuan Xi et al.",
     "journal": "Advanced Materials",
     "journal_rank": 10,
@@ -641,7 +641,7 @@
     "doi_url": "https://doi.org/10.1002/adma.73652",
     "cited_by_count": 0,
     "open_access": true,
-    "abstract": "ABSTRACT The swelling of the Li metal anode and its adverse impacts have barred lithium metal batteries (LMBs) from practical applications. Owing to insufficient recognition of the energy density–stress trade‐off, no viable solution has emerged to halt their expansion or diminish their internal stress accumulation (SA) while preserving their exceptional energy density. We proposed principle‐based criteria to guide the development of high‐energy and low‐swelling LMBs by defining the boundary parameters of strain‐buffering techniques. Taking a typical space‐adaptive buffering (SAB) layer as an example, we have materialized this criterion and verified its scientific validity and forward‐looking nature, effectively reducing SA and mitigating the local stress concentration (SC). As a result, the Ah‐level NCM9 (LiNi x Co y Mn 1‐x‐y O 2 , x ≥ 0.9)||SAB‐Cu pouch cell prototype with the high bare‐cell energy densities of 465 Wh/kg and 1330 Wh/L exhibits the uniform stress distribution and low SC (extreme difference in local pressure&lt;2 MPa), avoiding the failure of Li dendrite puncture. Furthermore, the Ah‐level NCM811(Li 1.2 Ni 0.8 Co 0.1 Mn 0.1 O 2 )||SAB‐Cu pouch cell demonstrates a perfect trade‐off among energy densities (418 Wh/kg and 1061 Wh/L), cycle life (164 cycles with 77% capacity retention), SA (&lt;2 MPa), and swelling ratio (3.6%), underscoring the practical feasibility of the SAB‐AF‐LMB.",
+    "abstract": "ABSTRACT The swelling of the Li metal anode and its adverse impacts have barred lithium metal batteries (LMBs) from practical applications. Owing to insufficient recognition of the energy density–stress trade‐off, no viable solution has emerged to halt their expansion or diminish their internal stress accumulation (SA) while preserving their exceptional energy density. We proposed principle‐based criteria to guide the development of high‐energy and low‐swelling LMBs by defining the boundary parameters of strain‐buffering techniques. Taking a typical space‐adaptive buffering (SAB) layer as an example, we have materialized this criterion and verified its scientific validity and forward‐looking nature, effectively reducing SA and mitigating the local stress concentration (SC). As a result, the Ah‐level NCM9 (LiNi x Co y Mn 1‐x‐y O 2 , x ≥ 0.9)||SAB‐Cu pouch cell prototype with the high bare‐cell energy densities of 465 Wh/kg and 1330 Wh/L exhibits the uniform stress distribution and low SC (extreme difference in local pressure<2 MPa), avoiding the failure of Li dendrite puncture. Furthermore, the Ah‐level NCM811(Li 1.2 Ni 0.8 Co 0.1 Mn 0.1 O 2 )||SAB‐Cu pouch cell demonstrates a perfect trade‐off among energy densities (418 Wh/kg and 1061 Wh/L), cycle life (164 cycles with 77% capacity retention), SA (<2 MPa), and swelling ratio (3.6%), underscoring the practical feasibility of the SAB‐AF‐LMB.",
     "tags": [
       "Li metal anode",
       "Dendrite/interface"
