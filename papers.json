@@ -505,26 +505,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7170195451",
-    "title": "Modulating Solvation Structures via the Solvent Electronic Effects to Yield Fast‐Charging High‐Voltage Lithium‐Metal Batteries",
-    "authors": "Jialin Wang, Huijie Tian, Erlei Zhang, Chaochao Gao, Yulu Fan, Wanbao Wu et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-07-23",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71325",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Breaking the long‐term trade‐off between fast‐charging kinetics, high‐voltage stability, and interfacial durability remains a core challenge in fabricating high‐energy‐density lithium‐metal batteries. Here, we propose a strategy for designing deep eutectic electrolytes by engineering ligand electronic structures to adjust Li + solvation microenvironments. This approach softens Li + solvation sheaths and synchronizes bulk‐phase ion transport with interfacial reaction kinetics. The resulting ternary electrolyte comprises lithium bis(trifluoromethanesulfonyl)imide, propane sultone, and 1‐propenyl‐1,3‐sultone in a molar ratio of 1:2:1 (TSE121), and it displays a wide electrochemical stability window (5.52 V), reduced Li + desolvation energy barrier, and high Li + transference number (0.82). Owing to its optimized solvation structure and programmed interfacial chemistry, TSE121 forms a stable gradient‐structured solid electrolyte interphase that can suppress lithium dendrite growth. Consequently, LiNi 0.8 Co 0.1 Mn 0.1 O 2 ||Li cells with TSE121 retain 83.6% of their capacities after 700 cycles at 4.5 V and 10C, while LiFePO 4 ||Li cells retain 84.7% of their capacities after 1500 cycles at 5C, and applicability in pouch cells is demonstrated. Thus, this study demonstrates that the engineering of the electronic structure of the solvent is an effective strategy for use in producing high‐energy, safe, fast‐charging lithium‐metal batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7169754812",
     "title": "Bridging Large‐Scale Manufacturability and Nanoscale Interfacial Chemistry in Lithium Metal Solid‐State Batteries",
     "authors": "Sang‐Jin Jeon, Sang Hoon Kwag, Kyung Mo Kang, Jong‐Hyun Park, Woo-Hyun Jeong, Shivam Kansara et al.",
@@ -640,7 +620,7 @@
     "date": "2026-06-12",
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.73710",
-    "cited_by_count": 0,
+    "cited_by_count": 1,
     "open_access": true,
     "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is pivotal for high‐energy‐density lithium–sulfur (Li─S) batteries due to its high theoretical capacity, abundant sulfur resources, and compatibility with anode‐free architectures. However, its application is hindered by its intrinsically insulating nature and sluggish redox kinetics. Furthermore, traditional 1,3‐dioxolane/1,2‐dimethoxyethane electrolytes cannot withstand high voltages and pose safety hazards due to low flash points. Herein, we propose a synergistic strategy by introducing diisopropyl dithiocarbonate disulfide (DIP) as a multifunctional redox mediator into a high‐flash‐point, high‐voltage‐tolerant tetraethylene glycol dimethyl ether electrolyte system. DIP directly converts Li 2 S to lithium polysulfides, decreasing the activation voltage of the first charge to 2.48 from 3.18 V. Simultaneously, DIP facilitates the formation of an organosulfur‐rich solid electrolyte interface on the lithium surface, effectively suppressing lithium dendrite formation and growth. Crucially, this system enables stable cycling in anode‐free Cu||Li 2 S batteries for 160 cycles at 0.3 mAh cm −2 . Standard Li||Li 2 S cells also demonstrate superior durability, achieving an extremely low per‐cycle decay rate of 0.037% at 1C. Moreover, this strategy holds promise for other metal‐sulfur systems, such as Na─S, K─S, Ca─S, Mg─S, and Zn─S batteries, providing a feasible path for safe, next‐generation energy storage.",
     "tags": [
