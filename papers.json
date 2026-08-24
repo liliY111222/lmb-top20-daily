@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://openalex.org/W7204024242",
+    "title": "Leveraging Data‐Driven and Fundamental Insights for Electrolyte Innovation in Lithium Metal Batteries",
+    "authors": "Minh Van Duong, Mitchell E. Kaiser, Xia Cao, Trung Thien Nguyen, Au Nguyen, Mỹ Loan Phụng Lê et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-08-23",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74635",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The rise of data science and decades of accumulated battery research have paved the way for the general use of computing in research. Here, the largest experimental coulombic efficiency (CE) dataset curated from over 100 scientific articles under strict selection criteria was analyzed to extract insights that would have been difficult to achieve through traditional scientific methods alone. By splitting the dataset according to CE measured using the Aurbach or cycle methods, normalizing electrolyte formulations by mass, and utilizing advanced data analytics coupled with physically informed feature engineering, we discovered that higher sF, lower sC, and sO values, influenced by fluorination degree, carbon chain length, and oxygen amount, respectively, contribute to improved CE. Surprisingly, boiling becomes a governing factor when all other features are identical, with lower boiling corresponding to higher CE. By leveraging insights gained and the model's accurate CE prediction ( R 2 = 0.85), a new electrolyte enabled a high CE of 99.57% in Li||Cu cells, excellent oxidative stability of ∼4.8 V versus Li + /Li, and 80% of capacity retention after more than 700 cycles in Li||NMC811 cells. The versatile machine learning workflow and the crafted features presented in this work can inspire the design of liquid electrolytes for other battery chemistries.",
+    "tags": [
+      "Plating/stripping",
+      "Electrolyte",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7203872307",
     "title": "Screen-Printed Li Arrays with Reinforced Interphase as Ultrathin Anodes for High-Energy–Density Liquid- and Solid-State Batteries",
     "authors": "Wenting Liu, Zhenyao Wei, De Ning, Zhenhuan Lu, Fengping Zhang, Xuhao Wang et al.",
@@ -365,27 +385,6 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7172091893",
-    "title": "Recent Advances in Interfacial Chemistry for Solid‐State Lithium–Sulfur Batteries",
-    "authors": "Dongjun Li, Guocheng Li, Xiaolong Cheng, Qi Qi, Caiyue Wen, Jingjing Tang et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-01",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74405",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT All‐solid‐state Lithium–sulfur batteries (ASSLSBs) have emerged as a highly promising candidate for next‐generation energy storage systems, featuring a unique combination of earth‐abundant sulfur cathodes, high‐capacity lithium metal anodes, and nonflammable solid‐state electrolytes (SSEs). These components collectively circumvent the energy density limitations (<300 Wh kg −1 ) and safety concerns for the conventional liquid electrolyte‐based lithium‐ion batteries. However, the high impedances at the SSEs/electrode interfaces, at both Li anodes and sulfur cathodes, impede efficient charge transfer and Li stripping/plating kinetics, indicating a critical bottleneck. This review focuses on the mechanistic dynamics governing these solid‐state interfaces. We provide an in‐depth analysis of the origin and evolution of SSEs/electrode interfaces and their impact on the electrochemical performance. Furthermore, we systematically evaluate state‐of‐the‐art strategies for deciphering solid‐state sulfur conversion reactions and Li plating/stripping processes, as well as for enhancing the interfacial stability and reaction kinetics. Finally, we examine the gap between current achievements in laboratories and the industrial requirements for practical ASSLSBs, followed by actionable perspectives. This review is expected to provide valuable insights for solid‐state battery community and facilitate the realization of high‐performance ASSLSBs.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Safety"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7171993987",
     "title": "Anchoring Atomic Ag in Ordered Oxygen Vacancies for High‐Performance Anode‐Free Lithium Metal Batteries",
     "authors": "Zerun Zhang, Kangning Cai, Nanrui Li, Youlong Fang, Qi Liu, Yanqi Wu et al.",
@@ -505,26 +504,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7169754812",
-    "title": "Bridging Large‐Scale Manufacturability and Nanoscale Interfacial Chemistry in Lithium Metal Solid‐State Batteries",
-    "authors": "Sang‐Jin Jeon, Sang Hoon Kwag, Kyung Mo Kang, Jong‐Hyun Park, Woo-Hyun Jeong, Shivam Kansara et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-07-20",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74194",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT To address interfacial instability in Li metal all‐solid‐state batteries, protective interlayers have been adopted, yet most rely on coatings or noble metal additives incompatible with scalable manufacturing. Here, we report a nanosized red phosphorus–based interfacial design that enables autogenous chemo‐wetting upon contact with Li, spontaneously forming a Li 3 P‐rich interphase, referred to as the autogenous chemo‐wet interlayer. This reactive layer self‐regulates ionic transport and interfacial adhesion through in situ chemical conversion, producing uniform Li‐ion flux and well‐distributed interfacial current, thereby enabling stable plating and stripping at high current densities and reliable high‐rate solid‐state cycling. The chemo‐wetting mechanism is inherently compatible with roll‐to‐roll transfer printing and enables defect‐free lamination across large‐area electrodes. This coupled mechanical–electrochemical regulation underpins scalable fabrication of solid‐state electrodes, as demonstrated in 6 Ah‐class pouch cells. These discoveries bridge nanoscale interfacial reactivity with macroscale processability and present a step toward practical implementation toward high‐energy, large‐format solid‐state Li metal batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7168264566",
     "title": "Dual‐Functional Fluorinated Additive in Gel Polymer Electrolyte for High‐Energy‐Density Anode‐Free Lithium Batteries With Enhanced Thermal Stability",
     "authors": "Shengyu Cong, Zhenghao Yang, Han Chen, Xuhao Wan, Myeong Gyun Nam, Tong Wang et al.",
@@ -535,7 +514,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.74069",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "Anode-free lithium metal batteries offer high energy density and low cost, but their practical deployment is limited by unstable lithium-electrolyte interfaces and safety risks from dendrite growth and flammable electrolytes. Here, we report a dual-functional fluorinated additive that enables in situ gelation, forming a thin, inorganic-rich solid electrolyte interphase while simultaneously enhancing flame retardancy through radical capture. At 0.5 C discharge, the additive-enabled anode-free pouch cell delivers high specific capacities of 202.1 mAh/g (3.0-4.5 V) and 192.0 mAh/g (3.4-4.3 V), while retaining 80.3% and 80.1% of their initial values after 85 and 100 cycles, respectively. Moreover, Cu/NCA pouch cells with capacities of 1.4 Ah (3.0-4.5 V) and 200 mAh (3.6-4.3 V), incorporating the additive, retain 80.2% of initial capacity after 85 cycles and 92.9% after 100 cycles, respectively. Such performance is on par with or better than the best results in the literature. Impressively, such a 1.4 Ah cell shows no thermal runaway in a harsh drilling test at the fully charged state, even after 100 cycles. These results demonstrate that the dual-functional fluorine additive leads to both excellent electrochemical performance and enhanced safety, paving the way for the safe and practical application of anode-free lithium metal cells.",
     "tags": [
       "Anode-free",
