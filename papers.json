@@ -10,7 +10,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.74635",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT The rise of data science and decades of accumulated battery research have paved the way for the general use of computing in research. Here, the largest experimental coulombic efficiency (CE) dataset curated from over 100 scientific articles under strict selection criteria was analyzed to extract insights that would have been difficult to achieve through traditional scientific methods alone. By splitting the dataset according to CE measured using the Aurbach or cycle methods, normalizing electrolyte formulations by mass, and utilizing advanced data analytics coupled with physically informed feature engineering, we discovered that higher sF, lower sC, and sO values, influenced by fluorination degree, carbon chain length, and oxygen amount, respectively, contribute to improved CE. Surprisingly, boiling becomes a governing factor when all other features are identical, with lower boiling corresponding to higher CE. By leveraging insights gained and the model's accurate CE prediction ( R 2 = 0.85), a new electrolyte enabled a high CE of 99.57% in Li||Cu cells, excellent oxidative stability of ∼4.8 V versus Li + /Li, and 80% of capacity retention after more than 700 cycles in Li||NMC811 cells. The versatile machine learning workflow and the crafted features presented in this work can inspire the design of liquid electrolytes for other battery chemistries.",
     "tags": [
       "Plating/stripping",
@@ -447,25 +447,6 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7171676740",
-    "title": "Ferrous Pyrophosphate Hollow Nanorods Enable Lithium Metal Batteries Under Low Negative/Positive Capacity Ratios",
-    "authors": "Chen Yu, Jiarui Yang, Deyan Luan, Xiong Wen Lou",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-07-28",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74276",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT Lithium (Li) metal batteries (LMBs) exhibit a promising paradigm for their high energy density. However, their realization is still hindered by the inherent instability and excess of Li metal. Herein, we rationally design and synthesize ferrous pyrophosphate hollow nanorods encapsulated by an N‐doped carbon shell (Fe 2 P 2 O 7 @NC) as a Li host for Li metal anodes (LMAs). The Fe 2 P 2 O 7 @NC‐casted Cu electrode (Fe 2 P 2 O 7 @NC‐Cu) guides uniform Li deposition and suppresses volume expansion, enabling uniform Li plating and enhanced Coulombic efficiency. Time‐of‐flight secondary ion mass spectrometry and in‐depth X‐ray photoelectron spectroscopy analyses reveal that the existence of Fe 2 P 2 O 7 promotes the generation of LiF and Li 2 O in LMAs, thereby promoting uniform Li plating. The Fe 2 P 2 O 7 @NC‐Li electrode presents stable Li deposition/stripping with small voltage polarization for 1400 h at 1 mA cm −2 and 1 mAh cm −2 . Furthermore, a full cell coupled with a LiFePO 4 cathode, demonstrates consistent cycling stability, maintaining a capacity retention of 80.6% over 136 cycles at a low negative/positive capacity ratio of 1.5, highlighting the great potential of Fe 2 P 2 O 7 @NC for practical high‐energy‐density LMBs.",
-    "tags": [
-      "Li metal anode",
-      "Plating/stripping"
-    ],
-    "score": 6
-  },
-  {
     "id": "https://openalex.org/W7171520068",
     "title": "Electric‐field Self‐Regulating 3D Composite Current Collectors for Stable Flexible Lithium Metal Batteries Over 1100 Wh L −1",
     "authors": "Shujing Wen, Chao Wang, Xinyan Li, Yichun Ding, Junhua Zhou, Jiehua Cai et al.",
@@ -481,6 +462,25 @@
     "tags": [
       "Li metal anode",
       "Dendrite/interface"
+    ],
+    "score": 6
+  },
+  {
+    "id": "https://openalex.org/W7171676740",
+    "title": "Ferrous Pyrophosphate Hollow Nanorods Enable Lithium Metal Batteries Under Low Negative/Positive Capacity Ratios",
+    "authors": "Chen Yu, Jiarui Yang, Deyan Luan, Xiong Wen Lou",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-07-28",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74276",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Lithium (Li) metal batteries (LMBs) exhibit a promising paradigm for their high energy density. However, their realization is still hindered by the inherent instability and excess of Li metal. Herein, we rationally design and synthesize ferrous pyrophosphate hollow nanorods encapsulated by an N‐doped carbon shell (Fe 2 P 2 O 7 @NC) as a Li host for Li metal anodes (LMAs). The Fe 2 P 2 O 7 @NC‐casted Cu electrode (Fe 2 P 2 O 7 @NC‐Cu) guides uniform Li deposition and suppresses volume expansion, enabling uniform Li plating and enhanced Coulombic efficiency. Time‐of‐flight secondary ion mass spectrometry and in‐depth X‐ray photoelectron spectroscopy analyses reveal that the existence of Fe 2 P 2 O 7 promotes the generation of LiF and Li 2 O in LMAs, thereby promoting uniform Li plating. The Fe 2 P 2 O 7 @NC‐Li electrode presents stable Li deposition/stripping with small voltage polarization for 1400 h at 1 mA cm −2 and 1 mAh cm −2 . Furthermore, a full cell coupled with a LiFePO 4 cathode, demonstrates consistent cycling stability, maintaining a capacity retention of 80.6% over 136 cycles at a low negative/positive capacity ratio of 1.5, highlighting the great potential of Fe 2 P 2 O 7 @NC for practical high‐energy‐density LMBs.",
+    "tags": [
+      "Li metal anode",
+      "Plating/stripping"
     ],
     "score": 6
   },
@@ -502,6 +502,26 @@
       "Characterization/modeling"
     ],
     "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7168275403",
+    "title": "A Rigid‐Flexible Polyinterface Enabling Molecular‐Level Dual‐Ion Regulation for Ultrastable Lithium Metal Batteries",
+    "authors": "Gaochuang He, Jianwei Guo, Lingxi Yang, Guanrong Ou, Wenjing Liu, Xin Wang",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-07-14",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74068",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT The unstable lithium metal anode plagued by dendrite growth and parasitic reactions remains a formidable barrier to realizing high‐energy‐density batteries. While artificial solid‐electrolyte interphases offer a protective strategy, most designs are limited to single‐ion regulation and fail to orchestrate the complex, dual‐ion (Li + and anion) chemistry at the molecular level. Here, we report a rationally designed polymeric artificial interphase of poly‐fluorotoluene‐triglycoldimercaptan (PFT) featuring rigid fluorinated benzene rings and flexible sulfur‐oxygen chains for synergistic dual‐ion regulation. The flexible segments enable gradient Li + coordination with differential binding energies, lowering desolvation barrier and facilitating uniform Li + transport, whereas the rigid electron‐deficient fluorinated rings trap TFSI − anions via anion‐π interactions. This dual modulation directs the in‐situ formation of a robust, LiF‐Li 2 S‐rich inorganic composite SEI, as validated by calculations and spectroscopy. The PFT‐based Li anodes exhibit exceptional stability, with symmetric cells operating over 4000 h at 1 mA cm −2 , 1 mAh cm −2 . A high‐loading LiFePO 4 full cell retains 80% capacity after 1000 cycles at 5 C, and an NCM811 pouch cell retains 85% capacity after 160 cycles at 0.5 C, demonstrating practical viability. This work establishes a molecular design principle for dual‐ion regulation via a polyinterface for high‐performance Li metal batteries.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte"
+    ],
+    "score": 9
   },
   {
     "id": "https://openalex.org/W7168264566",
