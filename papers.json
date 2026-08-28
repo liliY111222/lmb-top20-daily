@@ -1,5 +1,64 @@
 [
   {
+    "id": "https://openalex.org/W7204230907",
+    "title": "Hotspot to Homogeneous: Amorphous Interfacial Current Redistribution Enables Stable Solid-State Lithium-Metal Batteries",
+    "authors": "Cuiyun Yang, Xupeng Lu, Yexin Pan, Qimeng Zhang, Ruohan Yu, Rongliang Yang et al.",
+    "journal": "Nano-Micro Letters",
+    "journal_rank": 6,
+    "issn": "2150-5551",
+    "date": "2026-08-27",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1007/s40820-026-02347-w",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "Abstract Interfacial instability in oxide ceramic electrolyte (OCE)-based solid-state lithium metal batteries (SSLMBs) is conventionally attributed to chemical incompatibility or mechanical failure, yet the underlying atomic-scale mechanisms remain elusive. Here, we reveal that grain boundaries (GBs) in polycrystalline OCEs function as bipolar interfacial hotspots, accelerating three degradation pathways: lowering barriers for Li dendrite nucleation and enabling electron-leakage-driven reduction at anode side, while generating localized overpotentials for cathode phase transformation. To deactivate these GB-driven hotspots, we develop a laser-induced amorphization strategy that constructs a GB-free amorphous interlayer capable of homogenizing Li + flux and blocking electron migration. Applied to a representative sodium superionic conductor-type electrolyte, Li 1.3 Al 0.3 Ti 1.7 (PO 4 ) 3 , this approach delivers substantially increased critical current density in Li symmetric cells (1.4 to 2.4 mA cm −2 ) with stable cycling over 2000 h, and achieves an exceptional capacity retention of 101.9 mAh g −1 after 800 cycles in LiCoO 2 full cells operated at 4.5 V. The generality of this strategy is further validated on garnet-type and perovskite-type OCEs. This work introduces amorphous interfacial current redistribution as a universal paradigm for engineering stable interfaces, providing a critical atomic-scale interface engineering route to unlock high-voltage, dendrite-free SSLMBs.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7204277667",
+    "title": "Design Principles of Crystal‐Transformed HOF/MOF Heterostructures for Stable Solid‐State Lithium Metal Batteries",
+    "authors": "Chaofei Guo, Yingnan Cao, Xiao Yu, Xiongwei Wu, Yangkai Ren, Yao Xiao et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-08-26",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74814",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The rational design of solid‐state electrolytes (SSEs) with high ionic conductivity, interfacial robustness, and thermal stability remains a critical challenge for lithium metal batteries (LMBs). Herein, we established the crystal‐transformed hydrogen‐bonded organic framework/trinuclear Cu cluster organic framework heterostructures (HOFa/TrCuMOF 8 ) as thermally stable SSEs for LMBs. The crystal‐transformed HOF/MOF heterostructure constructs continuous low‐energy Li + transport pathways, while the pendant ‐CH 3 with strong steric hindrance induces anion adsorption to effectively suppress TFSI − migration. Meanwhile, coordination‐confined TrCu synergizes with imine (C = N) groups to create a dynamically polarized local electronic environment through Li + ‐induced charge redistribution, thereby promoting selective Li + transport. Consequently, the HOFa/TrCuMOF 8 SSEs deliver a high Li + transference number (0.94) and ionic conductivity (2.7 mS cm −1 at 30°C). Compared with polypropylene (PP) separators, the flexible HOFa/TrCuMOF 8 SSEs maintain structural integrity at high temperatures (180°C), effectively suppressing electrolyte shrinkage and thermal short‐circuit propagation. The assembled Li|HOFa/TrCuMOF 8 SSEs|LiFePO 4 LMBs achieve 97.8% capacity retention after 1000 cycles at 2 C and maintain stable cycling even at 100°C. Remarkably, the Li|HOFa/TrCuMOF 8 SSEs|NCM811 pouch cell exhibits an impressive energy density of 259.4 Wh kg −1 with enhanced thermal safety. This work provides a crystal‐transformation strategy for engineering HOF/MOF heterostructures toward thermally stable solid‐state lithium batteries.",
+    "tags": [
+      "Electrolyte",
+      "Safety"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7204247942",
+    "title": "Self‐Sacrificing Flame‐Retardant Oligomer Enables Anion‐Dominated Solvation Structure for High‐Safety and Long‐Life High‐Voltage Lithium‐Metal Batteries",
+    "authors": "Xing-Di Li, Jialing Yu, Guo‐Hong Wang, Guo-Rui Zhu, Xiu‐Li Wang, Yu‐Zhong Wang et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-08-25",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74775",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The commercialization of NCM811‐lithium metal batteries has long been constrained by two major bottlenecks: electrolytes’ flammability and poor electrode interface compatibility. This study designed a multifunctional unsaturated oligomer electrolyte additive (PE) as a coordinator and martyr for batteries’ safety and stability. It integrates flexible segments to promote lithium‐ion transport, phosphorus‐containing segments to achieve both vapor‐phase and condensed‐phase flame retardancy, and the synergy of P═O and C═C effectively stabilizes both the lithium‐metal anode and high‐voltage cathode. This additive selectively partitions into Li + solvation shell, where P═O bond coordinates with Li + and C═C bond establishes anion‐C═C interaction with PF 6 − , constructing a unique anion‐dominated solvation environment in commercial electrolyte with conventional lithium salt concentration to trigger highly stable and LiF/Li x PO y ‐rich interfacial layer formation on electrode surface. At low addition levels, electrolyte flammability is significantly reduced while battery performance is comprehensively enhanced. NCM811‖Li batteries achieved stable cycling for over 500 cycles at 1 C, maintaining 80% capacity retention. Even at 5 C, they retained 76% capacity after 160 cycles. By strategically designing localized molecular structures to synergistically enhance flame retardancy, ion transport, and interfacial stability within a single molecule, this study provides a promising paradigm for the development of electrolytes for high‐safety, long‐life, and high‐energy‐density lithium batteries.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Safety"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7204024242",
     "title": "Leveraging Data‐Driven and Fundamental Insights for Electrolyte Innovation in Lithium Metal Batteries",
     "authors": "Minh Van Duong, Mitchell E. Kaiser, Xia Cao, Trung Thien Nguyen, Au Nguyen, Mỹ Loan Phụng Lê et al.",
@@ -181,6 +240,26 @@
     "score": 6
   },
   {
+    "id": "https://openalex.org/W7202367461",
+    "title": "A Pyridine Mediator Enables High‐Efficiency, Long‐Cycling Anode‐Less/Free Lithium–Sulfur Batteries With Li 2 S Cathodes",
+    "authors": "Sijia Huang, Pengfei Sang, 孙昊婧, Yongzhu Fu, Xiang Li",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-08-12",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74616",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is a promising high‐capacity cathode material. Importantly, it can provide lithium source, enabling lithium batteries with an anode‐less/free configuration. However, Li 2 S suffers from poor conductivity, high polarization, low material utilization, as well as the shuttle effect, severely restricting the long cycling performance of batteries. Herein, lithium pyridine‐2‐thiolate (PySLi) is proposed as a multifunctional mediator for Li 2 S‐based anode‐less/free batteries. It is revealed that PySLi can modify the reaction pathway of Li 2 S, comprehensively enhancing its electrochemical redox kinetics and stability. Results show that the energy efficiency of the Li||Li 2 S cell with PySLi stabilizes at ∼80% in the full‐scale range from 0.1 C to 3 C rate, which is much higher than that without PySLi (49% at 0.1 C and 22% at 3 C). The stability of the lithium metal anode is also improved, maintaining a high coulombic efficiency of >98% for 200 cycles and stable lithium stripping/plating behavior for 1000 h. Moreover, an anode‐free battery based on Li 2 S cathode works normally for 150 cycles, and an anode‐less pouch cell retains steady performance for 200 cycles. This multifunctional mediator provides a new strategy for the application of Li 2 S and stable anode‐less/free batteries with high energy density.",
+    "tags": [
+      "Li metal anode",
+      "Plating/stripping",
+      "Solid-state LMB"
+    ],
+    "score": 6
+  },
+  {
     "id": "https://openalex.org/W7202397661",
     "title": "Solvation‐Preserving Gelation of Localized High‐Concentration Electrolytes for Lithium Metal Batteries",
     "authors": "Chong Xu, Lei Xu, Xiaohan Ban, Zongpu Shao, Yafei Liu, Yanbin Chen et al.",
@@ -199,26 +278,6 @@
       "Electrolyte",
       "Safety",
       "Characterization/modeling"
-    ],
-    "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7202367461",
-    "title": "A Pyridine Mediator Enables High‐Efficiency, Long‐Cycling Anode‐Less/Free Lithium–Sulfur Batteries With Li 2 S Cathodes",
-    "authors": "Sijia Huang, Pengfei Sang, 孙昊婧, Yongzhu Fu, Xiang Li",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-12",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74616",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is a promising high‐capacity cathode material. Importantly, it can provide lithium source, enabling lithium batteries with an anode‐less/free configuration. However, Li 2 S suffers from poor conductivity, high polarization, low material utilization, as well as the shuttle effect, severely restricting the long cycling performance of batteries. Herein, lithium pyridine‐2‐thiolate (PySLi) is proposed as a multifunctional mediator for Li 2 S‐based anode‐less/free batteries. It is revealed that PySLi can modify the reaction pathway of Li 2 S, comprehensively enhancing its electrochemical redox kinetics and stability. Results show that the energy efficiency of the Li||Li 2 S cell with PySLi stabilizes at ∼80% in the full‐scale range from 0.1 C to 3 C rate, which is much higher than that without PySLi (49% at 0.1 C and 22% at 3 C). The stability of the lithium metal anode is also improved, maintaining a high coulombic efficiency of >98% for 200 cycles and stable lithium stripping/plating behavior for 1000 h. Moreover, an anode‐free battery based on Li 2 S cathode works normally for 150 cycles, and an anode‐less pouch cell retains steady performance for 200 cycles. This multifunctional mediator provides a new strategy for the application of Li 2 S and stable anode‐less/free batteries with high energy density.",
-    "tags": [
-      "Li metal anode",
-      "Plating/stripping",
-      "Solid-state LMB"
     ],
     "score": 6
   },
@@ -426,27 +485,6 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7171513247",
-    "title": "Cellulosic Composites in Lithium Metal Batteries",
-    "authors": "Jun Guan, Minxin Wang, Zihao Zheng, Geyuan Jiang, Haipeng Yu, Dawei Zhao",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-07-28",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74314",
-    "cited_by_count": 1,
-    "open_access": false,
-    "abstract": "ABSTRACT Lithium metal batteries (LMBs) hold great promise for next‐generation high‐energy‐density energy storage, yet their practical deployment is severely hindered by lithium dendrite growth, unstable solid electrolyte interphase (SEI), infinite volume expansion of lithium anodes, and poor thermal safety. As an abundant, renewable, biodegradable, and low‐cost biomass polymer, cellulose and its derivatives feature outstanding mechanical robustness, tunable flexibility, rich surface hydroxyl groups, and designable hierarchical micro/nanostructures, which endow them with unique advantages in addressing critical bottlenecks of LMBs. This review focuses on the multifunctional roles and underlying mechanisms of cellulose‐based composites in boosting the electrochemical and safety performance of LMBs. By virtue of polar functional groups and rigid‐flexible integrated structures, cellulose can effectively homogenize Li + flux, guide uniform lithium deposition, suppress dendrite nucleation and propagation, and alleviate volume fluctuation during cycling. Meanwhile, cellulose‐based matrices significantly enhance the mechanical strength, thermal stability, flame retardancy, and ionic conductivity of polymer electrolytes and separators. Seven types of functional cellulose composites are highlighted regarding their applications in electrolytes, separators, 3D anode hosts, artificial interphase layers, and interface regulators. Finally, the future development of cellulose materials toward high‐performance LMBs is prospected from the aspects of precise molecular modification, biomimetic ordered ion transport, and scalable green fabrication. This review provides systematic insights into the performance enhancement mechanisms and application strategies of cellulose for high‐safety and long‐lifespan lithium metal batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
-      "Safety"
-    ],
-    "score": 6
-  },
-  {
     "id": "https://openalex.org/W7171520068",
     "title": "Electric‐field Self‐Regulating 3D Composite Current Collectors for Stable Flexible Lithium Metal Batteries Over 1100 Wh L −1",
     "authors": "Shujing Wen, Chao Wang, Xinyan Li, Yichun Ding, Junhua Zhou, Jiehua Cai et al.",
@@ -483,25 +521,6 @@
       "Plating/stripping"
     ],
     "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7171507143",
-    "title": "Host–Guest Synergy of COF and CoO Enables In Situ Oxygen Vacancies and Regulated Li + Behavior for High‐Performance Anode‑Free/Less Li Metal Batteries",
-    "authors": "Haiyang Wu, Feng Liu, Wenyu Ma, Xiaowei Huang, Yahui Li, Derong Luo et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-07-28",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74373",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Anode‐free Li metal batteries (AFLMBs) are excellent candidates for electric vehicles and low‐altitude aircrafts because of their high energy density. However, the industrialization of AFLMBs remains limited by the poor reversibility of Li + deposition and stripping on Cu current collectors (CCs). In this study, a composite CC (TCMS@Cu) integrating a covalent organic framework (COF) membrane and CoO nanoparticles is constructed to address these challenges. The TCMS@Cu forms a dense COF crystalline membrane on Cu foil via epitaxial growth and incorporates lithiophilic CoO nanoparticles. The host–guest synergistic effect between the COF and CoO effectively guides Li + migration into COF cavities, effectively suppressing dendrite formation and the accumulation of inactive Li. During the initial deposition process, CoO reacts with Li + to generate oxygen vacancies, further enhancing the performance of the TCMS membrane. The anode‐less Li metal batteries (ALLMBs) assembled with LiFePO 4 cathode achieve an exceptional cycle life of 850 cycles and a high‐rate capacity retention of 94.4% at 5C. The assembled AFLMB pouch cells deliver energy densities of 288 Wh kg −1 (LFP|CC) and 452 Wh kg −1 (NCM811|CC) (calculated without cell can and tabs). This work provides an effective strategy for designing high performance AFLMBs and promotes the development of next‐generation energy storage devices.",
-    "tags": [
-      "Dendrite/interface",
-      "Characterization/modeling"
-    ],
-    "score": 3
   },
   {
     "id": "https://openalex.org/W7168275403",
