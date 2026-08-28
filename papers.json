@@ -2,7 +2,7 @@
   {
     "id": "https://openalex.org/W7204230907",
     "title": "Hotspot to Homogeneous: Amorphous Interfacial Current Redistribution Enables Stable Solid-State Lithium-Metal Batteries",
-    "authors": "Cuiyun Yang, Xupeng Lu, Yexin Pan, Qimeng Zhang, Ruohan Yu, Rongliang Yang et al.",
+    "authors": "Cuiyun Yang, Cuiyun Yang, Xupeng Lu, Yexin Pan, Qimeng Zhang, Ruohan Yu et al.",
     "journal": "Nano-Micro Letters",
     "journal_rank": 6,
     "issn": "2150-5551",
@@ -99,45 +99,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7203780293",
-    "title": "Unilateral‐Cyano‐Functionalized Asymmetric Ether‐Based Electrolytes Enable Stable High‐Voltage Lithium Metal Batteries",
-    "authors": "Yinuo Yu, Zichen Wang, Yixian Xiao, Jiajun Chen, Xinzhao Xia, Yunxiao Ren et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-19",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74706",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Enhanced demand for high‐energy‐density batteries has intensified the focus on high‐voltage Ni‐rich ternary cathodes. However, their high‐voltage characteristics are challenging to match the narrow electrochemical stability window of traditional ether electrolytes. Herein, we propose a series of unilateral‐cyano‐functionalized asymmetric glyme (glyme‐CN) electrolytes with broadened oxidation stability by molecular engineering. The electron‐withdrawing cyano group enhances oxidation stability by suppressing ether‐oxygen lone pair loss, while their solvation structures are finely tuned to promote anion‐derived interfacial chemistry. The optimized electrolyte glyme‐CN named TF achieves a 5.2 V electrochemical stability window, 98.9% Coulombic efficiency in Li||Cu cells, and stable cycling in Li||Li cells over 1400 h. The Li||LiFePO 4 full battery with electrolyte TF delivers remarkable cycling stability, maintaining 133.3 mAh g −1 high capacity with a 90.8% capacity retention rate after 4000 cycles at 1C. Furthermore, TF enables a 4.3 V LiNi 0.8 Co 0.1 Mn 0.1 O 2 cathode to retain 64.2% capacity after 800 cycles and sustains stable operation even at 4.6 V. This precise molecular engineering strategy for structure and property customization provides new insights into the development of advanced battery materials.",
-    "tags": [
-      "Plating/stripping",
-      "Electrolyte"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7203787721",
-    "title": "Entropy‐Mediated Nonporous Polymer Separator Unlocks Ultra‐Wide Temperature Range (−70°C to 150°C) Lithium Metal Batteries",
-    "authors": "Yongqi Wang, Yaodong Huo, 宋纯坤, Duanduan Li, Qiyue Zhao, Tuotuo Ma et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-08-19",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71480",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT The separator, as an indispensable component in batteries, has attracted extensive attention. Nevertheless, its poor temperature adaptability restricts the application of lithium (Li) metal batteries under extreme temperature scenarios. Herein, we develop a novel nonporous high‐entropy separator (HES) based on a rationally designed high‐entropy polymer, achieving for the first time, from the perspective of the separator, the long‐term operation of Li metal batteries from −70 to 150°C. The as‐prepared HES delivers superior electrolyte wettability and thermal stability. Moreover, the abundant ion transport channels in HES homogenize and accelerate ion transport, while facilitating the formation of stable, inorganic/B‐rich solid electrolyte interphase and cathode electrolyte interphase in the Li metal batteries. These effectively inhibit Li dendrites and parasitic reactions across a wide temperature range. Consequently, Li||Li cells operate for 2200 h at −70°C, 6548 h at 25°C, and 700 h at 150°C. Li||V 2 O 5 batteries can run from −70 to 150°C, demonstrating excellent application potential. This work enriches separator design strategies and expands the temperature boundaries for the application of Li metal batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 6
-  },
-  {
     "id": "https://openalex.org/W7203757633",
     "title": "Fluoride‐Driven Interfacial Engineering: Architecting Functional Layers for High‐Performance Dendrite‐Free Li Metal Batteries",
     "authors": "Ao Liu, Jinlun Wu, Yimeng Han, Ihar Razanau, Artem Okulov, Jian‐Gan Wang et al.",
@@ -160,22 +121,24 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7203629108",
-    "title": "Author Correction: Electrostatic regulation of solvation chemistry enables ampere-hour-scale high-energy lithium metal batteries",
-    "authors": "Haikuo Zhang, Long Chen, Junyi Hua, Ruhong Li, Haotian Zhu, Baochen Ma et al.",
-    "journal": "Nature Nanotechnology",
-    "journal_rank": 8,
-    "issn": "1748-3387",
-    "date": "2026-08-17",
+    "id": "https://openalex.org/W7203787721",
+    "title": "Entropy‐Mediated Nonporous Polymer Separator Unlocks Ultra‐Wide Temperature Range (−70°C to 150°C) Lithium Metal Batteries",
+    "authors": "Yongqi Wang, Yaodong Huo, 宋纯坤, Duanduan Li, Qiyue Zhao, Tuotuo Ma et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-08-19",
     "year": 2026,
-    "doi_url": "https://doi.org/10.1038/s41565-026-02277-z",
+    "doi_url": "https://doi.org/10.1002/aenm.71480",
     "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "",
+    "open_access": false,
+    "abstract": "ABSTRACT The separator, as an indispensable component in batteries, has attracted extensive attention. Nevertheless, its poor temperature adaptability restricts the application of lithium (Li) metal batteries under extreme temperature scenarios. Herein, we develop a novel nonporous high‐entropy separator (HES) based on a rationally designed high‐entropy polymer, achieving for the first time, from the perspective of the separator, the long‐term operation of Li metal batteries from −70 to 150°C. The as‐prepared HES delivers superior electrolyte wettability and thermal stability. Moreover, the abundant ion transport channels in HES homogenize and accelerate ion transport, while facilitating the formation of stable, inorganic/B‐rich solid electrolyte interphase and cathode electrolyte interphase in the Li metal batteries. These effectively inhibit Li dendrites and parasitic reactions across a wide temperature range. Consequently, Li||Li cells operate for 2200 h at −70°C, 6548 h at 25°C, and 700 h at 150°C. Li||V 2 O 5 batteries can run from −70 to 150°C, demonstrating excellent application potential. This work enriches separator design strategies and expands the temperature boundaries for the application of Li metal batteries.",
     "tags": [
-      "Electrolyte"
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
     ],
-    "score": 3
+    "score": 6
   },
   {
     "id": "https://openalex.org/W7203554675",
