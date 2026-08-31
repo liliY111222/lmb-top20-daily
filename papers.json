@@ -630,25 +630,5 @@
       "Dendrite/interface"
     ],
     "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7163064857",
-    "title": "Anion–Diluent Decoupled Solvation Chemistry in Ionic Liquid-Based Localized High-Concentration Electrolytes Toward High-Voltage Lithium Metal Batteries",
-    "authors": "Guangye Wu, Haifeng Tu, Zi Wang, Gao Y, Peng Ding, Yi Yang et al.",
-    "journal": "Nano-Micro Letters",
-    "journal_rank": 6,
-    "issn": "2150-5551",
-    "date": "2026-06-01",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1007/s40820-026-02242-4",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "Abstract Ionic liquid-based localized high-concentration electrolytes (IL-based LHCEs), derived from non-solvating diluents and ionic liquid electrolytes (ILEs), are promising candidates for long-life and safe lithium metal batteries (LMBs). However, conventional understanding holds that diluents merely reduce electrolyte viscosity and enhance ionic conductivity at the macroscopic level, overlooking their influence on the solvation structure at the molecular scale. Herein, we propose an anion–diluent decoupled solvation structure that is more conducive to stable cycling of high-voltage LMBs. Specifically, diluents with weak interactions toward FSI − anions effectively promote coordination between FSI − anions and Li + , leading to a solvation structure dominated by contact ion pairs (CIPs). The small anionic clusters within CIPs in IL-based LHCEs further facilitate Li + ion transport. Moreover, compared to aggregate (AGG)-dominated solvation structures rich in anions and electrons, the CIPs exhibit superior oxidation resistance, contributing to the formation of a thin and compact cathode electrolyte interphase (CEI). As a proof, an IL-based LHCE incorporating 1,1,2,2-tetrafluoroethyl methyl ether (TFE) as the diluent (TFE-LHCE) was developed. A Li||TFE-LHCE||NCM523 (LiNi 0.5 Mn 0.3 Co 0.2 O 2 ) cell cycled at 4.3 V achieves a capacity retention of 70% after 600 cycles, while a Li||NCM811 (LiNi 0.8 Mn 0.1 Co 0.1 O 2 ) cell at 4.5 V retains 88% capacity after 200 cycles. Furthermore, a 2.6 Ah Li||NCM83 (LiNi 0.83 Mn 0.1 Co 0.07 O 2 ) pouch cell demonstrates stable cycling over 40 cycles and successfully passes a nail penetration safety test. This work elucidates the critical mechanism by which non‑solvating diluents reconstruct the Li + ion solvation structure, establishing a theoretical foundation for the rational screening and design of high‑performance electrolyte diluents.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Safety"
-    ],
-    "score": 3
   }
 ]
