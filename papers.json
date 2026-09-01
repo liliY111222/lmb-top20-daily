@@ -59,26 +59,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7204024242",
-    "title": "Leveraging Data‐Driven and Fundamental Insights for Electrolyte Innovation in Lithium Metal Batteries",
-    "authors": "Minh Van Duong, Mitchell E. Kaiser, Xia Cao, Trung Thien Nguyen, Au Nguyen, Mỹ Loan Phụng Lê et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-23",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74635",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT The rise of data science and decades of accumulated battery research have paved the way for the general use of computing in research. Here, the largest experimental coulombic efficiency (CE) dataset curated from over 100 scientific articles under strict selection criteria was analyzed to extract insights that would have been difficult to achieve through traditional scientific methods alone. By splitting the dataset according to CE measured using the Aurbach or cycle methods, normalizing electrolyte formulations by mass, and utilizing advanced data analytics coupled with physically informed feature engineering, we discovered that higher sF, lower sC, and sO values, influenced by fluorination degree, carbon chain length, and oxygen amount, respectively, contribute to improved CE. Surprisingly, boiling becomes a governing factor when all other features are identical, with lower boiling corresponding to higher CE. By leveraging insights gained and the model's accurate CE prediction ( R 2 = 0.85), a new electrolyte enabled a high CE of 99.57% in Li||Cu cells, excellent oxidative stability of ∼4.8 V versus Li + /Li, and 80% of capacity retention after more than 700 cycles in Li||NMC811 cells. The versatile machine learning workflow and the crafted features presented in this work can inspire the design of liquid electrolytes for other battery chemistries.",
-    "tags": [
-      "Plating/stripping",
-      "Electrolyte",
-      "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7203872307",
     "title": "Screen-Printed Li Arrays with Reinforced Interphase as Ultrathin Anodes for High-Energy–Density Liquid- and Solid-State Batteries",
     "authors": "Wenting Liu, Zhenyao Wei, De Ning, Zhenhuan Lu, Fengping Zhang, Xuhao Wang et al.",
