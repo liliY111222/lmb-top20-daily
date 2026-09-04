@@ -227,25 +227,6 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7196947599",
-    "title": "Encapsulating Hollow Perovskite Fluorides in Atomic Mn‐Embedded N‐Doped Carbon Fibers for Anode‐Less 5 V‐Class Li Metal Batteries",
-    "authors": "Yuan Tian, Zhihao Pei, Deyan Luan, Xiong Wen Lou",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-06",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74484",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Anode‐less Li metal batteries (ALLMBs) guarantee high energy density but face critical challenges such as dendrite growth, large volume change, and energy density sacrifice imposed by heavy Cu current collectors. Herein, we report a three‐dimensional (3D) lightweight host comprising N‐doped carbon macroporous fibers encapsulating atomically dispersed Mn‐N sites and hollow NaMg(Mn)F 3 cubes (NMMF@Mn/N‐CMFs) for ALLMBs. The well‐dispersed Mn‐N sites and hollow NMMF cubes function as lithiophilic nucleation sites to promote uniform Li nucleus growth on both the external and internal surfaces of the hollow fibers. The 3D macroporous networks and internal hollow structures mitigate structural stress and uniformize Li growth by accommodating volume change and decreasing local current density. As a result, the NMMF@Mn/N‐CMFs host displays an average Coulombic efficiency of 98.9% for 1500 cycles at 5.0 mA cm −2 . When paired with a LiNi 0.5 Mn 1.5 O 4 cathode, the assembled 5 V‐class anode‐less pouch cell delivers enhanced stability with 95.8% capacity retention over 120 cycles. Besides, a 0.31 Ah pouch cell under anode‐less conditions shows an energy density of 536 Wh kg −1 , calculated based on the active materials of electrodes.",
-    "tags": [
-      "Plating/stripping",
-      "Dendrite/interface"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7172416878",
     "title": "Phosphonate‐Pillared High‐Entropy MXene Separator Enabling Ion‐Sieving, Flame‐Retardant, and Energy/Power‐Dense Lithium Metal Pouch Cells",
     "authors": "Wenzhuo Tan, Jiawen Tang, Junyu Zhang, Jiefang Zhu, Yunsong Li, Ahu Shao et al.",
@@ -285,27 +266,6 @@
       "Solid-state LMB"
     ],
     "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7172321346",
-    "title": "Atomic and Molecular Structure Regulated In Situ Cross-Linked Polyurethane Gel Electrolyte for High-Performance Lithium Metal Batteries",
-    "authors": "Jialun Ni, Yong Zeng, De Ning, Xuan He, Xiaokang Ju, Xueling Liu et al.",
-    "journal": "Nano-Micro Letters",
-    "journal_rank": 6,
-    "issn": "2150-5551",
-    "date": "2026-08-03",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1007/s40820-026-02307-4",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "Abstract The incompatibility of conventional electrolytes with high-voltage cathodes and lithium metal anodes limits the performance of lithium metal batteries (LMBs). Here, an in situ cross-linked polyurethane gel electrolyte (G-P3 AR) is designed through atomic and molecular structure regulation. The polyester segments widen the highest occupied molecular orbital–lowest unoccupied molecular orbital gap, extending the electrochemical stability window to 4.97 V for compatibility with NCM811 cathodes. Polyether segments exhibit a lower Li + binding energy, reducing the desolvation barrier and enhancing anode stability. At the atomic level, sp 2 -hybridized boron in the chain extender immobilizes anions (TFSI − and DFOB − ) through Lewis acid–base interactions, raising the Li + transference number to 0.78 and enabling exceptional rate capability (157.7 mAh g −1 at 2 C in the Li||NCM811 cell). Hydrogen bonding between the polymer and solvent restructures the solvation sheath, promoting inorganic-rich interphases. The Li|G-P3 AR|NCM811 cell retains 81.7% capacity after 500 cycles at 0.5 C charge/1 C discharge, demonstrating a rational electrolyte design strategy for high-performance LMBs.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Characterization/modeling"
-    ],
-    "score": 6
   },
   {
     "id": "https://openalex.org/W7171993987",
@@ -459,7 +419,7 @@
     "date": "2026-06-25",
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.73830",
-    "cited_by_count": 1,
+    "cited_by_count": 2,
     "open_access": true,
     "abstract": "ABSTRACT Anode‐free lithium (Li) metal batteries (AFLMBs) can achieve higher energy densities at lower costs and easier production processes, but the uneven plating of Li leads to dendrite growth, making safety issues unavoidable. Here, we propose a convenient and scalable molecular interface engineering strategy: the 5‐methyl‐1H‐tetrazole (MTZ) molecule forms chemically bonded, stable self‐assembled monolayer (SAMs) interface on Cu foil surfaces, thereby producing modified Cu foil (MTZ‐Cu). Anchored by strong Cu─N bonds, the SAMs not only introduce high‐density nucleation sites with molecular precision but also promote preferential decomposition of LiNO 3 in electrolytes, forming a stable solid electrolyte interface that enhances plating uniformity and reversibility. When used in combination with LiNi 0.8 Co 0.1 Mn 0.1 O 2 and LiNi 0.9 Co 0.05 Mn 0.05 O 2 cathodes, the assembled 8.44 Ah and 9.96 Ah MTZ‐Cu‐based anode‐free pouch cells achieve benchmark energy densities of 505.31 Wh kg total −1 and 605.96 Wh kg total −1 for 100 cycles, respectively. This work demonstrates the advantages of molecular interface engineering in constructing practical AFLMBs, with the potential for large‐scale production to meet commercial applications.",
     "tags": [
