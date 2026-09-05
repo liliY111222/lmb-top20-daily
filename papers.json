@@ -163,28 +163,6 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7202397661",
-    "title": "Solvation‐Preserving Gelation of Localized High‐Concentration Electrolytes for Lithium Metal Batteries",
-    "authors": "Chong Xu, Lei Xu, Xiaohan Ban, Zongpu Shao, Yafei Liu, Yanbin Chen et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-12",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74634",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Localized high‐concentration electrolytes (LHCEs) exhibit excellent interfacial compatibility with lithium metal anodes and high‐nickel cathodes, whereas the introduction of polymer networks during gelation may alter their intrinsic solvation structures. Here, we report a solvation‐preserving gel electrolyte formed via in situ polymerization of a fluorinated polymer network within a 1,2‐Dimethoxyethane (DME)‐based LHCE. Unlike conventional gel polymer electrolytes, the fluorinated polymer exhibits limited Li + coordination, thereby largely preserving the localized high‐concentration solvation environment during gelation. This design couples the preserved LHCE solvation chemistry with a fluorinated polymer framework, enabling synergistic regulation of electrode–electrolyte interfaces and enhanced electrochemical performance. Meanwhile, the fluorinated polymer network further improves safety by reducing electrolyte flammability. Lithium symmetric cells achieve stable cycling over 2000 h, while LiNi 0.9 Co 0.05 Mn 0.05 O 2 (NCM9)|Li full cells deliver 82.2% capacity retention after 300 cycles and operate stably up to 4.5 V. At the pouch‐cell level, a gravimetric energy density of 394.3 Wh kg −1 is achieved under lean‐electrolyte conditions, while no thermal runaway is observed up to 300°C. This work demonstrates that preserving solvation structure via rational polymer network design enables simultaneous improvements in interfacial stability, safety, and practical performance in quasi‐solid‐state lithium metal batteries.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Safety",
-      "Characterization/modeling"
-    ],
-    "score": 6
-  },
-  {
     "id": "https://openalex.org/W7202278436",
     "title": "Mechanically, Thermally, and Interfacially Robust Solid Polymer Electrolytes Enabled by an Organic–Inorganic Interwoven Architecture",
     "authors": "Zhilong Yang, Chuang Li, Chengshuai Chang, Bosi Huang, Lu Nie, Zhengran Wang et al.",
@@ -206,27 +184,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7201971912",
-    "title": "3D Micro‐Network Li/Al 4 Li 9 Composite Anodes Constructed by One‐Step Melt‐Spinning for High Energy Density Lithium Metal Batteries",
-    "authors": "Chenxing Wang, Yanxia Liu, W. J. Liu, Mingdong Du, Mingyu Shi, Mingchang Zhang et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-08-08",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71402",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Lithium‐metal anodes are hindered by inhomogeneous lithium plating/stripping, interfacial side reactions, and volume expansion. The lithium alloy anodes are considered an effective strategy to resolve these problems, but they suffer from structural degradation during cycling. Herein, a 3D micro‐network Li/Al 4 Li 9 composite anode is fabricated via one‐step melt‐spinning. The microstructure evolution of the alloy ribbons is studied systematically by tuning the cooling conditions. Ultimately, a uniform Li/Al 4 Li 9 composite anode with a 3D micro‐network is achieved at a copper roller speed of 2200 rpm. The intrinsic Li/Al 4 Li 9 composite anode structure provides synergistic functions: first, the interconnected micro‐network provides continuous electron/ion transport pathways and abundant reaction interfaces, which lowers the nucleation barrier and uniform lithium plating/stripping; second, the Li/Al 4 Li 9 composite anode with Al 4 Li 9 skeleton shows high Young's modulus, which buffers volume expansion and uniform stress distribution. In situ optical microscopy and post‐cycling SEM images confirm the Li/Al 4 Li 9 composite anode exhibits excellent mitigate structural degradation ability. The Li/Al 4 Li 9 ||Li/Al 4 Li 9 cells in ether‐based electrolyte demonstrate stable cycling for 1600 h at 1 mA cm − 2 , 1 mAh cm − 2 , and Li/Al 4 Li 9 ||LiFePO 4 cells in carbonate‐based electrolyte retain 81.7% capacity after 204 cycles at 0.5 C. Impressively, the Li/Al 4 Li 9 composite anode is a promising anode for high‐energy‐density lithium metal batteries.",
-    "tags": [
-      "Plating/stripping",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Characterization/modeling"
-    ],
-    "score": 6
-  },
-  {
     "id": "https://openalex.org/W7172416878",
     "title": "Phosphonate‐Pillared High‐Entropy MXene Separator Enabling Ion‐Sieving, Flame‐Retardant, and Energy/Power‐Dense Lithium Metal Pouch Cells",
     "authors": "Wenzhuo Tan, Jiawen Tang, Junyu Zhang, Jiefang Zhu, Yunsong Li, Ahu Shao et al.",
@@ -244,26 +201,6 @@
       "Dendrite/interface",
       "Electrolyte",
       "Safety"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7172386247",
-    "title": "Garnet‐Induced Amorphization of Fluoride Solid Electrolyte Interlayer Enables High‐Voltage and Large‐Capacity Lithium Metal Solid‐State Batteries",
-    "authors": "Xianhui Nie, Yangyang Liu, Hailong Wu, Meng Lei, Shuxiao Hu, Chilin Li",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-08-04",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71375",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Garnet‐type solid‐state electrolyte Li 6.5 La 3 Zr 1.5 Ta 0.5 O 12 (LLZTO) has garnered significant attention owing to its high Li‐ion conductivity at room temperature (RT) and good electrochemical stability with Li metal. However, it presents the challenges in terms of high resistance at electrolyte/electrode interfaces, coupled with the growth of lithium dendrites along grain boundaries within garnet. These challenges have been proven to be related to a thick passivation layer of Li 2 CO 3 formed on LLZTO surface. Here, we propose a garnet‐induced amorphization strategy of fluoride solid electrolyte (Li 2 SiF 6 ) interlayer with enhanced ionic conductivity (1.32 × 10 −6 S/cm at RT) and electronic insulation to address these challenges. The Li metal symmetric cells exhibit negligible interfacial resistance (≈1 Ω cm 2 ) and achieve a record‐high critical current density of 4.4 mA/cm 2 at RT. The outstanding high‐voltage stability of Li 2 SiF 6 contributes to enhance the oxidation capacity of the LLZTO system. The batteries coupled with LiNi 0.8 Co 0.1 Mn 0.1 O 2 with a loading of 4.3 mg/cm 2 exhibit stable long‐term cycling up to 4.5 V. The all‐solid‐state conversion reaction batteries, with a high loading of FeF 3 cathode up to 5 mg/cm 2 , achieve a high reversible capacity close to 500 mAh/g. This study inspires the positive modulation of ceramic oxides on fluoride solid electrolytes and their multi‐functions on both anode and cathode.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
     ],
     "score": 3
   },
