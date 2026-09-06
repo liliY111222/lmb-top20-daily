@@ -163,27 +163,6 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7202278436",
-    "title": "Mechanically, Thermally, and Interfacially Robust Solid Polymer Electrolytes Enabled by an Organic–Inorganic Interwoven Architecture",
-    "authors": "Zhilong Yang, Chuang Li, Chengshuai Chang, Bosi Huang, Lu Nie, Zhengran Wang et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-12",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74586",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Solid polymer electrolytes (SPEs) are promising for use in high‐energy‐density solid‐state Li metal batteries. However, their practical application is hindered by challenges including poor mechanical strength, inadequate thermal stability, electrode‐interface instability, and sluggish ionic transport, which collectively fall short of the required safety and performance standards. Here, we develop an organic–inorganic interwoven architecture using PBO nanofiber and MXene nanosheets as a multifunctional host for SPE. This interwoven framework enhances the mechanical strength and toughness of the solid electrolyte by 12.5‐ and 7‐fold, respectively, and reduces thermal shrinkage below 10% at 200°C. More importantly, we demonstrate that the interwoven structure promotes Li salt dissociation through strong local electric‐field polarization, accelerates Li‐ion transport (0.75 mS cm −1 ), and enhances the stability (8000 h without short‐circuiting) of the Li metal interface during battery operation while suppressing exothermic side reactions under extreme thermal runaway conditions. Using this strategy, solid‐state Li metal pouch cells operate stably under mechanical and thermal abuse conditions, delivering 91.7% capacity retention after 300 cycles at 10C and 90°C. This work effectively addresses the interrelated challenges of mechanical strength, ion transport, and interface/thermal stability of SPE, offering a promising strategy for safe and high‐performance solid‐state Li metal batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
-      "Safety"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7172416878",
     "title": "Phosphonate‐Pillared High‐Entropy MXene Separator Enabling Ion‐Sieving, Flame‐Retardant, and Energy/Power‐Dense Lithium Metal Pouch Cells",
     "authors": "Wenzhuo Tan, Jiawen Tang, Junyu Zhang, Jiefang Zhu, Yunsong Li, Ahu Shao et al.",
@@ -359,27 +338,6 @@
     "cited_by_count": 2,
     "open_access": true,
     "abstract": "ABSTRACT Anode‐free lithium (Li) metal batteries (AFLMBs) can achieve higher energy densities at lower costs and easier production processes, but the uneven plating of Li leads to dendrite growth, making safety issues unavoidable. Here, we propose a convenient and scalable molecular interface engineering strategy: the 5‐methyl‐1H‐tetrazole (MTZ) molecule forms chemically bonded, stable self‐assembled monolayer (SAMs) interface on Cu foil surfaces, thereby producing modified Cu foil (MTZ‐Cu). Anchored by strong Cu─N bonds, the SAMs not only introduce high‐density nucleation sites with molecular precision but also promote preferential decomposition of LiNO 3 in electrolytes, forming a stable solid electrolyte interface that enhances plating uniformity and reversibility. When used in combination with LiNi 0.8 Co 0.1 Mn 0.1 O 2 and LiNi 0.9 Co 0.05 Mn 0.05 O 2 cathodes, the assembled 8.44 Ah and 9.96 Ah MTZ‐Cu‐based anode‐free pouch cells achieve benchmark energy densities of 505.31 Wh kg total −1 and 605.96 Wh kg total −1 for 100 cycles, respectively. This work demonstrates the advantages of molecular interface engineering in constructing practical AFLMBs, with the potential for large‐scale production to meet commercial applications.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
-      "Safety"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7164483746",
-    "title": "Synergistic Dual Modulation of Li 2 S Redox Kinetics and Anode Stability Enabled by a High‐Efficiency Organodisulfide Mediator in Anode‐Free Lithium–Sulfur Batteries",
-    "authors": "Kunlun Nie, Zhiwei Ni, Yuan Li, Qi Zhang, Yinghui Zhao, Baojuan Xi et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-06-12",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.73710",
-    "cited_by_count": 1,
-    "open_access": true,
-    "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is pivotal for high‐energy‐density lithium–sulfur (Li─S) batteries due to its high theoretical capacity, abundant sulfur resources, and compatibility with anode‐free architectures. However, its application is hindered by its intrinsically insulating nature and sluggish redox kinetics. Furthermore, traditional 1,3‐dioxolane/1,2‐dimethoxyethane electrolytes cannot withstand high voltages and pose safety hazards due to low flash points. Herein, we propose a synergistic strategy by introducing diisopropyl dithiocarbonate disulfide (DIP) as a multifunctional redox mediator into a high‐flash‐point, high‐voltage‐tolerant tetraethylene glycol dimethyl ether electrolyte system. DIP directly converts Li 2 S to lithium polysulfides, decreasing the activation voltage of the first charge to 2.48 from 3.18 V. Simultaneously, DIP facilitates the formation of an organosulfur‐rich solid electrolyte interface on the lithium surface, effectively suppressing lithium dendrite formation and growth. Crucially, this system enables stable cycling in anode‐free Cu||Li 2 S batteries for 160 cycles at 0.3 mAh cm −2 . Standard Li||Li 2 S cells also demonstrate superior durability, achieving an extremely low per‐cycle decay rate of 0.037% at 1C. Moreover, this strategy holds promise for other metal‐sulfur systems, such as Na─S, K─S, Ca─S, Mg─S, and Zn─S batteries, providing a feasible path for safe, next‐generation energy storage.",
     "tags": [
       "Dendrite/interface",
       "Electrolyte",
