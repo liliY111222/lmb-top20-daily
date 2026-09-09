@@ -1,5 +1,43 @@
 [
   {
+    "id": "https://openalex.org/W7211977975",
+    "title": "Reinforced Poly(Ionic Liquid)-in-Salt Electrolytes for Highly Stable Solid-State Lithium Metal Batteries",
+    "authors": "Shengnan Zhang, Guifang Zeng, Jing Yu, Sharona Horta, Xuan Lu, Qing Sun et al.",
+    "journal": "Advanced Fiber Materials",
+    "journal_rank": 19,
+    "issn": "2524-7921",
+    "date": "2026-09-08",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1007/s42765-026-00775-2",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "",
+    "tags": [
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7211929488",
+    "title": "Composite Polymer Electrolytes With Hierarchical Confinement of Anions and Solvents for Stable Solid‐State Li Metal Batteries",
+    "authors": "Dengfeng Yu, Haocheng Yuan, Peipei Ding, Yue Li, Qian Wu, Hongcai He et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-07",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71556",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Solid‐state lithium‐metal batteries leveraging solid polymer electrolytes (SPEs) represent a promising technological pathway. Among these, polyvinylidene fluoride (PVDF)‐based SPEs are particularly noteworthy, yet they face a fundamental dilemma: electrode/electrolyte interfacial degradation from solvent‐dominated Li + coordination versus constrained Li + transport under solvent‐deficient conditions. To resolve this paradox, a 3D porous few‐layered MoS 2 was synthesized and employed as the filler in PVDF‐based SPEs. The fillers concurrently weaken Li + coordination with both FSI − and solvent through targeted dipole interactions, thereby enhancing Li + migration rate and inducing structural reorganization to anion‐dominated Li + solvation. The optimized PVDF‐based electrolyte demonstrates record‐breaking ionic conductivity (1.13 mS cm −1 ), Li + transference number (0.68), and exceptional compatibility with lithium metal anodes under solvent‐lean conditions. The LiNi 0.8 Co 0.1 Mn 0.1 O 2 ||Li cell demonstrates exceptional cycling stability, achieving a record‐high capacity retention of 90.5% after 1500 cycles at 2 C. Furthermore, practical applicability is confirmed through a 54 mAh pouch cell configuration. The ultra‐stable interfacial characteristics establish new performance benchmarks, demonstrating a viable pathway toward practical solid‐state batteries with minimal solvent dependence.",
+    "tags": [
+      "Li metal anode",
+      "Electrolyte"
+    ],
+    "score": 6
+  },
+  {
     "id": "https://openalex.org/W7204230907",
     "title": "Hotspot to Homogeneous: Amorphous Interfacial Current Redistribution Enables Stable Solid-State Lithium-Metal Batteries",
     "authors": "Cuiyun Yang, Cuiyun Yang, Xupeng Lu, Yexin Pan, Qimeng Zhang, Ruohan Yu et al.",
@@ -240,25 +278,6 @@
     "tags": [
       "Li metal anode",
       "Dendrite/interface"
-    ],
-    "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7171676740",
-    "title": "Ferrous Pyrophosphate Hollow Nanorods Enable Lithium Metal Batteries Under Low Negative/Positive Capacity Ratios",
-    "authors": "Chen Yu, Jiarui Yang, Deyan Luan, Xiong Wen Lou",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-07-28",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74276",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT Lithium (Li) metal batteries (LMBs) exhibit a promising paradigm for their high energy density. However, their realization is still hindered by the inherent instability and excess of Li metal. Herein, we rationally design and synthesize ferrous pyrophosphate hollow nanorods encapsulated by an N‐doped carbon shell (Fe 2 P 2 O 7 @NC) as a Li host for Li metal anodes (LMAs). The Fe 2 P 2 O 7 @NC‐casted Cu electrode (Fe 2 P 2 O 7 @NC‐Cu) guides uniform Li deposition and suppresses volume expansion, enabling uniform Li plating and enhanced Coulombic efficiency. Time‐of‐flight secondary ion mass spectrometry and in‐depth X‐ray photoelectron spectroscopy analyses reveal that the existence of Fe 2 P 2 O 7 promotes the generation of LiF and Li 2 O in LMAs, thereby promoting uniform Li plating. The Fe 2 P 2 O 7 @NC‐Li electrode presents stable Li deposition/stripping with small voltage polarization for 1400 h at 1 mA cm −2 and 1 mAh cm −2 . Furthermore, a full cell coupled with a LiFePO 4 cathode, demonstrates consistent cycling stability, maintaining a capacity retention of 80.6% over 136 cycles at a low negative/positive capacity ratio of 1.5, highlighting the great potential of Fe 2 P 2 O 7 @NC for practical high‐energy‐density LMBs.",
-    "tags": [
-      "Li metal anode",
-      "Plating/stripping"
     ],
     "score": 6
   },
