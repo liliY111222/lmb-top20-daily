@@ -11,10 +11,11 @@
     "doi_url": "https://doi.org/10.1007/s42765-026-00775-2",
     "cited_by_count": 0,
     "open_access": true,
-    "abstract": "",
+    "abstract": "Solid-state polymer electrolytes (SPEs) are promising for high-safety, high-energy-density lithium metal batteries, but their adoption is limited by low room-temperature ionic conductivity and insufficient mechanical robustness. This study reports an improved SPE architecture consisting of a three-dimensional (3D) polyacrylonitrile (PAN)–Li 6.4 La 3 Zr 1.4 Ta 0.6 O 12 (LLZTO) fibrous skeleton infused with a polymer electrolyte ionic liquid (PIL), which promotes lithium-salt dissociation, accelerates Li + transport, and enhances mechanical strength. The resulting SPE achieves an ionic conductivity of up to 0.51 mS cm −1 . Li|Li symmetric cells using a 40-µm-thick SPE cycle stably for 2500 h at 0.2 mA cm −2 with a low overpotential of 30 mV. In Li|LiFePO 4 (LFP) full cells, the electrolyte enables 86.8% capacity retention after 1000 cycles at 0.5 C and maintains stable operation at 130 °C. Flexible pouch-cell tests further confirm improved safety and durability under harsh conditions, highlighting the potential of this SPE design for high-voltage lithium metal batteries.",
     "tags": [
       "Electrolyte",
-      "Solid-state LMB"
+      "Solid-state LMB",
+      "Safety"
     ],
     "score": 3
   },
@@ -77,26 +78,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7204247942",
-    "title": "Self‐Sacrificing Flame‐Retardant Oligomer Enables Anion‐Dominated Solvation Structure for High‐Safety and Long‐Life High‐Voltage Lithium‐Metal Batteries",
-    "authors": "Xing-Di Li, Jialing Yu, Guo‐Hong Wang, Guo-Rui Zhu, Xiu‐Li Wang, Yu‐Zhong Wang et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-25",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74775",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT The commercialization of NCM811‐lithium metal batteries has long been constrained by two major bottlenecks: electrolytes’ flammability and poor electrode interface compatibility. This study designed a multifunctional unsaturated oligomer electrolyte additive (PE) as a coordinator and martyr for batteries’ safety and stability. It integrates flexible segments to promote lithium‐ion transport, phosphorus‐containing segments to achieve both vapor‐phase and condensed‐phase flame retardancy, and the synergy of P═O and C═C effectively stabilizes both the lithium‐metal anode and high‐voltage cathode. This additive selectively partitions into Li + solvation shell, where P═O bond coordinates with Li + and C═C bond establishes anion‐C═C interaction with PF 6 − , constructing a unique anion‐dominated solvation environment in commercial electrolyte with conventional lithium salt concentration to trigger highly stable and LiF/Li x PO y ‐rich interfacial layer formation on electrode surface. At low addition levels, electrolyte flammability is significantly reduced while battery performance is comprehensively enhanced. NCM811‖Li batteries achieved stable cycling for over 500 cycles at 1 C, maintaining 80% capacity retention. Even at 5 C, they retained 76% capacity after 160 cycles. By strategically designing localized molecular structures to synergistically enhance flame retardancy, ion transport, and interfacial stability within a single molecule, this study provides a promising paradigm for the development of electrolytes for high‐safety, long‐life, and high‐energy‐density lithium batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Safety"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7203872307",
     "title": "Screen-Printed Li Arrays with Reinforced Interphase as Ultrathin Anodes for High-Energy–Density Liquid- and Solid-State Batteries",
     "authors": "Wenting Liu, Zhenyao Wei, De Ning, Zhenhuan Lu, Fengping Zhang, Xuhao Wang et al.",
@@ -115,48 +96,6 @@
       "Solid-state LMB"
     ],
     "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7203757633",
-    "title": "Fluoride‐Driven Interfacial Engineering: Architecting Functional Layers for High‐Performance Dendrite‐Free Li Metal Batteries",
-    "authors": "Ao Liu, Jinlun Wu, Yimeng Han, Ihar Razanau, Artem Okulov, Jian‐Gan Wang et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-08-19",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71463",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT High‐capacity lithium metal anodes are essential for high‐energy‐density batteries. However, their practical deployment is hindered by notorious dendritic growth, severe volume variation and an unstable solid electrolyte interphase (SEI), giving rise to poor cyclic stability and serious safety hazards. Much effort has been devoted to exploring interfacial functional layers to enable dendrite‐free and reversible plating/stripping. Metal fluorides (M x Fᵧ) are being actively exploited due to their high ionic conductivity, mechanical robustness and favorable reactivity with Li. Importantly, conversion and alloying reactions generate favorable interphases containing conductive LiF and alloying species, which effectively regulate Li + flux and facilitate fast ion migration and uniform deposition, thereby enhancing both cycle life and energy density of Li metal batteries (LMBs). This review systematically summarizes the applications of M x Fᵧ in LMBs, including artificial interphase layers, lithiophilic 3D hosts, separator modification layers and electrolyte additives. Particular emphasis is placed on clarifying the role of M x Fᵧ for building a robust SEI and providing host framework that accelerates kinetics and guides homogeneous nucleation for dendrite‐free deposition. Meanwhile, the performance of LMBs from a practical application viewpoint is discussed, especially in pouch cells. Finally, future directions and prospects for M x Fᵧ are presented to stimulate their commercialization and extension to other metal batteries.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
-      "Safety"
-    ],
-    "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7203787721",
-    "title": "Entropy‐Mediated Nonporous Polymer Separator Unlocks Ultra‐Wide Temperature Range (−70°C to 150°C) Lithium Metal Batteries",
-    "authors": "Yongqi Wang, Yaodong Huo, 宋纯坤, Duanduan Li, Qiyue Zhao, Tuotuo Ma et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-08-19",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71480",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT The separator, as an indispensable component in batteries, has attracted extensive attention. Nevertheless, its poor temperature adaptability restricts the application of lithium (Li) metal batteries under extreme temperature scenarios. Herein, we develop a novel nonporous high‐entropy separator (HES) based on a rationally designed high‐entropy polymer, achieving for the first time, from the perspective of the separator, the long‐term operation of Li metal batteries from −70 to 150°C. The as‐prepared HES delivers superior electrolyte wettability and thermal stability. Moreover, the abundant ion transport channels in HES homogenize and accelerate ion transport, while facilitating the formation of stable, inorganic/B‐rich solid electrolyte interphase and cathode electrolyte interphase in the Li metal batteries. These effectively inhibit Li dendrites and parasitic reactions across a wide temperature range. Consequently, Li||Li cells operate for 2200 h at −70°C, 6548 h at 25°C, and 700 h at 150°C. Li||V 2 O 5 batteries can run from −70 to 150°C, demonstrating excellent application potential. This work enriches separator design strategies and expands the temperature boundaries for the application of Li metal batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 6
   },
   {
     "id": "https://openalex.org/W7203554675",
@@ -239,45 +178,6 @@
       "Dendrite/interface",
       "Electrolyte",
       "Solid-state LMB"
-    ],
-    "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7171840568",
-    "title": "Stereoelectronic Additive Engineering Enables Solvation Regulation and Dual‐Interphase Stabilization for High‐Voltage and High‐Temperature Lithium Metal Batteries",
-    "authors": "Jinyu Tian, Yongbiao Mu, Feng Sun, Anjun Hu, Miao He, Yaoyu Yin et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-07-29",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71359",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT High‐voltage lithium metal batteries (LMBs) suffer from unstable Li + solvation and fragile electrode/electrolyte interphases, especially at elevated temperatures. Here, difluorotrimethylsilanylacetic acid ethyl ester (DTAE) is introduced as a stereoelectronically engineered additive for conventional carbonate electrolytes to regulate Li + solvation and stabilize both cathode and anode interphases. The push–pull effect of the ─Si(CH 3 ) 3 and ─CF 2 ─ groups on the same carbon center weakens Li + –carbonyl coordination, promotes anion involvement in the primary solvation sheath, and facilitates Li + desolvation. Meanwhile, DTAE scavenges HF and contributes to the formation of robust LiF/Si─O‐rich interphases on both the LiNi 0.8 Co 0.1 Mn 0.1 O 2 (NCM811) cathode and Li metal anode. As a result, transition‐metal dissolution, cathode surface degradation, and heterogeneous lithium deposition are effectively suppressed, leading to improved interfacial kinetics and electrochemical stability under harsh conditions. Li||NCM811 cells achieve 82.91% capacity retention after 330 cycles at 4.6 V and 82.32% after 250 cycles at 60°C and 4.5 V. In addition, a 5 Ah pouch cell with an energy density of 415 Wh kg −1 retains 83.40% of its initial capacity after 100 cycles at 4.6 V. This work highlights stereoelectronic additive engineering as an effective strategy to couple solvation regulation with dual‐interphase stabilization for practical high‐energy LMBs.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte"
-    ],
-    "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7171520068",
-    "title": "Electric‐field Self‐Regulating 3D Composite Current Collectors for Stable Flexible Lithium Metal Batteries Over 1100 Wh L −1",
-    "authors": "Shujing Wen, Chao Wang, Xinyan Li, Yichun Ding, Junhua Zhou, Jiehua Cai et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-07-28",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74338",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT High volumetric energy, flexible, and stable lithium (Li) metal batteries have received unprecedented attention in recent years because of their high demand in future robotics, wearable electronics, and electric vehicles. However, their development has been largely hindered by the use of thick Li metal anode and copper (Cu) current collector (CC), which inevitably trigger dendrite formation, massive volume expansion, and mechanical failure under deformation. To address these challenges, we report here a porous, electric‐field self‐regulating composite CC that facilitates the formation of an exceptionally dense, dendrite‐free, yet mechanically flexible Li metal anode. Structured with a three‐dimensional (3D) metal/ferroelectric polymer/metal sandwich architecture, the composite CC generates localized reverse electric fields to counteract the tip effect of dendrite formation. This self‐regulation mechanism confines dense deposition of Li metal within the middle ferroelectric polymer framework, thereby eliminating dendritic morphology while imparting remarkable mechanical flexibility. When paired with a commercial NCM 811 cathode, the resulting full cells demonstrate an ultrahigh volumetric energy density (1183 Wh L −1 ) and outstanding capacity retention (99.94 % per cycle). The battery also sustains 24 000 bending cycles without obvious capacity decay. This work demonstrates a versatile CC design strategy, paving the way toward ultrahigh‐energy and flexible energy storage devices.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface"
     ],
     "score": 6
   },
