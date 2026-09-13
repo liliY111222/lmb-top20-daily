@@ -1,5 +1,46 @@
 [
   {
+    "id": "https://openalex.org/W7212369785",
+    "title": "Mechanically Robust Sulfide Electrolyte Membrane Featuring In Situ Dendrite Depletion for High‐Stability All‐Solid‐State Lithium Metal Batteries",
+    "authors": "Yongtao Zhao, Rong Hao, Jianwei Qiu, Qianqian Fu, Jiaxuan Feng, Ning Liu et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-12",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71576",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Despite their high ionic conductivities, sulfide solid‐state electrolytes (SSEs) must reconcile ionic conductivity with mechanical integrity for ultrathin membrane fabrication when integrated into all‐solid‐state lithium metal batteries (ASSLMBs). This study reports a controllable 30 µm sandwich‑structured sulfide SSE membrane, fabricated by hot‑calendaring two Li 5.3 PS 4.3 ClBr 0.7 (LPSClBr) membranes with a poly(vinylidene fluoride‑co‑hexafluoropropylene) (PVDF‑HFP) electrospun scaffold embedded with KH‑792‑modified Li 1.3 Al 0.3 Ti 1.7 (PO 4 ) 3 (LATP@KH) nanoparticles. PVDF‑HFP network accommodates electrode volume changes, while LATP@KH nanofillers serve as fast‐ion‐conducting bridges and fill grain boundaries to suppress lithium nucleation. First‐principles calculations reveal LATP's high density of states at Fermi level (57.10), enabling a Ti 4+ /Ti 3+ redox reaction that in situ depletes infiltrating dendrites. The membrane achieves an ionic conductivity of 2.75 mS cm −1 and a critical current density of 1.0 mA cm −2 . Li symmetric cells cycle stably for over 2000 h at 0.2 mA cm −2 . LiIn||NCM811 full cells deliver 166.15 mAh g −1 at 0.2C (99.8% retention after 300 cycles) and exhibit negligible decay over 1000 cycles at 1C with ∼100% Coulombic efficiency. This work establishes a fast‐ion‐conductor‐modified polymer‐fiber composite architecture for mechanical reinforcement, in situ dendrite depletion and fast ion transport, offering a key design strategy for reliable ASSLMBs.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7212396487",
+    "title": "Lewis Acid‐Enabled Functional SEI/CEI Design for Durable Lithium Metal Batteries",
+    "authors": "Luning Miao, Li Ma, Fuchen Song, Gang Huang, Xinbo Zhang",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-12",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71548",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The development of practical lithium metal batteries requires facile strategies that simultaneously stabilize anode and cathode interfaces while eliminating their native surface oxides. However, the reported research could rarely achieve this dual functionality. Herein, we have developed a dual‐side‐modification strategy using tributylphosphonium tetrafluoroborate (TBPFB) as a Lewis acid to synchronously eliminate the heterogeneous native oxide layers and reconstruct multifunctional inorganic interfaces on both the cathode and anode. The constructed artificial interface on the lithium anode contains LiF, LiBO 2 , Li 3 P, and Li 3 PO 4 , boosting the anode stability by reducing the Li + desolvation barrier and enabling uniform Li + transport. Meanwhile, the LiF‐rich LiNi 0.8 Co 0.1 Mn 0.1 O 2 (NCM811) cathode interface suppresses side reactions and particle cracking, protecting the cathode from transition metal dissolution. Based on the benefits brought by the multifunctional interfaces, the Li||Li symmetric cells achieve a cycling lifespan of over 1700 h, while the Li||NCM811 full cells retain 77% capacity after 500 cycles. Additionally, a 2 Ah pouch cell with an energy density of 423.1 Wh kg −1 maintains over 90% capacity after 100 cycles. This work provides a simple but highly efficient surface modification strategy that stabilizes the most critical interfaces in lithium metal batteries.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7211977975",
     "title": "Reinforced Poly(Ionic Liquid)-in-Salt Electrolytes for Highly Stable Solid-State Lithium Metal Batteries",
     "authors": "Shengnan Zhang, Guifang Zeng, Jing Yu, Sharona Horta, Xuan Lu, Qing Sun et al.",
@@ -138,27 +179,6 @@
       "Solid-state LMB"
     ],
     "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7172416878",
-    "title": "Phosphonate‐Pillared High‐Entropy MXene Separator Enabling Ion‐Sieving, Flame‐Retardant, and Energy/Power‐Dense Lithium Metal Pouch Cells",
-    "authors": "Wenzhuo Tan, Jiawen Tang, Junyu Zhang, Jiefang Zhu, Yunsong Li, Ahu Shao et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-04",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74494",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Coupling Ni‐rich cathodes with lithium metal anodes offers a compelling route to high‐energy‐density batteries, yet cation crosstalk from cathode dissolution destabilizes the anode interface, accelerates dendritic protrusion, and can trigger thermal runaway. Herein, we report an ion‐sieving, flame‐retardant separator based on a phosphonate‐pillared high‐entropy (HE) MXene (TiVNbMoC 3 /Tppm) functional layer that addresses these coupled failure modes. Through topological exfoliation, tetraphosphonate (TppmH 8 ) ligands act as molecular pillars to expand the TiVNbMoC 3 interlamellar spacing to 18.5 Å, enabling a 95% yield of few‐layer (< 5 layers) nanosheets. The HE architecture constructs rapid and homogeneous Li + conduction pathways with a diffusion barrier of 0.179 eV while sequestering 82% of dissolved transition metals. The composite separator delivers an Li + transference number of 0.77, tensile strength of 95.17 MPa, and thermal stability at 180°C. The regulated nanochannels also facilitate stable interfacial chemistry at the Li‐metal anode. In 1.0 Ah NCM811||Li pouch cells under lean‐electrolyte conditions, it achieves 87.1% capacity retention after 200 cycles, gravimetric/volumetric energy densities of 411.8 Wh kg −1 /838.2 Wh L −1 , and a power density of 1127.0 W kg −1 . Phosphonate‐derived PO· radicals and MXene‐derived ceramic char synergistically suppress thermal propagation, enabling stable operation during thermal chamber testing.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Safety"
-    ],
-    "score": 3
   },
   {
     "id": "https://openalex.org/W7171993987",
