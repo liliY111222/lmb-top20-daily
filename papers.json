@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://openalex.org/W7212419643",
+    "title": "Anion‐Programmed Lewis‐Acidity‐Amplified Cellulose Separators for Dual Interphase Regulation in Li||NCM811 Batteries",
+    "authors": "Zihan Guo, Zichan Yuan, Rongfu Xu, Huang Yi, Ningxin Chen, Zhaohui Wang",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-09-13",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75004",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Separators in lithium metal batteries are typically treated as passive ion‐transport membranes, despite their strategic position between two unstable electrode‐electrolyte interfaces. Inspired by Lewis acid‐base regulation in liquid/ solid state electrolyte systems, we report an anion‐programmed, separator‐level Lewis acid‐base engineering strategy that uses sequential Lewis acid‐base interaction to amplify another Lewis‐acidity environment. In this design, ZrF 6 2− anions immobilized on cellulose‐bound Zr 4+ sites (ZrF‐CNF) redistribute electron density around the Zr 4+ ‐centered coordination environment, amplifying Lewis acidity while introducing polar fluorinated domains. Such ZrF‐CNF separator couples Li + desolvation/transport with PF 6 − enrichment/activation, thereby directing anion‐derived interphase formation at both electrodes. In Li||LiNi 0.8 Mn 0.1 Co 0.1 O 2 (NCM811) cells, ZrF‐CNF separator enables homogeneous Li deposition and a gradient LiF‐rich SEI on lithium metal, while forming a thin, dense LiF‐rich CEI on NCM811 particles. This dual‐interface regulation delivers stable Li||Li cycling over 2400 h at 1 mA cm −2 /1 mAh cm −2 , and 80.1% capacity retention over 800 cycles in Li||NCM811 cells at 1C. Furthermore, a 2.1 Ah pouch cell with ZrF‐CNF separator delivers an energy density of 383.1 Wh kg −1 and retains 94% capacity after 100 cycles at 0.3C. This work moves cellulose separators beyond physical ion transport and establishes a chemically programmable biopolymer framework for stabilizing energy‐dense lithium metal batteries.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7212369785",
     "title": "Mechanically Robust Sulfide Electrolyte Membrane Featuring In Situ Dendrite Depletion for High‐Stability All‐Solid‐State Lithium Metal Batteries",
     "authors": "Yongtao Zhao, Rong Hao, Jianwei Qiu, Qianqian Fu, Jiaxuan Feng, Ning Liu et al.",
@@ -261,27 +281,6 @@
       "Dendrite/interface",
       "Electrolyte",
       "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7166036614",
-    "title": "Molecular Interfacial Engineering of Lithiophilic Protection Layer Realizing 600 Wh kg −1 Anode‐Free Lithium Metal Batteries",
-    "authors": "Yazhan Liang, Ning Song, J Y Chen, F M Liu, Peng Wang, Jinkui Feng et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-06-25",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.73830",
-    "cited_by_count": 2,
-    "open_access": true,
-    "abstract": "ABSTRACT Anode‐free lithium (Li) metal batteries (AFLMBs) can achieve higher energy densities at lower costs and easier production processes, but the uneven plating of Li leads to dendrite growth, making safety issues unavoidable. Here, we propose a convenient and scalable molecular interface engineering strategy: the 5‐methyl‐1H‐tetrazole (MTZ) molecule forms chemically bonded, stable self‐assembled monolayer (SAMs) interface on Cu foil surfaces, thereby producing modified Cu foil (MTZ‐Cu). Anchored by strong Cu─N bonds, the SAMs not only introduce high‐density nucleation sites with molecular precision but also promote preferential decomposition of LiNO 3 in electrolytes, forming a stable solid electrolyte interface that enhances plating uniformity and reversibility. When used in combination with LiNi 0.8 Co 0.1 Mn 0.1 O 2 and LiNi 0.9 Co 0.05 Mn 0.05 O 2 cathodes, the assembled 8.44 Ah and 9.96 Ah MTZ‐Cu‐based anode‐free pouch cells achieve benchmark energy densities of 505.31 Wh kg total −1 and 605.96 Wh kg total −1 for 100 cycles, respectively. This work demonstrates the advantages of molecular interface engineering in constructing practical AFLMBs, with the potential for large‐scale production to meet commercial applications.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
-      "Safety"
     ],
     "score": 3
   }
