@@ -20,6 +20,28 @@
     "score": 3
   },
   {
+    "id": "https://openalex.org/W7212655416",
+    "title": "Trifunctional Synergy of Host‐Catalysis‐Interface Engineering for Ultrastable Lithium Metal Batteries",
+    "authors": "Xueting Liu, Hongming Tan, Liling Yi, Yuting Li, Jiajie Xu, Long Xie et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-09-13",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75023",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Utilizing ultrathin lithium metal batteries (LMBs) is highly promising for next‐generation energy storage, offering exceptional energy density and enhanced safety. However, their widespread adoption is severely hindered by poor Li plating/stripping reversibility and unstable electrode/electrolyte interfaces. In this study, an architectured current collector (CC) is designed by integrating a three‐dimensional (3D) conductive host co‐functionalized with single‐atomic Zn sites and Ag nano‐clusters (Zn 1 ‐Ag n @CP) dual active sites in conjunction with a prelithiation protocol. Advanced in situ/operando characterizations combined with density functional theory (DFT) calculations reveal that single‐atom Zn and Ag clusters effectively modulate charge distribution within the CP matrix, thereby promoting uniform Li‐ion flux and fast reaction kinetics. Specifically, Zn 1 ‐Ag n @CP induces the formation of an inorganic‐rich solid‐electrolyte interphase (SEI) that suppresses dendrite growth, while the Ag clusters catalyze solvent decomposition to generate a compact cathode‐electrolyte interphase (CEI) that limits transition metal (TM) ion migration and reinforces cathode structural stability. Consequently, the well‐orchestrated Zn 1 ‐Ag n @CP achieves reversible Li deposition with a high Coulombic efficiency (CE) of 99.91% over 900 cycles. When paired with a LiNi 0.8 Co 0.1 Mn 0.1 O 2 cathode, the system retains substantial reversible capacity after 1000 cycles at 5 C with a high CE of 99.58%, highlighting the efficacy of the integrated “host‐catalysis‐interface” synergistic strategy for high‐rate LMBs.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Safety",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7212369785",
     "title": "Mechanically Robust Sulfide Electrolyte Membrane Featuring In Situ Dendrite Depletion for High‐Stability All‐Solid‐State Lithium Metal Batteries",
     "authors": "Yongtao Zhao, Rong Hao, Jianwei Qiu, Qianqian Fu, Jiaxuan Feng, Ning Liu et al.",
@@ -52,7 +74,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/aenm.71548",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT The development of practical lithium metal batteries requires facile strategies that simultaneously stabilize anode and cathode interfaces while eliminating their native surface oxides. However, the reported research could rarely achieve this dual functionality. Herein, we have developed a dual‐side‐modification strategy using tributylphosphonium tetrafluoroborate (TBPFB) as a Lewis acid to synchronously eliminate the heterogeneous native oxide layers and reconstruct multifunctional inorganic interfaces on both the cathode and anode. The constructed artificial interface on the lithium anode contains LiF, LiBO 2 , Li 3 P, and Li 3 PO 4 , boosting the anode stability by reducing the Li + desolvation barrier and enabling uniform Li + transport. Meanwhile, the LiF‐rich LiNi 0.8 Co 0.1 Mn 0.1 O 2 (NCM811) cathode interface suppresses side reactions and particle cracking, protecting the cathode from transition metal dissolution. Based on the benefits brought by the multifunctional interfaces, the Li||Li symmetric cells achieve a cycling lifespan of over 1700 h, while the Li||NCM811 full cells retain 77% capacity after 500 cycles. Additionally, a 2 Ah pouch cell with an energy density of 423.1 Wh kg −1 maintains over 90% capacity after 100 cycles. This work provides a simple but highly efficient surface modification strategy that stabilizes the most critical interfaces in lithium metal batteries.",
     "tags": [
       "Dendrite/interface",
@@ -120,25 +142,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7204277667",
-    "title": "Design Principles of Crystal‐Transformed HOF/MOF Heterostructures for Stable Solid‐State Lithium Metal Batteries",
-    "authors": "Chaofei Guo, Yingnan Cao, Xiao Yu, Xiongwei Wu, Yangkai Ren, Yao Xiao et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-26",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74814",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT The rational design of solid‐state electrolytes (SSEs) with high ionic conductivity, interfacial robustness, and thermal stability remains a critical challenge for lithium metal batteries (LMBs). Herein, we established the crystal‐transformed hydrogen‐bonded organic framework/trinuclear Cu cluster organic framework heterostructures (HOFa/TrCuMOF 8 ) as thermally stable SSEs for LMBs. The crystal‐transformed HOF/MOF heterostructure constructs continuous low‐energy Li + transport pathways, while the pendant ‐CH 3 with strong steric hindrance induces anion adsorption to effectively suppress TFSI − migration. Meanwhile, coordination‐confined TrCu synergizes with imine (C = N) groups to create a dynamically polarized local electronic environment through Li + ‐induced charge redistribution, thereby promoting selective Li + transport. Consequently, the HOFa/TrCuMOF 8 SSEs deliver a high Li + transference number (0.94) and ionic conductivity (2.7 mS cm −1 at 30°C). Compared with polypropylene (PP) separators, the flexible HOFa/TrCuMOF 8 SSEs maintain structural integrity at high temperatures (180°C), effectively suppressing electrolyte shrinkage and thermal short‐circuit propagation. The assembled Li|HOFa/TrCuMOF 8 SSEs|LiFePO 4 LMBs achieve 97.8% capacity retention after 1000 cycles at 2 C and maintain stable cycling even at 100°C. Remarkably, the Li|HOFa/TrCuMOF 8 SSEs|NCM811 pouch cell exhibits an impressive energy density of 259.4 Wh kg −1 with enhanced thermal safety. This work provides a crystal‐transformation strategy for engineering HOF/MOF heterostructures toward thermally stable solid‐state lithium batteries.",
-    "tags": [
-      "Electrolyte",
-      "Safety"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7203872307",
     "title": "Screen-Printed Li Arrays with Reinforced Interphase as Ultrathin Anodes for High-Energy–Density Liquid- and Solid-State Batteries",
     "authors": "Wenting Liu, Zhenyao Wei, De Ning, Zhenhuan Lu, Fengping Zhang, Xuhao Wang et al.",
@@ -179,26 +182,6 @@
       "Characterization/modeling"
     ],
     "score": 9
-  },
-  {
-    "id": "https://openalex.org/W7202367461",
-    "title": "A Pyridine Mediator Enables High‐Efficiency, Long‐Cycling Anode‐Less/Free Lithium–Sulfur Batteries With Li 2 S Cathodes",
-    "authors": "Sijia Huang, Pengfei Sang, 孙昊婧, Yongzhu Fu, Xiang Li",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-12",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74616",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is a promising high‐capacity cathode material. Importantly, it can provide lithium source, enabling lithium batteries with an anode‐less/free configuration. However, Li 2 S suffers from poor conductivity, high polarization, low material utilization, as well as the shuttle effect, severely restricting the long cycling performance of batteries. Herein, lithium pyridine‐2‐thiolate (PySLi) is proposed as a multifunctional mediator for Li 2 S‐based anode‐less/free batteries. It is revealed that PySLi can modify the reaction pathway of Li 2 S, comprehensively enhancing its electrochemical redox kinetics and stability. Results show that the energy efficiency of the Li||Li 2 S cell with PySLi stabilizes at ∼80% in the full‐scale range from 0.1 C to 3 C rate, which is much higher than that without PySLi (49% at 0.1 C and 22% at 3 C). The stability of the lithium metal anode is also improved, maintaining a high coulombic efficiency of >98% for 200 cycles and stable lithium stripping/plating behavior for 1000 h. Moreover, an anode‐free battery based on Li 2 S cathode works normally for 150 cycles, and an anode‐less pouch cell retains steady performance for 200 cycles. This multifunctional mediator provides a new strategy for the application of Li 2 S and stable anode‐less/free batteries with high energy density.",
-    "tags": [
-      "Li metal anode",
-      "Plating/stripping",
-      "Solid-state LMB"
-    ],
-    "score": 6
   },
   {
     "id": "https://openalex.org/W7171993987",
