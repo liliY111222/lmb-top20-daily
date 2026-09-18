@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://openalex.org/W7213441924",
+    "title": "Fluorinated Gel Polymer Electrolytes for Lithium Metal Batteries: From Passive Protection to Adaptive Interfacial Regulation",
+    "authors": "Min Wang, Yijing Liu, Mengjie Li, Yunshan Zheng, Cuiping Han, Baohua Li",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-09-16",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74955",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Lithium metal batteries (LMBs) are promising candidates for next‐generation high‐energy‐density energy storage. However, their practical application is hindered by dendritic lithium growth and unstable electrode–electrolyte interfaces. Fluorinated gel polymer electrolytes (FGPEs) have emerged as attractive electrolyte systems because they combine enhanced safety with liquid‐like interfacial contact. Through fluorine‐mediated regulation of Li + solvation and interfacial chemistry, FGPEs can improve the stability of lithium metal anodes. This review discusses the transition of FGPEs from passive interfacial protection to dynamic interfacial regulation. A unified framework for designing adaptive interfaces is proposed, emphasizing their ability to respond to electrochemical, mechanical, and ion‐transport variations during battery operation. Recent advances in weak intermolecular interactions, molecular interfacial engineering, and functional fillers are summarized with a focus on their roles in regulating solvation structures, interphase chemistry, and Li + transport. Furthermore, emerging insights from operando characterization, multiscale simulations, and multiphysics modeling are discussed to elucidate the dynamic evolution of the solid electrolyte interphase (SEI) and lithium deposition behavior. By linking molecular interactions with interfacial evolution and electrochemical performance, this review provides design principles for developing advanced FGPEs toward practical high‐energy‐density LMBs.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Safety"
+    ],
+    "score": 6
+  },
+  {
+    "id": "https://openalex.org/W7213472940",
+    "title": "Process‐Oriented Interphase Regulation in Lithium Metal Batteries with Non‐Aqueous Liquid Electrolytes",
+    "authors": "Yingrui Liu, Shuang Liu, Sai Che, Chong Xu, Quan Xu, Yongfeng Li et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-16",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71582",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Lithium metal batteries (LMBs) are promising candidates for high‐energy‐density energy storage systems. However, their practical applications are severely hindered by interfacial instability and uncontrolled lithium deposition, which lead to dendrite growth, low Coulombic efficiency, and rapid capacity decay. In this review, we systematically analyze interfacial processes in LMBs with non‐aqueous liquid electrolytes from a process‐oriented perspective. We employ a six‐step kinetic framework involving ion transport, desolvation, interphase transport, charge transfer, nucleation, and morphological evolution. We first discuss the fundamental structure and dynamic evolution of electrode‐electrolyte interphases, followed by an overview of advanced characterization techniques across multiple length and time scales. Furthermore, recent strategies for regulating interfacial stability are critically summarized, including electrolyte additives, artificial protective layers, and solvation regulation designs. Instead of categorizing these strategies solely by materials, we emphasize their roles in regulating key kinetic steps and clarify the underlying mechanisms within the six‐step process. Finally, we highlight current challenges and future directions toward practical LMBs, including full‐cell and pouch‐cell validation, high energy density, cost reduction, and manufacturing compatibility. This work aims to provide a unified framework for understanding, characterizing, and regulating interfacial stability in lithium metal batteries.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7213243464",
     "title": "Copper‐Governed Divergence of Lithium Deposition Modes in Anode‐Free Lithium Metal Batteries",
     "authors": "Sida Huo, Li Wang, Yue Wang, Yihui Bai, Meng Li, Ming Fang et al.",
@@ -182,28 +224,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7203554675",
-    "title": "Reveal Non‐Uniform Passivation on Lithium Metal Anode With Operando Spectroscopic Ellipsometry",
-    "authors": "Jianyu Li, Hanrui Zhang, Dongliang Chen, Feifei Shi",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-08-15",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71434",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT The passivity of lithium (Li) metal anode is crucial for the safety and long‐term cycling performance of Li metal batteries (LMBs), yet the mechanism and evolution of native passivation remain poorly understood. In this work, we use operando spectroscopic ellipsometry (SE) with a real‐time, spatially resolved thickness‐mapping function to study freshly prepared Li metal anodes with/without texture control. The native passivation reaction is monitored inside an Argon glovebox with precise control of O 2 , CO 2, and H 2 O gas environment. We discovered that the nucleation and anisotropic reactivity of Li metal are the root causes for the non‐uniform distribution of the native passivation layer. The equilibrium thickness has been studied for texture effects (i.e., Li with (200) and (110) out‐of‐plane orientations) and temperature effects. The growth of the native layer is fitted by Fehlner–Mott model. We correlate the thickness of the native passivation layer with subsequent SEI evolution by analyzing electrochemical impedance spectroscopy distribution of relaxation times (EIS‐DRT) and critical current densities (CCD) in three different electrolytes. By elucidating the fundamental growth mechanisms and roles of the native passivation layer, this work reveals the origin of non‐uniform reactivities on Li metal anodes, providing a new framework for engineering stable, dendrite‐free lithium metal interfaces.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Safety",
-      "Characterization/modeling"
-    ],
-    "score": 9
-  },
-  {
     "id": "https://openalex.org/W7202367461",
     "title": "A Pyridine Mediator Enables High‐Efficiency, Long‐Cycling Anode‐Less/Free Lithium–Sulfur Batteries With Li 2 S Cathodes",
     "authors": "Sijia Huang, Pengfei Sang, 孙昊婧, Yongzhu Fu, Xiang Li",
@@ -274,7 +294,7 @@
     "date": "2026-07-14",
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.74069",
-    "cited_by_count": 0,
+    "cited_by_count": 1,
     "open_access": true,
     "abstract": "Anode-free lithium metal batteries offer high energy density and low cost, but their practical deployment is limited by unstable lithium-electrolyte interfaces and safety risks from dendrite growth and flammable electrolytes. Here, we report a dual-functional fluorinated additive that enables in situ gelation, forming a thin, inorganic-rich solid electrolyte interphase while simultaneously enhancing flame retardancy through radical capture. At 0.5 C discharge, the additive-enabled anode-free pouch cell delivers high specific capacities of 202.1 mAh/g (3.0-4.5 V) and 192.0 mAh/g (3.4-4.3 V), while retaining 80.3% and 80.1% of their initial values after 85 and 100 cycles, respectively. Moreover, Cu/NCA pouch cells with capacities of 1.4 Ah (3.0-4.5 V) and 200 mAh (3.6-4.3 V), incorporating the additive, retain 80.2% of initial capacity after 85 cycles and 92.9% after 100 cycles, respectively. Such performance is on par with or better than the best results in the literature. Impressively, such a 1.4 Ah cell shows no thermal runaway in a harsh drilling test at the fully charged state, even after 100 cycles. These results demonstrate that the dual-functional fluorine additive leads to both excellent electrochemical performance and enhanced safety, paving the way for the safe and practical application of anode-free lithium metal cells.",
     "tags": [
@@ -285,26 +305,5 @@
       "Safety"
     ],
     "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7167365904",
-    "title": "Caging Lithium Deposition: High‐Entropy Metal–Organic Framework Interfaces for Anode‐Free Batteries",
-    "authors": "Yue Wang, Yi-Xiang Wang, H Y Liu, Fei Liang, Jiaxuan Liao, Yao Yao et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-07-04",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.73908",
-    "cited_by_count": 1,
-    "open_access": true,
-    "abstract": "ABSTRACT Anode‐free lithium metal batteries (AF‐LMBs) offer high energy density systems and simplified design through the complete elimination of excess lithium. However, their practical development is hindered by sluggish lithium‐ion (Li + ) transport and uneven lithium deposition at the anode interface. Here, we introduce a nanoconfined ion‐regulator based on a high‐entropy metal–organic framework (HE‐MOF). The simulation results demonstrate that the multi‐metal channels provide heterogeneous local coordination environments, broadening the distribution of Li + binding sites, facilitating Li + migration, suppressing local ion retention, and regulating interfacial electrolyte decomposition, ultimately leading to the formation of a thin LiF‐rich SEI layer. As a result, the Li||HE‐MOF/C half‐cell delivers an initial Coulombic efficiency of 97.74% at 0.5 mA cm −2 , the HE‐MOF/C@Li symmetric cell exhibits stable cycling for over 10000 h at 60 mA cm −2 /1 mAh cm −2 , and the anode‐free HE‐MOF/C||NCM‐811 full cell remains stable for 2300 cycles with a capacity decay rate per cycle of 0.026%. This work provides a proof‐of‐concept high‐entropy MOF interfacial strategy for regulating Li deposition in AF‐LMBs.",
-    "tags": [
-      "Plating/stripping",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Characterization/modeling"
-    ],
-    "score": 3
   }
 ]
