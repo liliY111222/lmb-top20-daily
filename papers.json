@@ -144,48 +144,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7212419643",
-    "title": "Anion‐Programmed Lewis‐Acidity‐Amplified Cellulose Separators for Dual Interphase Regulation in Li||NCM811 Batteries",
-    "authors": "Zihan Guo, Zichan Yuan, Rongfu Xu, Huang Yi, Ningxin Chen, Zhaohui Wang",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-09-13",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.75004",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Separators in lithium metal batteries are typically treated as passive ion‐transport membranes, despite their strategic position between two unstable electrode‐electrolyte interfaces. Inspired by Lewis acid‐base regulation in liquid/ solid state electrolyte systems, we report an anion‐programmed, separator‐level Lewis acid‐base engineering strategy that uses sequential Lewis acid‐base interaction to amplify another Lewis‐acidity environment. In this design, ZrF 6 2− anions immobilized on cellulose‐bound Zr 4+ sites (ZrF‐CNF) redistribute electron density around the Zr 4+ ‐centered coordination environment, amplifying Lewis acidity while introducing polar fluorinated domains. Such ZrF‐CNF separator couples Li + desolvation/transport with PF 6 − enrichment/activation, thereby directing anion‐derived interphase formation at both electrodes. In Li||LiNi 0.8 Mn 0.1 Co 0.1 O 2 (NCM811) cells, ZrF‐CNF separator enables homogeneous Li deposition and a gradient LiF‐rich SEI on lithium metal, while forming a thin, dense LiF‐rich CEI on NCM811 particles. This dual‐interface regulation delivers stable Li||Li cycling over 2400 h at 1 mA cm −2 /1 mAh cm −2 , and 80.1% capacity retention over 800 cycles in Li||NCM811 cells at 1C. Furthermore, a 2.1 Ah pouch cell with ZrF‐CNF separator delivers an energy density of 383.1 Wh kg −1 and retains 94% capacity after 100 cycles at 0.3C. This work moves cellulose separators beyond physical ion transport and establishes a chemically programmable biopolymer framework for stabilizing energy‐dense lithium metal batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7212655416",
-    "title": "Trifunctional Synergy of Host‐Catalysis‐Interface Engineering for Ultrastable Lithium Metal Batteries",
-    "authors": "Xueting Liu, Hongming Tan, Liling Yi, Yuting Li, Jiajie Xu, Long Xie et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-09-13",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.75023",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Utilizing ultrathin lithium metal batteries (LMBs) is highly promising for next‐generation energy storage, offering exceptional energy density and enhanced safety. However, their widespread adoption is severely hindered by poor Li plating/stripping reversibility and unstable electrode/electrolyte interfaces. In this study, an architectured current collector (CC) is designed by integrating a three‐dimensional (3D) conductive host co‐functionalized with single‐atomic Zn sites and Ag nano‐clusters (Zn 1 ‐Ag n @CP) dual active sites in conjunction with a prelithiation protocol. Advanced in situ/operando characterizations combined with density functional theory (DFT) calculations reveal that single‐atom Zn and Ag clusters effectively modulate charge distribution within the CP matrix, thereby promoting uniform Li‐ion flux and fast reaction kinetics. Specifically, Zn 1 ‐Ag n @CP induces the formation of an inorganic‐rich solid‐electrolyte interphase (SEI) that suppresses dendrite growth, while the Ag clusters catalyze solvent decomposition to generate a compact cathode‐electrolyte interphase (CEI) that limits transition metal (TM) ion migration and reinforces cathode structural stability. Consequently, the well‐orchestrated Zn 1 ‐Ag n @CP achieves reversible Li deposition with a high Coulombic efficiency (CE) of 99.91% over 900 cycles. When paired with a LiNi 0.8 Co 0.1 Mn 0.1 O 2 cathode, the system retains substantial reversible capacity after 1000 cycles at 5 C with a high CE of 99.58%, highlighting the efficacy of the integrated “host‐catalysis‐interface” synergistic strategy for high‐rate LMBs.",
-    "tags": [
-      "Plating/stripping",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Safety",
-      "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7212396487",
     "title": "Lewis Acid‐Enabled Functional SEI/CEI Design for Durable Lithium Metal Batteries",
     "authors": "Luning Miao, Li Ma, Fuchen Song, Gang Huang, Xinbo Zhang",
@@ -201,6 +159,28 @@
     "tags": [
       "Dendrite/interface",
       "Electrolyte"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7212369785",
+    "title": "Mechanically Robust Sulfide Electrolyte Membrane Featuring In Situ Dendrite Depletion for High‐Stability All‐Solid‐State Lithium Metal Batteries",
+    "authors": "Yongtao Zhao, Rong Hao, Jianwei Qiu, Qianqian Fu, Jiaxuan Feng, Ning Liu et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-12",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71576",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Despite their high ionic conductivities, sulfide solid‐state electrolytes (SSEs) must reconcile ionic conductivity with mechanical integrity for ultrathin membrane fabrication when integrated into all‐solid‐state lithium metal batteries (ASSLMBs). This study reports a controllable 30 µm sandwich‑structured sulfide SSE membrane, fabricated by hot‑calendaring two Li 5.3 PS 4.3 ClBr 0.7 (LPSClBr) membranes with a poly(vinylidene fluoride‑co‑hexafluoropropylene) (PVDF‑HFP) electrospun scaffold embedded with KH‑792‑modified Li 1.3 Al 0.3 Ti 1.7 (PO 4 ) 3 (LATP@KH) nanoparticles. PVDF‑HFP network accommodates electrode volume changes, while LATP@KH nanofillers serve as fast‐ion‐conducting bridges and fill grain boundaries to suppress lithium nucleation. First‐principles calculations reveal LATP's high density of states at Fermi level (57.10), enabling a Ti 4+ /Ti 3+ redox reaction that in situ depletes infiltrating dendrites. The membrane achieves an ionic conductivity of 2.75 mS cm −1 and a critical current density of 1.0 mA cm −2 . Li symmetric cells cycle stably for over 2000 h at 0.2 mA cm −2 . LiIn||NCM811 full cells deliver 166.15 mAh g −1 at 0.2C (99.8% retention after 300 cycles) and exhibit negligible decay over 1000 cycles at 1C with ∼100% Coulombic efficiency. This work establishes a fast‐ion‐conductor‐modified polymer‐fiber composite architecture for mechanical reinforcement, in situ dendrite depletion and fast ion transport, offering a key design strategy for reliable ASSLMBs.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Characterization/modeling"
     ],
     "score": 3
   },
@@ -223,6 +203,25 @@
       "Safety"
     ],
     "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7211929488",
+    "title": "Composite Polymer Electrolytes With Hierarchical Confinement of Anions and Solvents for Stable Solid‐State Li Metal Batteries",
+    "authors": "Dengfeng Yu, Haocheng Yuan, Peipei Ding, Yue Li, Qian Wu, Hongcai He et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-07",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71556",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Solid‐state lithium‐metal batteries leveraging solid polymer electrolytes (SPEs) represent a promising technological pathway. Among these, polyvinylidene fluoride (PVDF)‐based SPEs are particularly noteworthy, yet they face a fundamental dilemma: electrode/electrolyte interfacial degradation from solvent‐dominated Li + coordination versus constrained Li + transport under solvent‐deficient conditions. To resolve this paradox, a 3D porous few‐layered MoS 2 was synthesized and employed as the filler in PVDF‐based SPEs. The fillers concurrently weaken Li + coordination with both FSI − and solvent through targeted dipole interactions, thereby enhancing Li + migration rate and inducing structural reorganization to anion‐dominated Li + solvation. The optimized PVDF‐based electrolyte demonstrates record‐breaking ionic conductivity (1.13 mS cm −1 ), Li + transference number (0.68), and exceptional compatibility with lithium metal anodes under solvent‐lean conditions. The LiNi 0.8 Co 0.1 Mn 0.1 O 2 ||Li cell demonstrates exceptional cycling stability, achieving a record‐high capacity retention of 90.5% after 1500 cycles at 2 C. Furthermore, practical applicability is confirmed through a 54 mAh pouch cell configuration. The ultra‐stable interfacial characteristics establish new performance benchmarks, demonstrating a viable pathway toward practical solid‐state batteries with minimal solvent dependence.",
+    "tags": [
+      "Li metal anode",
+      "Electrolyte"
+    ],
+    "score": 6
   },
   {
     "id": "https://openalex.org/W7203872307",
@@ -261,6 +260,69 @@
       "Li metal anode",
       "Plating/stripping",
       "Solid-state LMB"
+    ],
+    "score": 6
+  },
+  {
+    "id": "https://openalex.org/W7171993987",
+    "title": "Anchoring Atomic Ag in Ordered Oxygen Vacancies for High‐Performance Anode‐Free Lithium Metal Batteries",
+    "authors": "Zerun Zhang, Kangning Cai, Nanrui Li, Youlong Fang, Qi Liu, Yanqi Wu et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-07-31",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71382",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The uncontrollable growth of lithium dendrites and the formation of unstable solid electrolyte interphase (SEI) on copper current collectors remain critical challenges for the practical application of anode‐free lithium metal batteries (AFLMB). Here, we propose a facile and effective interface engineering strategy by constructing a three‐dimensional film consisting of lithiophilic nano‐sheets on copper foil (CAC@Cu). In the CAC film, Ag atoms are atomically dispersed and anchored at the oxygen vacancy sites within the CeO 2 lattice, inducing a unique atomic rearrangement that promotes highly ordered oxygen vacancy distribution. The resultant current collector exhibits exceptional lithiophilicity, significantly reducing the lithium nucleation overpotential to 23 mV and enhancing the exchange current density. These properties guide uniform and dense lithium deposition while facilitating the formation of a stable, composite SEI rich in inorganic components. Consequently, the CAC@Cu enables a high average Coulombic efficiency of 99.27% in half‐cells, remarkably stable cycling over 2500 h in symmetric cells, and significantly improved capacity retention in anode‐free LiFePO 4 and NCM811 full cells. This work provides profound insights into the mechanism of metal doping via vacancy anchoring and atomic rearrangement, offering a promising interface‐engineering approach for developing high‐performance, dendrite‐free lithium metal batteries.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 6
+  },
+  {
+    "id": "https://openalex.org/W7168275403",
+    "title": "A Rigid‐Flexible Polyinterface Enabling Molecular‐Level Dual‐Ion Regulation for Ultrastable Lithium Metal Batteries",
+    "authors": "Gaochuang He, Jianwei Guo, Lingxi Yang, Guanrong Ou, Wenjing Liu, Xin Wang",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-07-14",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74068",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT The unstable lithium metal anode plagued by dendrite growth and parasitic reactions remains a formidable barrier to realizing high‐energy‐density batteries. While artificial solid‐electrolyte interphases offer a protective strategy, most designs are limited to single‐ion regulation and fail to orchestrate the complex, dual‐ion (Li + and anion) chemistry at the molecular level. Here, we report a rationally designed polymeric artificial interphase of poly‐fluorotoluene‐triglycoldimercaptan (PFT) featuring rigid fluorinated benzene rings and flexible sulfur‐oxygen chains for synergistic dual‐ion regulation. The flexible segments enable gradient Li + coordination with differential binding energies, lowering desolvation barrier and facilitating uniform Li + transport, whereas the rigid electron‐deficient fluorinated rings trap TFSI − anions via anion‐π interactions. This dual modulation directs the in‐situ formation of a robust, LiF‐Li 2 S‐rich inorganic composite SEI, as validated by calculations and spectroscopy. The PFT‐based Li anodes exhibit exceptional stability, with symmetric cells operating over 4000 h at 1 mA cm −2 , 1 mAh cm −2 . A high‐loading LiFePO 4 full cell retains 80% capacity after 1000 cycles at 5 C, and an NCM811 pouch cell retains 85% capacity after 160 cycles at 0.5 C, demonstrating practical viability. This work establishes a molecular design principle for dual‐ion regulation via a polyinterface for high‐performance Li metal batteries.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte"
+    ],
+    "score": 9
+  },
+  {
+    "id": "https://openalex.org/W7168264566",
+    "title": "Dual‐Functional Fluorinated Additive in Gel Polymer Electrolyte for High‐Energy‐Density Anode‐Free Lithium Batteries With Enhanced Thermal Stability",
+    "authors": "Shengyu Cong, Zhenghao Yang, Han Chen, Xuhao Wan, Myeong Gyun Nam, Tong Wang et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-07-14",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74069",
+    "cited_by_count": 1,
+    "open_access": true,
+    "abstract": "Anode-free lithium metal batteries offer high energy density and low cost, but their practical deployment is limited by unstable lithium-electrolyte interfaces and safety risks from dendrite growth and flammable electrolytes. Here, we report a dual-functional fluorinated additive that enables in situ gelation, forming a thin, inorganic-rich solid electrolyte interphase while simultaneously enhancing flame retardancy through radical capture. At 0.5 C discharge, the additive-enabled anode-free pouch cell delivers high specific capacities of 202.1 mAh/g (3.0-4.5 V) and 192.0 mAh/g (3.4-4.3 V), while retaining 80.3% and 80.1% of their initial values after 85 and 100 cycles, respectively. Moreover, Cu/NCA pouch cells with capacities of 1.4 Ah (3.0-4.5 V) and 200 mAh (3.6-4.3 V), incorporating the additive, retain 80.2% of initial capacity after 85 cycles and 92.9% after 100 cycles, respectively. Such performance is on par with or better than the best results in the literature. Impressively, such a 1.4 Ah cell shows no thermal runaway in a harsh drilling test at the fully charged state, even after 100 cycles. These results demonstrate that the dual-functional fluorine additive leads to both excellent electrochemical performance and enhanced safety, paving the way for the safe and practical application of anode-free lithium metal cells.",
+    "tags": [
+      "Anode-free",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Safety"
     ],
     "score": 6
   }
