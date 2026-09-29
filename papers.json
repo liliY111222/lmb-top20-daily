@@ -21,26 +21,6 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7213899084",
-    "title": "Chemical Bonding Interface Enables Lithium Batteries to Operate Under Near‐Vacuum Conditions",
-    "authors": "Rongrong Guo, Songmei Li, Xiaoyun Xu, Wenqiang Zhang, Yi Luo, Jinyan Zhong et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-09-20",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71584",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT The reliance on high stack pressure in lithium metal batteries (LMBs) conflicts with the requirements of lightweight design and low‐pressure operating environments, motivating the development of pressure‐independent battery designs. Here, a chemical bonding interfacial prototype is proposed to substitute the physical contact interface, thereby liberating LMBs from high stacking pressures. This chemical bonding interface is constructed via strong interactions between the carbonyl groups of poly(ε‐caprolactone) segments and Li metal, manifesting as Li─O bonding interfaces. Benefiting from Li─O bonding, the PPE electrolyte exhibits a high adhesion energy of 22.44 J m −2 and a high lap shear strength of 0.31 MPa, sustaining intimate electrode–electrolyte contact without external stack pressure. In addition, the Li─O bonding interface significantly reduces the thickness of the electric double layer, achieving a 120% increase in capacitance (0.20 µF cm −2 ), thus promoting efficient transport (t Li+ = 0.7) and uniform deposition of Li + . As a result, the Li||Cu half‐cell equipped with PPE electrolyte achieves a superior coulombic efficiency of 99.78%. A pouch cell equipped with PPE electrolyte and NCM cathode demonstrates high capacity retention of 90.12% after 40 cycles at −0.1 MPa (relative to standard atmospheric pressure). This discovery offers novel insights into material and structural design for pressure‐insensitive batteries intended for high‐altitude aerospace applications.",
-    "tags": [
-      "Plating/stripping",
-      "Dendrite/interface",
-      "Electrolyte"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7213745500",
     "title": "Silver‐Decorated Graphene Mediates “Lithiene” Structured Interlayers for Ultrafast Lithium Transport in Solid‐State Batteries",
     "authors": "Huayan Huang, Zhongqin Dai, Huan Chen, Jun Jin, Ke Yue, Xiaoyang Wei et al.",
@@ -82,26 +62,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7213243464",
-    "title": "Copper‐Governed Divergence of Lithium Deposition Modes in Anode‐Free Lithium Metal Batteries",
-    "authors": "Sida Huo, Li Wang, Yue Wang, Yihui Bai, Meng Li, Ming Fang et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-09-14",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71583",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Anode‐free lithium metal batteries (AFLMBs) maximize energy density by eliminating anode host materials, but their lifetime is governed by Li deposition on the current collector (CC)—a heterogeneous nucleation and growth process. Current research mainly focuses on electrolyte or artificial interphase engineering, whereas how the CC's physical structure dictates initial deposition behavior remains unclear. Here, we show that the microstructure of Cu foils induces two distinct Li deposition modes: localized nucleation‐selective growth (LS) and distributed nucleation‐competitive coalescence (DCC). Using HLCu and nmCu as model interfaces, we elucidate the evolution pathways of these modes. By integrating AFM, iSCAT, ToF‐SIMS and operando EIS‐DRT, we reveal mode‐specific differences in nucleation sites, interfacial kinetics, and the coupling between morphology, mechanical response, and side reactions. The LS mode generates loose, non‐uniform Li deposits with strong gas evolution, whereas the DCC mode enables dense, continuous, and kinetically stable Li layers. This work demonstrates that the CC is not a passive substrate but a critical component that determines the deposition mode and performance degradation. Optimizing the physical structure of the CC interface offers a key strategy—beyond electrolyte and interphase design—for long‐life AFLMBs.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7212396487",
     "title": "Lewis Acid‐Enabled Functional SEI/CEI Design for Durable Lithium Metal Batteries",
     "authors": "Luning Miao, Li Ma, Fuchen Song, Gang Huang, Xinbo Zhang",
@@ -117,6 +77,28 @@
     "tags": [
       "Dendrite/interface",
       "Electrolyte"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7212369785",
+    "title": "Mechanically Robust Sulfide Electrolyte Membrane Featuring In Situ Dendrite Depletion for High‐Stability All‐Solid‐State Lithium Metal Batteries",
+    "authors": "Yongtao Zhao, Rong Hao, Jianwei Qiu, Qianqian Fu, Jiaxuan Feng, Ning Liu et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-12",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71576",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Despite their high ionic conductivities, sulfide solid‐state electrolytes (SSEs) must reconcile ionic conductivity with mechanical integrity for ultrathin membrane fabrication when integrated into all‐solid‐state lithium metal batteries (ASSLMBs). This study reports a controllable 30 µm sandwich‑structured sulfide SSE membrane, fabricated by hot‑calendaring two Li 5.3 PS 4.3 ClBr 0.7 (LPSClBr) membranes with a poly(vinylidene fluoride‑co‑hexafluoropropylene) (PVDF‑HFP) electrospun scaffold embedded with KH‑792‑modified Li 1.3 Al 0.3 Ti 1.7 (PO 4 ) 3 (LATP@KH) nanoparticles. PVDF‑HFP network accommodates electrode volume changes, while LATP@KH nanofillers serve as fast‐ion‐conducting bridges and fill grain boundaries to suppress lithium nucleation. First‐principles calculations reveal LATP's high density of states at Fermi level (57.10), enabling a Ti 4+ /Ti 3+ redox reaction that in situ depletes infiltrating dendrites. The membrane achieves an ionic conductivity of 2.75 mS cm −1 and a critical current density of 1.0 mA cm −2 . Li symmetric cells cycle stably for over 2000 h at 0.2 mA cm −2 . LiIn||NCM811 full cells deliver 166.15 mAh g −1 at 0.2C (99.8% retention after 300 cycles) and exhibit negligible decay over 1000 cycles at 1C with ∼100% Coulombic efficiency. This work establishes a fast‐ion‐conductor‐modified polymer‐fiber composite architecture for mechanical reinforcement, in situ dendrite depletion and fast ion transport, offering a key design strategy for reliable ASSLMBs.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Characterization/modeling"
     ],
     "score": 3
   },
@@ -180,22 +162,21 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7171993987",
-    "title": "Anchoring Atomic Ag in Ordered Oxygen Vacancies for High‐Performance Anode‐Free Lithium Metal Batteries",
-    "authors": "Zerun Zhang, Kangning Cai, Nanrui Li, Youlong Fang, Qi Liu, Yanqi Wu et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-07-31",
+    "id": "https://openalex.org/W7202367461",
+    "title": "A Pyridine Mediator Enables High‐Efficiency, Long‐Cycling Anode‐Less/Free Lithium–Sulfur Batteries With Li 2 S Cathodes",
+    "authors": "Sijia Huang, Pengfei Sang, 孙昊婧, Yongzhu Fu, Xiang Li",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-08-12",
     "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71382",
+    "doi_url": "https://doi.org/10.1002/adma.74616",
     "cited_by_count": 0,
     "open_access": false,
-    "abstract": "ABSTRACT The uncontrollable growth of lithium dendrites and the formation of unstable solid electrolyte interphase (SEI) on copper current collectors remain critical challenges for the practical application of anode‐free lithium metal batteries (AFLMB). Here, we propose a facile and effective interface engineering strategy by constructing a three‐dimensional film consisting of lithiophilic nano‐sheets on copper foil (CAC@Cu). In the CAC film, Ag atoms are atomically dispersed and anchored at the oxygen vacancy sites within the CeO 2 lattice, inducing a unique atomic rearrangement that promotes highly ordered oxygen vacancy distribution. The resultant current collector exhibits exceptional lithiophilicity, significantly reducing the lithium nucleation overpotential to 23 mV and enhancing the exchange current density. These properties guide uniform and dense lithium deposition while facilitating the formation of a stable, composite SEI rich in inorganic components. Consequently, the CAC@Cu enables a high average Coulombic efficiency of 99.27% in half‐cells, remarkably stable cycling over 2500 h in symmetric cells, and significantly improved capacity retention in anode‐free LiFePO 4 and NCM811 full cells. This work provides profound insights into the mechanism of metal doping via vacancy anchoring and atomic rearrangement, offering a promising interface‐engineering approach for developing high‐performance, dendrite‐free lithium metal batteries.",
+    "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is a promising high‐capacity cathode material. Importantly, it can provide lithium source, enabling lithium batteries with an anode‐less/free configuration. However, Li 2 S suffers from poor conductivity, high polarization, low material utilization, as well as the shuttle effect, severely restricting the long cycling performance of batteries. Herein, lithium pyridine‐2‐thiolate (PySLi) is proposed as a multifunctional mediator for Li 2 S‐based anode‐less/free batteries. It is revealed that PySLi can modify the reaction pathway of Li 2 S, comprehensively enhancing its electrochemical redox kinetics and stability. Results show that the energy efficiency of the Li||Li 2 S cell with PySLi stabilizes at ∼80% in the full‐scale range from 0.1 C to 3 C rate, which is much higher than that without PySLi (49% at 0.1 C and 22% at 3 C). The stability of the lithium metal anode is also improved, maintaining a high coulombic efficiency of >98% for 200 cycles and stable lithium stripping/plating behavior for 1000 h. Moreover, an anode‐free battery based on Li 2 S cathode works normally for 150 cycles, and an anode‐less pouch cell retains steady performance for 200 cycles. This multifunctional mediator provides a new strategy for the application of Li 2 S and stable anode‐less/free batteries with high energy density.",
     "tags": [
+      "Li metal anode",
       "Plating/stripping",
-      "Dendrite/interface",
-      "Electrolyte",
       "Solid-state LMB"
     ],
     "score": 6
