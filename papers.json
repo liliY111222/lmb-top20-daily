@@ -21,6 +21,27 @@
     "score": 3
   },
   {
+    "id": "https://openalex.org/W7214519475",
+    "title": "“Lithium‐Free” Anode Solid‐State Batteries Enabled by 3D Structured Miec Garnet",
+    "authors": "G. V. Alexander, Aoife M. Zuercher, Jay Yvonne Easter, Christopher Tang, William Schubert, J. Evans Gritton et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-27",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71648",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Inhomogeneous lithium nucleation at the current collector‐solid electrolyte interface leads to unstable lithium growth and poor reversibility in “lithium‐free” solid‐state batteries. Here we show that stable lithium formation occurs within a mixed ionic and electronic conducting (MIEC) garnet scaffold. The intrinsic electronic conductivity of the porous framework enables lithium to nucleate uniformly along internal pore surfaces, rapidly forming a conformal lithium coating, thus establishing electronic connectivity at very low lithium volume fraction. This uniform lithium formation dramatically lowers anode impedance, enabling reversible lithium plating and stripping with Coulombic efficiencies of a previously unheard‐of 99.95%. When paired with NMC811 cathodes, bilayer (MIEC(P)‐LLZ(D)) “lithium‐free” full cells exhibit stable, highly reversible cycling at practical current densities, all at room temperature with no applied pressure. The interplay between lithium volume fraction and impedance is quantitatively modeled, transforming the understanding of lithium nucleation in a “lithium‐free” cell from an empirical interface problem to a percolation‐governed transport process, guiding the design of electronically percolating scaffolds for next‐generation solid‐state batteries.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7213967399",
     "title": "Materials‐Property Classification of Interlayers for Stabilizing Lithium Metal Interfaces in Sulfide‐Based All‐Solid‐State Batteries",
     "authors": "Jeonghun Lee, Minseok Ko, Jaekyung Sung",
@@ -144,6 +165,67 @@
     "score": 3
   },
   {
+    "id": "https://openalex.org/W7212369785",
+    "title": "Mechanically Robust Sulfide Electrolyte Membrane Featuring In Situ Dendrite Depletion for High‐Stability All‐Solid‐State Lithium Metal Batteries",
+    "authors": "Yongtao Zhao, Rong Hao, Jianwei Qiu, Qianqian Fu, Jiaxuan Feng, Ning Liu et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-12",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71576",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Despite their high ionic conductivities, sulfide solid‐state electrolytes (SSEs) must reconcile ionic conductivity with mechanical integrity for ultrathin membrane fabrication when integrated into all‐solid‐state lithium metal batteries (ASSLMBs). This study reports a controllable 30 µm sandwich‑structured sulfide SSE membrane, fabricated by hot‑calendaring two Li 5.3 PS 4.3 ClBr 0.7 (LPSClBr) membranes with a poly(vinylidene fluoride‑co‑hexafluoropropylene) (PVDF‑HFP) electrospun scaffold embedded with KH‑792‑modified Li 1.3 Al 0.3 Ti 1.7 (PO 4 ) 3 (LATP@KH) nanoparticles. PVDF‑HFP network accommodates electrode volume changes, while LATP@KH nanofillers serve as fast‐ion‐conducting bridges and fill grain boundaries to suppress lithium nucleation. First‐principles calculations reveal LATP's high density of states at Fermi level (57.10), enabling a Ti 4+ /Ti 3+ redox reaction that in situ depletes infiltrating dendrites. The membrane achieves an ionic conductivity of 2.75 mS cm −1 and a critical current density of 1.0 mA cm −2 . Li symmetric cells cycle stably for over 2000 h at 0.2 mA cm −2 . LiIn||NCM811 full cells deliver 166.15 mAh g −1 at 0.2C (99.8% retention after 300 cycles) and exhibit negligible decay over 1000 cycles at 1C with ∼100% Coulombic efficiency. This work establishes a fast‐ion‐conductor‐modified polymer‐fiber composite architecture for mechanical reinforcement, in situ dendrite depletion and fast ion transport, offering a key design strategy for reliable ASSLMBs.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7211977975",
+    "title": "Reinforced Poly(Ionic Liquid)-in-Salt Electrolytes for Highly Stable Solid-State Lithium Metal Batteries",
+    "authors": "Shengnan Zhang, Guifang Zeng, Jing Yu, Sharona Horta, Xuan Lu, Qing Sun et al.",
+    "journal": "Advanced Fiber Materials",
+    "journal_rank": 19,
+    "issn": "2524-7921",
+    "date": "2026-09-08",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1007/s42765-026-00775-2",
+    "cited_by_count": 1,
+    "open_access": true,
+    "abstract": "Solid-state polymer electrolytes (SPEs) are promising for high-safety, high-energy-density lithium metal batteries, but their adoption is limited by low room-temperature ionic conductivity and insufficient mechanical robustness. This study reports an improved SPE architecture consisting of a three-dimensional (3D) polyacrylonitrile (PAN)–Li 6.4 La 3 Zr 1.4 Ta 0.6 O 12 (LLZTO) fibrous skeleton infused with a polymer electrolyte ionic liquid (PIL), which promotes lithium-salt dissociation, accelerates Li + transport, and enhances mechanical strength. The resulting SPE achieves an ionic conductivity of up to 0.51 mS cm −1 . Li|Li symmetric cells using a 40-µm-thick SPE cycle stably for 2500 h at 0.2 mA cm −2 with a low overpotential of 30 mV. In Li|LiFePO 4 (LFP) full cells, the electrolyte enables 86.8% capacity retention after 1000 cycles at 0.5 C and maintains stable operation at 130 °C. Flexible pouch-cell tests further confirm improved safety and durability under harsh conditions, highlighting the potential of this SPE design for high-voltage lithium metal batteries.",
+    "tags": [
+      "Electrolyte",
+      "Solid-state LMB",
+      "Safety"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7211929488",
+    "title": "Composite Polymer Electrolytes With Hierarchical Confinement of Anions and Solvents for Stable Solid‐State Li Metal Batteries",
+    "authors": "Dengfeng Yu, Haocheng Yuan, Peipei Ding, Yue Li, Qian Wu, Hongcai He et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-07",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71556",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Solid‐state lithium‐metal batteries leveraging solid polymer electrolytes (SPEs) represent a promising technological pathway. Among these, polyvinylidene fluoride (PVDF)‐based SPEs are particularly noteworthy, yet they face a fundamental dilemma: electrode/electrolyte interfacial degradation from solvent‐dominated Li + coordination versus constrained Li + transport under solvent‐deficient conditions. To resolve this paradox, a 3D porous few‐layered MoS 2 was synthesized and employed as the filler in PVDF‐based SPEs. The fillers concurrently weaken Li + coordination with both FSI − and solvent through targeted dipole interactions, thereby enhancing Li + migration rate and inducing structural reorganization to anion‐dominated Li + solvation. The optimized PVDF‐based electrolyte demonstrates record‐breaking ionic conductivity (1.13 mS cm −1 ), Li + transference number (0.68), and exceptional compatibility with lithium metal anodes under solvent‐lean conditions. The LiNi 0.8 Co 0.1 Mn 0.1 O 2 ||Li cell demonstrates exceptional cycling stability, achieving a record‐high capacity retention of 90.5% after 1500 cycles at 2 C. Furthermore, practical applicability is confirmed through a 54 mAh pouch cell configuration. The ultra‐stable interfacial characteristics establish new performance benchmarks, demonstrating a viable pathway toward practical solid‐state batteries with minimal solvent dependence.",
+    "tags": [
+      "Li metal anode",
+      "Electrolyte"
+    ],
+    "score": 6
+  },
+  {
     "id": "https://openalex.org/W7203872307",
     "title": "Screen-Printed Li Arrays with Reinforced Interphase as Ultrathin Anodes for High-Energy–Density Liquid- and Solid-State Batteries",
     "authors": "Wenting Liu, Zhenyao Wei, De Ning, Zhenhuan Lu, Fengping Zhang, Xuhao Wang et al.",
@@ -162,6 +244,26 @@
       "Solid-state LMB"
     ],
     "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7202367461",
+    "title": "A Pyridine Mediator Enables High‐Efficiency, Long‐Cycling Anode‐Less/Free Lithium–Sulfur Batteries With Li 2 S Cathodes",
+    "authors": "Sijia Huang, Pengfei Sang, 孙昊婧, Yongzhu Fu, Xiang Li",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-08-12",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.74616",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is a promising high‐capacity cathode material. Importantly, it can provide lithium source, enabling lithium batteries with an anode‐less/free configuration. However, Li 2 S suffers from poor conductivity, high polarization, low material utilization, as well as the shuttle effect, severely restricting the long cycling performance of batteries. Herein, lithium pyridine‐2‐thiolate (PySLi) is proposed as a multifunctional mediator for Li 2 S‐based anode‐less/free batteries. It is revealed that PySLi can modify the reaction pathway of Li 2 S, comprehensively enhancing its electrochemical redox kinetics and stability. Results show that the energy efficiency of the Li||Li 2 S cell with PySLi stabilizes at ∼80% in the full‐scale range from 0.1 C to 3 C rate, which is much higher than that without PySLi (49% at 0.1 C and 22% at 3 C). The stability of the lithium metal anode is also improved, maintaining a high coulombic efficiency of >98% for 200 cycles and stable lithium stripping/plating behavior for 1000 h. Moreover, an anode‐free battery based on Li 2 S cathode works normally for 150 cycles, and an anode‐less pouch cell retains steady performance for 200 cycles. This multifunctional mediator provides a new strategy for the application of Li 2 S and stable anode‐less/free batteries with high energy density.",
+    "tags": [
+      "Li metal anode",
+      "Plating/stripping",
+      "Solid-state LMB"
+    ],
+    "score": 6
   },
   {
     "id": "https://openalex.org/W7171993987",
