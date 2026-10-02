@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://openalex.org/W7214940157",
+    "title": "Interferometric Scattering Microscopy (iSCAT): A Perspective on Visualizing and Engineering Electrode Homogeneity for Advanced Lithium‐Ion Batteries",
+    "authors": "Hong yuan Zhao, Lingzhi Zhao, Zhibei Liu, Li Wang, Xiangming He",
+    "journal": "Carbon Energy",
+    "journal_rank": 14,
+    "issn": "2096-9570",
+    "date": "2026-09-30",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/cey2.70338",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Electrode homogeneity, specifically the uniform distribution of lithium ions and state of charge (SOC), is paramount to unlocking the full performance, safety, and longevity potential of lithium‐ion batteries. SOC heterogeneity triggers detrimental local phenomena such as particle fracture, lithium plating, and accelerated degradation, which become critical bottlenecks for next‐generation high‐energy and fast‐charging batteries. Although formidable, this challenge can be addressed through advanced characterization that links microscopic dynamics to macroscopic design. This Perspective highlights interferometric scattering microscopy (iSCAT) as a transformative, lab‐accessible optical technique capable of real‐time, nanoscale visualization of lithiation dynamics and phase transitions within individual electrode particles under operando conditions. We elucidate how iSCAT uniquely quantifies lithiation fronts, domain formation, and particle‐to‐particle variability, revealing the origins of heterogeneity rooted in crystallographic orientation, electrode architecture, and kinetic limitations. Crucially, these nanoscopic insights directly inform rational electrode design strategies, including functionally graded architectures and low‐tortuosity structures, to spatially homogenize electrochemical reactions. We conclude by outlining the integration of iSCAT with multi‐modal characterization and machine learning, projecting its pivotal role in accelerating the development of high‐performance, durable energy storage systems.",
+    "tags": [
+      "Plating/stripping",
+      "Safety",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7214527911",
     "title": "Fluorination‐Tuned Covalent Organic Framework Interphases for Controllable LiF Content in Dendrite‐Free Lithium Metal Batteries",
     "authors": "Haiye Zhu, Lei Qiu, Jie Cui, Qi An, Guiquan Zhao, Guiquan Zhao et al.",
