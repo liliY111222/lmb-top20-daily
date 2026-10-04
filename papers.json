@@ -124,28 +124,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7213441924",
-    "title": "Fluorinated Gel Polymer Electrolytes for Lithium Metal Batteries: From Passive Protection to Adaptive Interfacial Regulation",
-    "authors": "Min Wang, Yijing Liu, Mengjie Li, Yunshan Zheng, Cuiping Han, Baohua Li",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-09-16",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74955",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Lithium metal batteries (LMBs) are promising candidates for next‐generation high‐energy‐density energy storage. However, their practical application is hindered by dendritic lithium growth and unstable electrode–electrolyte interfaces. Fluorinated gel polymer electrolytes (FGPEs) have emerged as attractive electrolyte systems because they combine enhanced safety with liquid‐like interfacial contact. Through fluorine‐mediated regulation of Li + solvation and interfacial chemistry, FGPEs can improve the stability of lithium metal anodes. This review discusses the transition of FGPEs from passive interfacial protection to dynamic interfacial regulation. A unified framework for designing adaptive interfaces is proposed, emphasizing their ability to respond to electrochemical, mechanical, and ion‐transport variations during battery operation. Recent advances in weak intermolecular interactions, molecular interfacial engineering, and functional fillers are summarized with a focus on their roles in regulating solvation structures, interphase chemistry, and Li + transport. Furthermore, emerging insights from operando characterization, multiscale simulations, and multiphysics modeling are discussed to elucidate the dynamic evolution of the solid electrolyte interphase (SEI) and lithium deposition behavior. By linking molecular interactions with interfacial evolution and electrochemical performance, this review provides design principles for developing advanced FGPEs toward practical high‐energy‐density LMBs.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
-      "Safety"
-    ],
-    "score": 6
-  },
-  {
     "id": "https://openalex.org/W7213243464",
     "title": "Copper‐Governed Divergence of Lithium Deposition Modes in Anode‐Free Lithium Metal Batteries",
     "authors": "Sida Huo, Li Wang, Yue Wang, Yihui Bai, Meng Li, Ming Fang et al.",
@@ -225,25 +203,6 @@
       "Safety"
     ],
     "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7211929488",
-    "title": "Composite Polymer Electrolytes With Hierarchical Confinement of Anions and Solvents for Stable Solid‐State Li Metal Batteries",
-    "authors": "Dengfeng Yu, Haocheng Yuan, Peipei Ding, Yue Li, Qian Wu, Hongcai He et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-09-07",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71556",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Solid‐state lithium‐metal batteries leveraging solid polymer electrolytes (SPEs) represent a promising technological pathway. Among these, polyvinylidene fluoride (PVDF)‐based SPEs are particularly noteworthy, yet they face a fundamental dilemma: electrode/electrolyte interfacial degradation from solvent‐dominated Li + coordination versus constrained Li + transport under solvent‐deficient conditions. To resolve this paradox, a 3D porous few‐layered MoS 2 was synthesized and employed as the filler in PVDF‐based SPEs. The fillers concurrently weaken Li + coordination with both FSI − and solvent through targeted dipole interactions, thereby enhancing Li + migration rate and inducing structural reorganization to anion‐dominated Li + solvation. The optimized PVDF‐based electrolyte demonstrates record‐breaking ionic conductivity (1.13 mS cm −1 ), Li + transference number (0.68), and exceptional compatibility with lithium metal anodes under solvent‐lean conditions. The LiNi 0.8 Co 0.1 Mn 0.1 O 2 ||Li cell demonstrates exceptional cycling stability, achieving a record‐high capacity retention of 90.5% after 1500 cycles at 2 C. Furthermore, practical applicability is confirmed through a 54 mAh pouch cell configuration. The ultra‐stable interfacial characteristics establish new performance benchmarks, demonstrating a viable pathway toward practical solid‐state batteries with minimal solvent dependence.",
-    "tags": [
-      "Li metal anode",
-      "Electrolyte"
-    ],
-    "score": 6
   },
   {
     "id": "https://openalex.org/W7203872307",
