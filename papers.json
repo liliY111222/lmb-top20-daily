@@ -185,26 +185,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7211977975",
-    "title": "Reinforced Poly(Ionic Liquid)-in-Salt Electrolytes for Highly Stable Solid-State Lithium Metal Batteries",
-    "authors": "Shengnan Zhang, Guifang Zeng, Jing Yu, Sharona Horta, Xuan Lu, Qing Sun et al.",
-    "journal": "Advanced Fiber Materials",
-    "journal_rank": 19,
-    "issn": "2524-7921",
-    "date": "2026-09-08",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1007/s42765-026-00775-2",
-    "cited_by_count": 1,
-    "open_access": true,
-    "abstract": "Solid-state polymer electrolytes (SPEs) are promising for high-safety, high-energy-density lithium metal batteries, but their adoption is limited by low room-temperature ionic conductivity and insufficient mechanical robustness. This study reports an improved SPE architecture consisting of a three-dimensional (3D) polyacrylonitrile (PAN)–Li 6.4 La 3 Zr 1.4 Ta 0.6 O 12 (LLZTO) fibrous skeleton infused with a polymer electrolyte ionic liquid (PIL), which promotes lithium-salt dissociation, accelerates Li + transport, and enhances mechanical strength. The resulting SPE achieves an ionic conductivity of up to 0.51 mS cm −1 . Li|Li symmetric cells using a 40-µm-thick SPE cycle stably for 2500 h at 0.2 mA cm −2 with a low overpotential of 30 mV. In Li|LiFePO 4 (LFP) full cells, the electrolyte enables 86.8% capacity retention after 1000 cycles at 0.5 C and maintains stable operation at 130 °C. Flexible pouch-cell tests further confirm improved safety and durability under harsh conditions, highlighting the potential of this SPE design for high-voltage lithium metal batteries.",
-    "tags": [
-      "Electrolyte",
-      "Solid-state LMB",
-      "Safety"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7203872307",
     "title": "Screen-Printed Li Arrays with Reinforced Interphase as Ultrathin Anodes for High-Energy–Density Liquid- and Solid-State Batteries",
     "authors": "Wenting Liu, Zhenyao Wei, De Ning, Zhenhuan Lu, Fengping Zhang, Xuhao Wang et al.",
