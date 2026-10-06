@@ -163,28 +163,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7212369785",
-    "title": "Mechanically Robust Sulfide Electrolyte Membrane Featuring In Situ Dendrite Depletion for High‐Stability All‐Solid‐State Lithium Metal Batteries",
-    "authors": "Yongtao Zhao, Rong Hao, Jianwei Qiu, Qianqian Fu, Jiaxuan Feng, Ning Liu et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-09-12",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71576",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Despite their high ionic conductivities, sulfide solid‐state electrolytes (SSEs) must reconcile ionic conductivity with mechanical integrity for ultrathin membrane fabrication when integrated into all‐solid‐state lithium metal batteries (ASSLMBs). This study reports a controllable 30 µm sandwich‑structured sulfide SSE membrane, fabricated by hot‑calendaring two Li 5.3 PS 4.3 ClBr 0.7 (LPSClBr) membranes with a poly(vinylidene fluoride‑co‑hexafluoropropylene) (PVDF‑HFP) electrospun scaffold embedded with KH‑792‑modified Li 1.3 Al 0.3 Ti 1.7 (PO 4 ) 3 (LATP@KH) nanoparticles. PVDF‑HFP network accommodates electrode volume changes, while LATP@KH nanofillers serve as fast‐ion‐conducting bridges and fill grain boundaries to suppress lithium nucleation. First‐principles calculations reveal LATP's high density of states at Fermi level (57.10), enabling a Ti 4+ /Ti 3+ redox reaction that in situ depletes infiltrating dendrites. The membrane achieves an ionic conductivity of 2.75 mS cm −1 and a critical current density of 1.0 mA cm −2 . Li symmetric cells cycle stably for over 2000 h at 0.2 mA cm −2 . LiIn||NCM811 full cells deliver 166.15 mAh g −1 at 0.2C (99.8% retention after 300 cycles) and exhibit negligible decay over 1000 cycles at 1C with ∼100% Coulombic efficiency. This work establishes a fast‐ion‐conductor‐modified polymer‐fiber composite architecture for mechanical reinforcement, in situ dendrite depletion and fast ion transport, offering a key design strategy for reliable ASSLMBs.",
-    "tags": [
-      "Plating/stripping",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
-      "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7203872307",
     "title": "Screen-Printed Li Arrays with Reinforced Interphase as Ultrathin Anodes for High-Energy–Density Liquid- and Solid-State Batteries",
     "authors": "Wenting Liu, Zhenyao Wei, De Ning, Zhenhuan Lu, Fengping Zhang, Xuhao Wang et al.",
