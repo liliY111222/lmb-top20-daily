@@ -1,5 +1,21 @@
 [
   {
+    "id": "https://openalex.org/W7220375048",
+    "title": "Stereochemical origin of potential hysteresis in lithium metal batteries with lithium-rich cation-disordered rocksalt positive electrodes",
+    "authors": "Yu Mei, Fanjie Xia, Hongyi Chen, Yujin Li, Jinqiang Gao, Kefu Zhu et al.",
+    "journal": "Nature Nanotechnology",
+    "journal_rank": 8,
+    "issn": "1748-3387",
+    "date": "2026-10-05",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1038/s41565-026-02301-2",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "",
+    "tags": [],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7214940157",
     "title": "Interferometric Scattering Microscopy (iSCAT): A Perspective on Visualizing and Engineering Electrode Homogeneity for Advanced Lithium‐Ion Batteries",
     "authors": "Hong yuan Zhao, Lingzhi Zhao, Zhibei Liu, Li Wang, Xiangming He",
@@ -15,27 +31,6 @@
     "tags": [
       "Plating/stripping",
       "Safety",
-      "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7214527911",
-    "title": "Fluorination‐Tuned Covalent Organic Framework Interphases for Controllable LiF Content in Dendrite‐Free Lithium Metal Batteries",
-    "authors": "Haiye Zhu, Lei Qiu, Jie Cui, Qi An, Guiquan Zhao, Guiquan Zhao et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-09-27",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71635",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT To tackle the challenge of precisely regulating LiF content within the solid electrolyte interphase (SEI) of high‐energy‐density lithium metal batteries (LMBs), this work presents a fluorination‐gradient design strategy, enabling controllable LiF formation through a covalent organic framework‐based artificial SEI layer (0F‐, 2F‐, and 4F‐COF), and lays the foundation for uncovering the interfacial regulation mechanism. Density functional theory calculations reveal that the electron‐withdrawing F group not only forms an ultra‐low HOMO energy orbital but also promotes the dissociation of LiPF 6 via charge delocalization, enabling an oxidation stability of up to 5.4 V (vs. Li + /Li). Consequently, the Li||Li symmetric cell sustains stable cycling for over 6000 h at 1 mA·cm −2 , while 4F‐COF@Li cell enables capacity retentions of 90.0% (LiFePO 4 , 1000 cycles), 80.5% (LiNi 0.8 Co 0.1 Mn 0.1 O 2 , 300 cycles), and 70.1% (LiNi 0.9 Co 0.09 Mo 0.01 O 2 , 300 cycles) at 5 C. Ab initio molecular dynamics simulations combined with in situ characterizations further reveal that F‐rich microenvironment of 4F‐COF accelerates LiPF 6 dissociation and inhibits dendrite growth while directing the formation of a robust LiF‐rich SEI interphase. Overall, this work establishes precision fluorination of COF‐based artificial SEI layers as a new design strategy for developing safe, high‐rate, and dendrite‐free LMBs.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
       "Characterization/modeling"
     ],
     "score": 3
