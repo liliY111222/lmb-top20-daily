@@ -16,6 +16,28 @@
     "score": 3
   },
   {
+    "id": "https://openalex.org/W7220742457",
+    "title": "Mass‐Charge Regulatory Microdomains Enable Coupled Structural and Interfacial Stabilization of Durable 3D Lithium Metal Anodes",
+    "authors": "Jiajie Pan, Jieying Hua, Yusi Wang, Haoan Yuan, Junhao Li, Kaixiang Shi et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-05",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75218",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Three‐dimensional (3D) architectures can stabilize lithium (Li) metal anodes (LMAs) by mitigating localized charge accumulation and volume fluctuation, but the enlarged anode/electrolyte interfaces aggravate parasitic reactions and unstable solid electrolyte interphase (SEI) evolution. In this study, we constructed a mass‐charge regulatory microdomain‐functionalized LMA (MCRM‐Li) by mechanically integrating a hierarchically structured NiS x framework with Li foil to address this structure‐interface dilemma. The embedded conductive matrix partitions bulk Li into ordered microdomains and establishes an interconnected electron transport network to dissipate localized current density. Simultaneously, the in situ formed Li 2 S‐rich interphase suppresses solvent attack and induces Li 2 S/LiF‐enriched SEI formation during cycling, thereby homogenizing Li + flux and facilitating interfacial Li + diffusion. Consequently, the symmetric cell based on MCRM‐Li delivers an ultralong lifespan of over 5380 h with dendrite‐free Li deposition. Moreover, LiFePO 4 full cells retain 94.1% capacity after 1000 cycles at 2 C. This work provides a coupled structural‐interfacial design paradigm for durable lithium metal batteries through regional control of electric‐field distribution and interfacial mass transfer in operating 3D LMAs.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Characterization/modeling"
+    ],
+    "score": 6
+  },
+  {
     "id": "https://openalex.org/W7214940157",
     "title": "Interferometric Scattering Microscopy (iSCAT): A Perspective on Visualizing and Engineering Electrode Homogeneity for Advanced Lithium‐Ion Batteries",
     "authors": "Hong yuan Zhao, Lingzhi Zhao, Zhibei Liu, Li Wang, Xiangming He",
