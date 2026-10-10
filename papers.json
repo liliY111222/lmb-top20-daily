@@ -1,5 +1,44 @@
 [
   {
+    "id": "https://openalex.org/W7220986662",
+    "title": "Polypyrrole as Dissociation Promoter and Interface Stabilizer of Solid Polymer Electrolytes for Solid‐State Li Metal Batteries",
+    "authors": "Zewen Sun, Xiaotong Zhang, Wenjie Zhang, Qiyue Chen, Lijun Fu, Xinhai Yuan et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-08",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75225",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Advanced solid polymer electrolytes (SPEs) are indispensable for enabling durable, safe, and high‐energy‐density solid‐state lithium metal batteries (SSLMBs). However, the concurrent optimization of lithium‐salt dissociation, Li + transport, and lithium‐metal interfacial chemistry remains a challenge over decades. In this study, a PPy‐regulated solid polymer electrolyte (PPyPL) featuring chemically differentiated coordination sites is developed to reconstruct ion‐solvation chemistry through site‐selective Li + /anion coordination. The resulting coordination architecture affords differentiated molecular interactions in which pyrrolic nitrogen sites preferentially coordinate Li + , whereas hydrogen sites along the PPy backbone interact with bis(trifluoromethanesulfonyl)imide (TFSI − ) anions, thereby simultaneously promoting lithium‐salt dissociation, accelerating Li + transport, and directing LiF/Li 3 N‐rich interphase formation. Benefiting from the synergistic regulation of ion‐solvation chemistry and interfacial evolution, PPyPL achieves an ionic conductivity of 0.76 mS cm −1 at room temperature (25°C), a Li + transference number of 0.65, and ultralong Li plating/stripping stability over 8000 h. It further enables outstanding rate capability and durable cycling in both Li||LiFePO 4 (LFP) and Li||LiNi 0.8 Co 0.1 Mn 0.1 O 2 (NCM811) solid‐state full cells. This work provides a new strategy for regulating Li + /anion coordination in advanced SPEs toward durable SSLMBs.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte"
+    ],
+    "score": 6
+  },
+  {
+    "id": "https://openalex.org/W7220999763",
+    "title": "Janus Ag Nanoskin‐Armored Polyimide Bilayer Separator Enables Efficient Li‐Nucleation Regulation for Dendrite‐Free Lithium Metal Battery",
+    "authors": "Pengpeng Li, Xinluo Li, Qingsong Zhang, Yisong Zhou, Junyi Han, Nianyu Yue et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-07",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71684",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Uncontrolled lithium (Li) dendrite growth has been regarded as the most critical obstacle for the widespread adoption of Li metal batteries (LMBs), stemming from the preferential nucleation of Li ions (Li + ) at low‐energy‐barrier sites that trigger heterogeneous deposition. Therefore, it is pivotal yet significantly challenging to effectively control Li nucleation and deposition in LMBs. Here, we engineer a Janus Ag nanoskin‐armored polyimide (Ag@PI/PI) bilayer separator by in situ growth Ag nanoparticles on the surface of PI nanofiber and integrating a high‐strength PI nanofiber membrane as the dorsal substrate. Specifically, the Ag nanoskin acts as a three‐dimensional lithiophilic host to seize Li and induce sequential Li nucleation, thereby preventing Li dendrite formation. As a result, the Ag@PI/PI‐Li||Cu cell exhibits a low overpotential of 31.0 mV, high Coulombic efficiency of 98.9%, and prolonged Sand's time of 26.3 h. Significantly, the Ag@PI/PI separator delivers a high Li + transference number (0.70) and exceptional cycling stability (1600 h) in a Li||Li cell. Moreover, the Ag@PI/PI‐based Li||NCM523 cell achieves a remarkable specific capacity of 108.32 mAh g −1 at 5 C while retaining a satisfying capacity retention of 88.7% at 1 C. These results underscore the viability of this universal and efficient Ag nanoskin‐armored strategy for high‐security LMBs applications.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Characterization/modeling"
+    ],
+    "score": 6
+  },
+  {
     "id": "https://openalex.org/W7220375048",
     "title": "Stereochemical origin of potential hysteresis in lithium metal batteries with lithium-rich cation-disordered rocksalt positive electrodes",
     "authors": "Yu Mei, Fanjie Xia, Hongyi Chen, Yujin Li, Jinqiang Gao, Kefu Zhu et al.",
