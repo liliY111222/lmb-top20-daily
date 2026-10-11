@@ -10,7 +10,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.75225",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT Advanced solid polymer electrolytes (SPEs) are indispensable for enabling durable, safe, and high‐energy‐density solid‐state lithium metal batteries (SSLMBs). However, the concurrent optimization of lithium‐salt dissociation, Li + transport, and lithium‐metal interfacial chemistry remains a challenge over decades. In this study, a PPy‐regulated solid polymer electrolyte (PPyPL) featuring chemically differentiated coordination sites is developed to reconstruct ion‐solvation chemistry through site‐selective Li + /anion coordination. The resulting coordination architecture affords differentiated molecular interactions in which pyrrolic nitrogen sites preferentially coordinate Li + , whereas hydrogen sites along the PPy backbone interact with bis(trifluoromethanesulfonyl)imide (TFSI − ) anions, thereby simultaneously promoting lithium‐salt dissociation, accelerating Li + transport, and directing LiF/Li 3 N‐rich interphase formation. Benefiting from the synergistic regulation of ion‐solvation chemistry and interfacial evolution, PPyPL achieves an ionic conductivity of 0.76 mS cm −1 at room temperature (25°C), a Li + transference number of 0.65, and ultralong Li plating/stripping stability over 8000 h. It further enables outstanding rate capability and durable cycling in both Li||LiFePO 4 (LFP) and Li||LiNi 0.8 Co 0.1 Mn 0.1 O 2 (NCM811) solid‐state full cells. This work provides a new strategy for regulating Li + /anion coordination in advanced SPEs toward durable SSLMBs.",
     "tags": [
       "Dendrite/interface",
@@ -29,7 +29,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/aenm.71684",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT Uncontrolled lithium (Li) dendrite growth has been regarded as the most critical obstacle for the widespread adoption of Li metal batteries (LMBs), stemming from the preferential nucleation of Li ions (Li + ) at low‐energy‐barrier sites that trigger heterogeneous deposition. Therefore, it is pivotal yet significantly challenging to effectively control Li nucleation and deposition in LMBs. Here, we engineer a Janus Ag nanoskin‐armored polyimide (Ag@PI/PI) bilayer separator by in situ growth Ag nanoparticles on the surface of PI nanofiber and integrating a high‐strength PI nanofiber membrane as the dorsal substrate. Specifically, the Ag nanoskin acts as a three‐dimensional lithiophilic host to seize Li and induce sequential Li nucleation, thereby preventing Li dendrite formation. As a result, the Ag@PI/PI‐Li||Cu cell exhibits a low overpotential of 31.0 mV, high Coulombic efficiency of 98.9%, and prolonged Sand's time of 26.3 h. Significantly, the Ag@PI/PI separator delivers a high Li + transference number (0.70) and exceptional cycling stability (1600 h) in a Li||Li cell. Moreover, the Ag@PI/PI‐based Li||NCM523 cell achieves a remarkable specific capacity of 108.32 mAh g −1 at 5 C while retaining a satisfying capacity retention of 88.7% at 1 C. These results underscore the viability of this universal and efficient Ag nanoskin‐armored strategy for high‐security LMBs applications.",
     "tags": [
       "Plating/stripping",
@@ -99,7 +99,7 @@
   {
     "id": "https://openalex.org/W7214519475",
     "title": "“Lithium‐Free” Anode Solid‐State Batteries Enabled by 3D Structured Miec Garnet",
-    "authors": "G. V. Alexander, Aoife M. Zuercher, Jay Yvonne Easter, Christopher Tang, William Schubert, J. Evans Gritton et al.",
+    "authors": "G. V. Alexander, Aoife Zuercher, Jay Yvonne Easter, Christopher Tang, William Schubert, J. Evans Gritton et al.",
     "journal": "Advanced Energy Materials",
     "journal_rank": 12,
     "issn": "1614-6832",
@@ -116,27 +116,6 @@
       "Solid-state LMB"
     ],
     "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7213967399",
-    "title": "Materials‐Property Classification of Interlayers for Stabilizing Lithium Metal Interfaces in Sulfide‐Based All‐Solid‐State Batteries",
-    "authors": "Jeonghun Lee, Minseok Ko, Jaekyung Sung",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-09-21",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71612",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Sulfide‐based all‐solid‐state lithium metal batteries (ASSLMBs) promise high energy density by using lithium metal anodes, but their practical implementation is limited by severe interfacial instability. At the lithium metal/sulfide electrolyte interface, coupled chemical, electrochemical, and mechanical degradation accelerates impedance growth and cell failure. Interlayer strategies are promising for stabilizing sulfide‐based all‐solid‐state batteries because they can mitigate interfacial degradation, improve contact stability, and regulate ion/electron transport at critical electrode–electrolyte interfaces. However, their mechanisms have largely been interpreted based on phenomenological observations and empirical performance improvements, rather than through intrinsic material property–mechanism relationships, highlighting the need for a material property‐driven design framework. Here, we categorize interlayer strategies into metal, polymer, ceramic, and composite systems and reinterpret their functions from an electro‐chemo‐mechanical perspective. We discuss how stiffness, ductility, fracture toughness, electronic conductivity, electrochemical stability, chemical stability, lithiophilicity, and Li‐ion transport govern interfacial behavior during assembly, plating, stripping, and long‐term cycling. By correlating representative interlayer systems with their electro‐chemo‐mechanical properties, this perspective clarifies the relationship between material characteristics and interfacial stabilization behavior in sulfide‐based ASSLMBs. This property‐driven framework is expected to provide practical criteria for screening unexplored interlayer materials and guiding the rational design of stable lithium metal/sulfide electrolyte interfaces.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 6
   },
   {
     "id": "https://openalex.org/W7213745500",
