@@ -1,5 +1,24 @@
 [
   {
+    "id": "https://openalex.org/W7221357697",
+    "title": "Regulated Co‐Solvation in Gel Polymer Electrolyte Enables Rapid and Selective Li + Ion Transport for High‐Rate Lithium Metal Batteries",
+    "authors": "Chuan Luo, Chunpeng Ning, Lihua Hu, Xuehai Huang, Liwei Yang, Yu Wang et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-09",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75332",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The development of gel polymer electrolytes (GPEs) suitable for high‐rate lithium metal batteries (LMBs) is urgently needed but remains inherently challenging. This difficulty originates from the competition between the polymer network and the liquid electrolyte for lithium ion (Li + ) coordination. Polymer‐dominated coordination traps Li + and slows transport, while solvent‐dominated solvation permits uncontrolled anion migration and causes concentration polarization. Here, we resolve this challenge by establishing a matched polymer–electrolyte co‐solvation state, which enables rapid and selective Li + transport via a cooperative mechanism. We implement this concept through a dual‐regulated weak‐coordination gel polymer electrolyte (DWGPE), which comprises a fluorinated polymer backbone that attenuates Li + binding, an amide‐functionalized crosslinker that immobilizes anions via hydrogen bonding, and a weakly solvating adiponitrile‐based liquid phase. Molecular dynamics simulations reveal a cooperative transport mechanism that integrates polymer‐assisted hopping and solvent‐mediated vehicular diffusion, while suppressing anion mobility. Consequently, Li||DWGPE||LFP coin cells sustain 10 000 cycles at 6 C with 65% capacity retention, corresponding to an ultralow capacity decay of 0.003% per cycle. Our DWGPE also operates stably with high‐voltage NCM811 cathodes and in ampere‐hour‐level pouch cells. This work establishes polymer–electrolyte co‐solvation as a design framework for high‐performance GPEs toward fast‐charging LMBs.",
+    "tags": [
+      "Electrolyte",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7220986662",
     "title": "Polypyrrole as Dissociation Promoter and Interface Stabilizer of Solid Polymer Electrolytes for Solid‐State Li Metal Batteries",
     "authors": "Zewen Sun, Xiaotong Zhang, Wenjie Zhang, Qiyue Chen, Lijun Fu, Xinhai Yuan et al.",
