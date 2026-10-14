@@ -116,27 +116,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7214519475",
-    "title": "“Lithium‐Free” Anode Solid‐State Batteries Enabled by 3D Structured Miec Garnet",
-    "authors": "G. V. Alexander, Aoife Zuercher, Jay Yvonne Easter, Christopher Tang, William Schubert, Jack E. Gritton et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-09-27",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71648",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT Inhomogeneous lithium nucleation at the current collector‐solid electrolyte interface leads to unstable lithium growth and poor reversibility in “lithium‐free” solid‐state batteries. Here we show that stable lithium formation occurs within a mixed ionic and electronic conducting (MIEC) garnet scaffold. The intrinsic electronic conductivity of the porous framework enables lithium to nucleate uniformly along internal pore surfaces, rapidly forming a conformal lithium coating, thus establishing electronic connectivity at very low lithium volume fraction. This uniform lithium formation dramatically lowers anode impedance, enabling reversible lithium plating and stripping with Coulombic efficiencies of a previously unheard‐of 99.95%. When paired with NMC811 cathodes, bilayer (MIEC(P)‐LLZ(D)) “lithium‐free” full cells exhibit stable, highly reversible cycling at practical current densities, all at room temperature with no applied pressure. The interplay between lithium volume fraction and impedance is quantitatively modeled, transforming the understanding of lithium nucleation in a “lithium‐free” cell from an empirical interface problem to a percolation‐governed transport process, guiding the design of electronically percolating scaffolds for next‐generation solid‐state batteries.",
-    "tags": [
-      "Plating/stripping",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7213745500",
     "title": "Silver‐Decorated Graphene Mediates “Lithiene” Structured Interlayers for Ultrafast Lithium Transport in Solid‐State Batteries",
     "authors": "Huayan Huang, Zhongqin Dai, Huan Chen, Jun Jin, Ke Yue, Xiaoyang Wei et al.",
@@ -252,27 +231,6 @@
     "tags": [
       "Li metal anode",
       "Plating/stripping",
-      "Solid-state LMB"
-    ],
-    "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7171993987",
-    "title": "Anchoring Atomic Ag in Ordered Oxygen Vacancies for High‐Performance Anode‐Free Lithium Metal Batteries",
-    "authors": "Zerun Zhang, Kangning Cai, Nanrui Li, Youlong Fang, Qi Liu, Yanqi Wu et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-07-31",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71382",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT The uncontrollable growth of lithium dendrites and the formation of unstable solid electrolyte interphase (SEI) on copper current collectors remain critical challenges for the practical application of anode‐free lithium metal batteries (AFLMB). Here, we propose a facile and effective interface engineering strategy by constructing a three‐dimensional film consisting of lithiophilic nano‐sheets on copper foil (CAC@Cu). In the CAC film, Ag atoms are atomically dispersed and anchored at the oxygen vacancy sites within the CeO 2 lattice, inducing a unique atomic rearrangement that promotes highly ordered oxygen vacancy distribution. The resultant current collector exhibits exceptional lithiophilicity, significantly reducing the lithium nucleation overpotential to 23 mV and enhancing the exchange current density. These properties guide uniform and dense lithium deposition while facilitating the formation of a stable, composite SEI rich in inorganic components. Consequently, the CAC@Cu enables a high average Coulombic efficiency of 99.27% in half‐cells, remarkably stable cycling over 2500 h in symmetric cells, and significantly improved capacity retention in anode‐free LiFePO 4 and NCM811 full cells. This work provides profound insights into the mechanism of metal doping via vacancy anchoring and atomic rearrangement, offering a promising interface‐engineering approach for developing high‐performance, dendrite‐free lithium metal batteries.",
-    "tags": [
-      "Plating/stripping",
-      "Dendrite/interface",
-      "Electrolyte",
       "Solid-state LMB"
     ],
     "score": 6
