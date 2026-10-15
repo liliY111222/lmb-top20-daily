@@ -1,5 +1,26 @@
 [
   {
+    "id": "https://openalex.org/W7221668448",
+    "title": "Empirical Understanding of Li‐Ion Transport Through Hetero‐Grain Boundaries Within Li‐Electrolyte Interface for Stable Li Metal Anodes",
+    "authors": "Jung Been Park, Myeongcho Jang, Min-Sang Kim, Kyeongtae Park, Changhoon Choi, Seung‐Ho Yu et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-13",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75383",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Understanding the Li‐ion transport mechanism across the Li/electrolyte interface (LEI) is fundamental for stabilizing Li‐metal batteries (LMBs). In particular, hetero‐grain boundaries (h‐GBs) such as Li 2 O/LiF or Li 2 CO 3 /LiF are theoretically recognized to provide favorable Li‐ion pathways within inorganic LEI; however, experimental verification of h‐GB‐mediated Li‐ion transport remains elusive. In this study, we provide experimental evidence for favorable Li‐ion transport associated with h‐GBs using a tailored h‐GB‐rich MgO/MgF 2 heterostructure (MgO/F). Multifaceted analyses indicate that the MgO/MgF 2 heterointerfaces establish a favorable Li‐ion transport environment through coupled interfacial effects, with the enhanced defect population potentially contributing to increased Li‐ion carrier availability. Furthermore, upon contact between the Li substrate and the MgO/F layer acting as the LEI, the MgO/F layer spontaneously constructs a dual‐interfacial architecture: an inorganic‐rich solid electrolyte interphase abundant in h‐GB‐rich Li 2 O/LiF and a Li/substrate interphase consisting of a Li–Mg alloy with rapid Li surface migration. This synergistic interfacial architecture maximizes the practical efficacy of h‐GB‐rich MgO/F for stabilizing Li metal anodes. Consequently, the h‐GB‐rich MgO/F demonstrates exceptional electrochemical stability, significantly outperforming bare Li in both symmetric and full cells. This study provides experimental insight into the role of h‐GBs in inorganic interfaces and provides a strategic blueprint for designing highly stable LMBs.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7221357697",
     "title": "Regulated Co‐Solvation in Gel Polymer Electrolyte Enables Rapid and Selective Li + Ion Transport for High‐Rate Lithium Metal Batteries",
     "authors": "Chuan Luo, Chunpeng Ning, Lihua Hu, Xuehai Huang, Liwei Yang, Yu Wang et al.",
@@ -58,22 +79,6 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7220375048",
-    "title": "Stereochemical origin of potential hysteresis in lithium metal batteries with lithium-rich cation-disordered rocksalt positive electrodes",
-    "authors": "Yu Mei, Fanjie Xia, Hongyi Chen, Yujin Li, Jinqiang Gao, Kefu Zhu et al.",
-    "journal": "Nature Nanotechnology",
-    "journal_rank": 8,
-    "issn": "1748-3387",
-    "date": "2026-10-05",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1038/s41565-026-02301-2",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "",
-    "tags": [],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7220742457",
     "title": "Mass‐Charge Regulatory Microdomains Enable Coupled Structural and Interfacial Stabilization of Durable 3D Lithium Metal Anodes",
     "authors": "Jiajie Pan, Jieying Hua, Yusi Wang, Haoan Yuan, Junhao Li, Kaixiang Shi et al.",
@@ -111,27 +116,6 @@
     "tags": [
       "Plating/stripping",
       "Safety",
-      "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7213745500",
-    "title": "Silver‐Decorated Graphene Mediates “Lithiene” Structured Interlayers for Ultrafast Lithium Transport in Solid‐State Batteries",
-    "authors": "Huayan Huang, Zhongqin Dai, Huan Chen, Jun Jin, Ke Yue, Xiaoyang Wei et al.",
-    "journal": "SusMat",
-    "journal_rank": 20,
-    "issn": "2692-4552",
-    "date": "2026-09-20",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/sus2.70098",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT Solid‐state lithium metal batteries (SSLMBs) employing garnet‐type Li 6.5 La 3 Zr 1.5 Ta 0.5 O 12 (LLZTO) electrolytes offer a pathway to high energy density but are plagued by interfacial impedance and catastrophic dendrite propagation. Current interfacial engineering strategies often fail to fundamentally alter the thermodynamic tendency of lithium to grow in uncontrolled three‐dimensional (3D) dendritic morphologies, severely limiting critical current densities. Here, a mechanism‐driven design of a “lithiene” structured interlayer enabled by chemically bonded Ag nanoparticles anchored on vertically aligned reduced graphene oxide (rGO) nanosheets is reported. This architecture fundamentally reconfigures lithium deposition dynamics: the lithiophilic Ag sites lower the nucleation energy barrier via Li–Ag alloying, while the conductive rGO framework acts as a two‐dimensional (2D) template that kinetically confines lithium growth within its lamellar interspaces. In situ field‐emission scanning electron microscopy, in situ x‐ray photoelectron spectroscopy, and—implemented for the first time in battery research—in situ energy‐tunable hard x‐ray photoelectron spectroscopy (HAXPES) reveal a sequential deposition mechanism. Epitaxial Li–Ag alloying followed by Li intercalation and subsequent planar growth along the rGO basal planes is observed, effectively transforming bulk lithium into a 2D “lithiene‐like” morphology. Consequently, the modified SSLMBs achieve unprecedented rate capabilities of 4 C (3.0 mA cm −2 ) at 25°C and 7 C (4.7 mA cm −2 ) at 60°C, alongside 97% capacity retention over 440 cycles. These findings provide a physical chemistry framework for manipulating the dimensionality of lithium crystallization, offering a scalable route to dendrite‐free, high‐rate solid‐state batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
       "Characterization/modeling"
     ],
     "score": 3
