@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openalex.org/W7221820127",
+    "title": "Beyond Facet Engineering: Dislocation‐Mediated Nucleation Enables Stable Lithium Deposition on Practical Polycrystalline Cu Collectors",
+    "authors": "Xinglong Liang, Yutong Nong, Pengfei Li, Xiaowei Wang, Jitao Nie, Cheng Peng et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-14",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75368",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Uniform Li deposition on practical Cu current collectors remains challenging in lithium metal batteries. Despite extensive efforts in facet engineering, achieving homogeneous Li deposition on practical polycrystalline Cu collectors remains elusive, highlighting an incomplete understanding of the structural factors governing Li deposition. Herein, a defect‐mediated interfacial engineering strategy is developed by simultaneously introducing a high density of geometrically necessary dislocations (GNDs) and enriched <110>/<111> textures on commercial electrodeposited Cu foils. Theoretical calculations and experiments reveal that densely distributed dislocations provide thermodynamically favorable Li adsorption sites and abundant preferential heterogeneous nucleation sites, while the enriched <110>/<111> textures promote Li surface diffusion and lateral growth. This combined effect promotes uniform and compact initial Li deposition, guiding path‐dependent deposition evolution and suppressing interfacial heterogeneity. The control experiments further support a key contribution of dislocation defects, while variations in surface chemistry or morphology alone cannot account for the observed performance differences. The optimized Cu foil sustains over 1200 cycles with an average Coulombic efficiency of 99.52% ± 0.20% over the final 200 cycles ( n = 4) in Li||Cu cells and improves N/P = 0 Cu||NCM811 full‐cell cycling. This work establishes dislocation‐mediated nucleation and orientation‐regulated growth as a design principle for practical Cu current collectors.",
+    "tags": [
+      "Plating/stripping"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7221668448",
     "title": "Empirical Understanding of Li‐Ion Transport Through Hetero‐Grain Boundaries Within Li‐Electrolyte Interface for Stable Li Metal Anodes",
     "authors": "Jung Been Park, Myeongcho Jang, Min-Sang Kim, Kyeongtae Park, Changhoon Choi, Seung‐Ho Yu et al.",
