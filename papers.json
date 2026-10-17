@@ -11,9 +11,29 @@
     "doi_url": "https://doi.org/10.1002/adma.75368",
     "cited_by_count": 0,
     "open_access": false,
-    "abstract": "ABSTRACT Uniform Li deposition on practical Cu current collectors remains challenging in lithium metal batteries. Despite extensive efforts in facet engineering, achieving homogeneous Li deposition on practical polycrystalline Cu collectors remains elusive, highlighting an incomplete understanding of the structural factors governing Li deposition. Herein, a defect‐mediated interfacial engineering strategy is developed by simultaneously introducing a high density of geometrically necessary dislocations (GNDs) and enriched <110>/<111> textures on commercial electrodeposited Cu foils. Theoretical calculations and experiments reveal that densely distributed dislocations provide thermodynamically favorable Li adsorption sites and abundant preferential heterogeneous nucleation sites, while the enriched <110>/<111> textures promote Li surface diffusion and lateral growth. This combined effect promotes uniform and compact initial Li deposition, guiding path‐dependent deposition evolution and suppressing interfacial heterogeneity. The control experiments further support a key contribution of dislocation defects, while variations in surface chemistry or morphology alone cannot account for the observed performance differences. The optimized Cu foil sustains over 1200 cycles with an average Coulombic efficiency of 99.52% ± 0.20% over the final 200 cycles ( n = 4) in Li||Cu cells and improves N/P = 0 Cu||NCM811 full‐cell cycling. This work establishes dislocation‐mediated nucleation and orientation‐regulated growth as a design principle for practical Cu current collectors.",
+    "abstract": "Uniform Li deposition on practical Cu current collectors remains challenging in lithium metal batteries. Despite extensive efforts in facet engineering, achieving homogeneous Li deposition on practical polycrystalline Cu collectors remains elusive, highlighting an incomplete understanding of the structural factors governing Li deposition. Herein, a defect-mediated interfacial engineering strategy is developed by simultaneously introducing a high density of geometrically necessary dislocations (GNDs) and enriched <110>/<111> textures on commercial electrodeposited Cu foils. Theoretical calculations and experiments reveal that densely distributed dislocations provide thermodynamically favorable Li adsorption sites and abundant preferential heterogeneous nucleation sites, while the enriched <110>/<111> textures promote Li surface diffusion and lateral growth. This combined effect promotes uniform and compact initial Li deposition, guiding path-dependent deposition evolution and suppressing interfacial heterogeneity. The control experiments further support a key contribution of dislocation defects, while variations in surface chemistry or morphology alone cannot account for the observed performance differences. The optimized Cu foil sustains over 1200 cycles with an average Coulombic efficiency of 99.52% ± 0.20% over the final 200 cycles (n = 4) in Li||Cu cells and improves N/P = 0 Cu||NCM811 full-cell cycling. This work establishes dislocation-mediated nucleation and orientation-regulated growth as a design principle for practical Cu current collectors.",
     "tags": [
       "Plating/stripping"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7222243726",
+    "title": "Solvation‐Equilibrium Locking Enables Ultrawide‐Temperature Operation of High‐Voltage Lithium‐Metal Batteries",
+    "authors": "Qingyu Dong, Nan Chen, Yang Li, Li Li, X.J. Liu, Feng Wu et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-14",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75409",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT High‐energy lithium metal batteries are promising for space, polar, deep‐sea, and other extreme environments, but their operation is constrained by temperature‐sensitive ion transport, Li + solvation, and interfacial chemistry. A solvation‐equilibrium‐locked electrolyte (SELE) is reported by combining dimethyl sulfite (DMS), a low‐freezing weakly solvating solvent, with Pyr 13 DFOB (1‐methyl‐1‐propylpyrrolidinium difluoro(oxalato)borate) as an ionic‐liquid co‐solvent. Cooperative ion–dipole and weak C–H⋯O interactions between DMS and Pyr 13 + regulate the free‐solvent reservoir, while TFSI − (bis(trifluoromethanesulfonyl)imide) and DFOB − enrich the primary Li + coordination shell. Variable‐temperature 7 Li NMR, Raman, and molecular dynamics simulations show that solvent‐separated ion pairs, contact ion pairs, and aggregates remain nearly invariant from −60°C to 60°C, unlike the strongly temperature‐responsive Pyr 13 DFOB‐free electrolyte. This locked anion‐rich solvation structure reduces solvent coordination around Li + , mitigates solvent‐derived interfacial decomposition and gas evolution, and promotes LiF‐ and borate‐rich interphases on Li metal and NMC811. Consequently, Li||NMC811 cells deliver discharge capacity at −85°C and operate up to 120°C, while pouch cells remain functional after cooling to −122.9°C. A 6.6 Ah Li||Ni90 pouch cell further achieves 565 Wh kg −1 under lean‐electrolyte conditions, establishing solvation‐equilibrium locking as a molecular design principle for lithium metal batteries operating over a broad temperature range.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Characterization/modeling"
     ],
     "score": 3
   },
