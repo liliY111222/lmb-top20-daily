@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://openalex.org/W7222402503",
+    "title": "Selective Interfacial Coupling in Polymer Electrolytes Stabilizes High‐Voltage Ni‐Rich Cathodes for > 500 Wh Kg −1 Lithium Metal Batteries",
+    "authors": "Zixuan Wang, Zunbin Mao, Lu Wei, Zhuo Li, Xin Guo",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-16",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71712",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The interfacial chemistry of high‐energy‐density lithium metal batteries (LMBs) is strongly governed by electronic coupling between electrolyte components and cathode surfaces. However, current strategies generally regulate coupling as an overall interaction‐strength issue, overlooking the distinct contributions of individual electrolyte species and thereby limiting precise interfacial control. Here, we propose a selective interfacial coupling strategy by constructing an interfacial architecture comprising a coupling center and a weak‐coupling environment. Specifically, 2‐cyanoethyl acrylate (CA) acts as the coupling center, while a highly fluorinated acrylate (DFA) creates the weak‐coupling environment. Their synergy reconstructs the interfacial molecular organization, suppresses undesirable coupling from non‐target species, and preserves favorable CA‐cathode interactions. Multiscale calculations and operando spectroscopy reveal the reconstructed interfacial structure and its dynamic evolution. The resulting enlarged Ni 3d‐O 2p band‐center separation stabilizes the TM‐O electronic structure, suppressing lattice oxygen release, cation mixing, and transition‐metal dissolution. Consequently, Li||Ni90 cells retain 78% capacity after 400 cycles at 4.7 V, while a 5 Ah pouch cell delivers 529.4 Wh kg −1 at 4.6 V. This work establishes selective interfacial coupling as an effective strategy for regulating high‐voltage interfaces.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7221820127",
     "title": "Beyond Facet Engineering: Dislocation‐Mediated Nucleation Enables Stable Lithium Deposition on Practical Polycrystalline Cu Collectors",
     "authors": "Xinglong Liang, Yutong Nong, Pengfei Li, Xiaowei Wang, Jitao Nie, Cheng Peng et al.",
@@ -141,7 +161,7 @@
   {
     "id": "https://openalex.org/W7214940157",
     "title": "Interferometric Scattering Microscopy (iSCAT): A Perspective on Visualizing and Engineering Electrode Homogeneity for Advanced Lithium‐Ion Batteries",
-    "authors": "Hong yuan Zhao, Lingzhi Zhao, Zhibei Liu, Li Wang, Xiangming He",
+    "authors": "Hong Zhao, Lingzhi Zhao, Zhibei Liu, Li Wang, Xiangming He",
     "journal": "Carbon Energy",
     "journal_rank": 14,
     "issn": "2096-9570",
