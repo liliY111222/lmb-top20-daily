@@ -1,5 +1,24 @@
 [
   {
+    "id": "https://openalex.org/W7222883660",
+    "title": "Durable Interphase Incorporating Cross‐Linked Polymer Enables Long‐Calendar‐Life Lithium Metal Batteries",
+    "authors": "Jia‐lin Li, Jianxin Tian, Qiang Zhang, Yan‐Bin Gao, Dong‐Hao Zhan, Qiankui Zhang et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-18",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75435",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The practical deployment of lithium (Li) metal batteries is hindered by not only cycle life but also calendar life. The poor calendar life stems from both the repeated reconstruction of the solid‐electrolyte interphase (SEI) during cycles and, particularly, the continuous growth of SEI during storage. Herein, a durable SEI with high mechanical stability against volume fluctuations and superior passivation capability to suppress electrolyte permeation is demonstrated by integrating inorganics and a cross‐linked polymer into the SEI. Concretely, a cross‐linked polymer with high modulus and low swelling is in‐situ incorporated among the inorganics of an anion‐derived SEI. The elastic modulus of the SEI is significantly increased from 1.63 to 4.37 GPa, and the compactness of the SEI is also improved to suppress electrolyte permeation. Consequently, the cycle life and calendar life of Li metal coin cells are extended by 73% (from 190 to 329 cycles) and 129% (from 1553 to 3561 h), respectively. Furthermore, a prototype pouch cell (506 Wh kg −1 ) undergoes 124 cycles. This work establishes an effective strategy that concurrently improves the mechanical and passivation performance of the SEI, tackling the critical challenge of calendar life in Li metal batteries.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte"
+    ],
+    "score": 6
+  },
+  {
     "id": "https://openalex.org/W7222402503",
     "title": "Selective Interfacial Coupling in Polymer Electrolytes Stabilizes High‐Voltage Ni‐Rich Cathodes for > 500 Wh Kg −1 Lithium Metal Batteries",
     "authors": "Zixuan Wang, Zunbin Mao, Lu Wei, Zhuo Li, Xin Guo",
