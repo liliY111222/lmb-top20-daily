@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://openalex.org/W7223176967",
+    "title": "A Tailored Multifunctional Lithium Organosilicate Salt Constructing Robust Interphases for High Voltage Lithium Metal Batteries",
+    "authors": "Ningxiang Zhu, Gaojie J. Xu, Guansheng Chen, Shenghang Zhang, Zhilin Yang, Yu Zhao et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-22",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71710",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Lithium metal batteries (LMBs) have attracted extensive attention due to their high energy density. However, when lithium (Li) metal is paired with high‐voltage cathode materials, its practical application is limited by issues such as continuous oxidative decomposition of electrolytes and the incompatibility between electrolytes and aggressive electrodes. Herein, we synthesize a fluorinated lithium organosilicate salt (i.e., lithium fluorobis(fluoropinacolatoborato)silicate, LiPBS) to address the aforementioned challenges. The results show that the LiPBS can form a protective and rigid‐flexible cathode electrolyte interphase (CEI) on the cathode surface. Simultaneously, PBS − readily forms a coordination ion pair (CIP) with Li + , constructing an inorganic‐rich solid electrolyte interphase (SEI) on the Li anode. Furthermore, Si─O groups in the LiPBS can effectively scavenge HF and H 2 O from the electrolyte. These advantageous properties enable LiCoO 2 (LCO, 1.89 mAh cm −2 )/Li (50 µm) coin and pouch cells to exhibit excellent cycling performance at high voltages and elevated rates‒for example, retaining 82% capacity after 250 cycles at 1 C and 4.5 V, compared to 80% retention after only 67 cycles for the LiPF 6 ‐based counterpart. This performance is maintained even at an elevated temperature of 50°C. This work highlights the crucial role of lithium organosilicate salt in determining the electrochemical performance of LMBs.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7223096824",
+    "title": "Dual Anion‐Involved Interfacial Chemistry Enables Ultra‐Stable PEO‐Based Solid‐State Lithium Metal Batteries by Suppressing NMP‐Induced Side Reactions",
+    "authors": "Weiya Li, Hongkai Hu, Kang Dong, Jiahao Geng, MengQiu Li, Die Lai et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-20",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71721",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The incorporation of solvent N‐methylpyrrolidone (NMP) into polyethylene oxide (PEO) weakens EO‐Li + interaction and boosts Li + transport via strong Li + affinity, but free NMP inevitably reacts with Li metal, undermining interface stability. Herein, we report a dual‐anion coordination strategy that repurposes the residual NMP from a “side‐reaction source” into a “functional component”. LiDFOB and LiNO 3 are introduced as dual‐salt additives into an NMP‐containing PEO/LiTFSI system. Leveraging the preferential coordination of DFOB– and NO 3 – with Li + , an anion‐enriched solvation sheath is constructed, which strengthens the Li + ‐NMP interactions. The modified coordination environment facilitates the preferential formation of a kinetically stable, anion‐derived solid electrolyte interphase (SEI), effectively mitigating interfacial side reactions between the NMP and Li metal. As a result, the obtained electrolyte delivers a high ionic conductivity of 1.69 × 10 −4 S cm −1 and stable cycling over 1200 h at room temperature. The assembled Li/LFP cell exhibits a high capacity retention of 93% after 2000 cycles. Even at room temperate and 0°C, the assembled Li/LFP cell maintains stable and efficient cycling. This work establishes a universal solvent structure tailoring strategy to regulate reactive solvent molecules, opening a fresh avenue for high‐performance PEO‐based solid‐state lithium metal batteries.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7222883660",
     "title": "Durable Interphase Incorporating Cross‐Linked Polymer Enables Long‐Calendar‐Life Lithium Metal Batteries",
     "authors": "Jia‐lin Li, Jianxin Tian, Qiang Zhang, Yan‐Bin Gao, Dong‐Hao Zhan, Qiankui Zhang et al.",
@@ -157,26 +197,6 @@
       "Characterization/modeling"
     ],
     "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7214940157",
-    "title": "Interferometric Scattering Microscopy (iSCAT): A Perspective on Visualizing and Engineering Electrode Homogeneity for Advanced Lithium‐Ion Batteries",
-    "authors": "Hong Zhao, Lingzhi Zhao, Zhibei Liu, Li Wang, Xiangming He",
-    "journal": "Carbon Energy",
-    "journal_rank": 14,
-    "issn": "2096-9570",
-    "date": "2026-09-30",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/cey2.70338",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT Electrode homogeneity, specifically the uniform distribution of lithium ions and state of charge (SOC), is paramount to unlocking the full performance, safety, and longevity potential of lithium‐ion batteries. SOC heterogeneity triggers detrimental local phenomena such as particle fracture, lithium plating, and accelerated degradation, which become critical bottlenecks for next‐generation high‐energy and fast‐charging batteries. Although formidable, this challenge can be addressed through advanced characterization that links microscopic dynamics to macroscopic design. This Perspective highlights interferometric scattering microscopy (iSCAT) as a transformative, lab‐accessible optical technique capable of real‐time, nanoscale visualization of lithiation dynamics and phase transitions within individual electrode particles under operando conditions. We elucidate how iSCAT uniquely quantifies lithiation fronts, domain formation, and particle‐to‐particle variability, revealing the origins of heterogeneity rooted in crystallographic orientation, electrode architecture, and kinetic limitations. Crucially, these nanoscopic insights directly inform rational electrode design strategies, including functionally graded architectures and low‐tortuosity structures, to spatially homogenize electrochemical reactions. We conclude by outlining the integration of iSCAT with multi‐modal characterization and machine learning, projecting its pivotal role in accelerating the development of high‐performance, durable energy storage systems.",
-    "tags": [
-      "Plating/stripping",
-      "Safety",
-      "Characterization/modeling"
-    ],
-    "score": 3
   },
   {
     "id": "https://openalex.org/W7213557003",
