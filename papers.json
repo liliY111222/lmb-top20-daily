@@ -1,5 +1,26 @@
 [
   {
+    "id": "https://openalex.org/W7223463902",
+    "title": "Mineral Particle Suspensions in Carbonate Electrolyte Enable LiF‐Rich Interphases for Durable Lithium Metal Batteries",
+    "authors": "Hongmei Liang, Lisha Mou, Jin Leng, Aiping Wang, Li Wang, Yongsheng Han et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-24",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71748",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT The solid electrolyte interphase in lithium metal batteries determines cycling stability but often suffers from the incomplete decomposition of fluorinated components. Herein, we demonstrate that suspending LiF and Li 2 O particles in a carbonate‐based electrolyte promotes the defluorination of fluoroethylene carbonate and lithium hexafluorophosphate. These particles preferentially adsorb fluorinated electrolyte species and induce electronic polarization, thereby modulating their redox reactivity and facilitating interfacial decomposition toward LiF. The generated LiF, together with the trace dissolution and interfacial reprecipitation of suspended LiF particles, continuously enriches the electrode surface with LiF‐rich inorganic species. This process results in the formation of a bilayer interphase on both the lithium metal anode and LiNi 0.6 Co 0.2 Mn 0.2 O 2 cathode, featuring a flexible inner layer and a dense LiF‐rich outer layer. The resulting interphase suppresses lithium dendrites, mitigates parasitic reactions, and enables 2400 h of stable cycling in symmetric cells and 85.6% capacity retention after 400 cycles in full cells. By introducing suspended LiF/Li 2 O particles to regulate the interfacial decomposition of fluorinated electrolyte species, this work provides an effective electrolyte‐design strategy for constructing robust interphases in lithium metal batteries.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 9
+  },
+  {
     "id": "https://openalex.org/W7223176967",
     "title": "A Tailored Multifunctional Lithium Organosilicate Salt Constructing Robust Interphases for High Voltage Lithium Metal Batteries",
     "authors": "Ningxiang Zhu, Gaojie J. Xu, Guansheng Chen, Shenghang Zhang, Zhilin Yang, Yu Zhao et al.",
@@ -79,24 +100,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7221820127",
-    "title": "Beyond Facet Engineering: Dislocation‐Mediated Nucleation Enables Stable Lithium Deposition on Practical Polycrystalline Cu Collectors",
-    "authors": "Xinglong Liang, Yutong Nong, Pengfei Li, Xiaowei Wang, Jitao Nie, Cheng Peng et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-10-14",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.75368",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "Uniform Li deposition on practical Cu current collectors remains challenging in lithium metal batteries. Despite extensive efforts in facet engineering, achieving homogeneous Li deposition on practical polycrystalline Cu collectors remains elusive, highlighting an incomplete understanding of the structural factors governing Li deposition. Herein, a defect-mediated interfacial engineering strategy is developed by simultaneously introducing a high density of geometrically necessary dislocations (GNDs) and enriched <110>/<111> textures on commercial electrodeposited Cu foils. Theoretical calculations and experiments reveal that densely distributed dislocations provide thermodynamically favorable Li adsorption sites and abundant preferential heterogeneous nucleation sites, while the enriched <110>/<111> textures promote Li surface diffusion and lateral growth. This combined effect promotes uniform and compact initial Li deposition, guiding path-dependent deposition evolution and suppressing interfacial heterogeneity. The control experiments further support a key contribution of dislocation defects, while variations in surface chemistry or morphology alone cannot account for the observed performance differences. The optimized Cu foil sustains over 1200 cycles with an average Coulombic efficiency of 99.52% ± 0.20% over the final 200 cycles (n = 4) in Li||Cu cells and improves N/P = 0 Cu||NCM811 full-cell cycling. This work establishes dislocation-mediated nucleation and orientation-regulated growth as a design principle for practical Cu current collectors.",
-    "tags": [
-      "Plating/stripping"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7222243726",
     "title": "Solvation‐Equilibrium Locking Enables Ultrawide‐Temperature Operation of High‐Voltage Lithium‐Metal Batteries",
     "authors": "Qingyu Dong, Nan Chen, Yang Li, Li Li, X.J. Liu, Feng Wu et al.",
@@ -113,6 +116,24 @@
       "Dendrite/interface",
       "Electrolyte",
       "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7221820127",
+    "title": "Beyond Facet Engineering: Dislocation‐Mediated Nucleation Enables Stable Lithium Deposition on Practical Polycrystalline Cu Collectors",
+    "authors": "Xinglong Liang, Yutong Nong, Pengfei Li, Xiaowei Wang, Jitao Nie, Cheng Peng et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-14",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75368",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "Uniform Li deposition on practical Cu current collectors remains challenging in lithium metal batteries. Despite extensive efforts in facet engineering, achieving homogeneous Li deposition on practical polycrystalline Cu collectors remains elusive, highlighting an incomplete understanding of the structural factors governing Li deposition. Herein, a defect-mediated interfacial engineering strategy is developed by simultaneously introducing a high density of geometrically necessary dislocations (GNDs) and enriched <110>/<111> textures on commercial electrodeposited Cu foils. Theoretical calculations and experiments reveal that densely distributed dislocations provide thermodynamically favorable Li adsorption sites and abundant preferential heterogeneous nucleation sites, while the enriched <110>/<111> textures promote Li surface diffusion and lateral growth. This combined effect promotes uniform and compact initial Li deposition, guiding path-dependent deposition evolution and suppressing interfacial heterogeneity. The control experiments further support a key contribution of dislocation defects, while variations in surface chemistry or morphology alone cannot account for the observed performance differences. The optimized Cu foil sustains over 1200 cycles with an average Coulombic efficiency of 99.52% ± 0.20% over the final 200 cycles (n = 4) in Li||Cu cells and improves N/P = 0 Cu||NCM811 full-cell cycling. This work establishes dislocation-mediated nucleation and orientation-regulated growth as a design principle for practical Cu current collectors.",
+    "tags": [
+      "Plating/stripping"
     ],
     "score": 3
   },
