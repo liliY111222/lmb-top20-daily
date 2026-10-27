@@ -10,7 +10,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/aenm.71748",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT The solid electrolyte interphase in lithium metal batteries determines cycling stability but often suffers from the incomplete decomposition of fluorinated components. Herein, we demonstrate that suspending LiF and Li 2 O particles in a carbonate‐based electrolyte promotes the defluorination of fluoroethylene carbonate and lithium hexafluorophosphate. These particles preferentially adsorb fluorinated electrolyte species and induce electronic polarization, thereby modulating their redox reactivity and facilitating interfacial decomposition toward LiF. The generated LiF, together with the trace dissolution and interfacial reprecipitation of suspended LiF particles, continuously enriches the electrode surface with LiF‐rich inorganic species. This process results in the formation of a bilayer interphase on both the lithium metal anode and LiNi 0.6 Co 0.2 Mn 0.2 O 2 cathode, featuring a flexible inner layer and a dense LiF‐rich outer layer. The resulting interphase suppresses lithium dendrites, mitigates parasitic reactions, and enables 2400 h of stable cycling in symmetric cells and 85.6% capacity retention after 400 cycles in full cells. By introducing suspended LiF/Li 2 O particles to regulate the interfacial decomposition of fluorinated electrolyte species, this work provides an effective electrolyte‐design strategy for constructing robust interphases in lithium metal batteries.",
     "tags": [
       "Li metal anode",
