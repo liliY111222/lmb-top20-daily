@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://openalex.org/W7223787443",
+    "title": "Bifunctional Additive Enabled Thermoresponsive Electrolytes With Dual‐Mode Manipulation Toward Safe Lithium Metal Batteries",
+    "authors": "Xue Yang, Xiao Hang Guo, Ming Hui Zhang, Yu Hao Huang, Yong Li, Bao Ning Zhu et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-27",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71759",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Thermal safety issues arising from electrolyte instability at elevated temperatures pose a critical challenge for lithium (Li) metal batteries (LMBs). Thermoresponsive electrolytes offer a promising solution, yet battery systems with high‐rate capability and reliable thermal protection have not been realized. Herein, we introduce a bifunctional LiNO 3 additive into a high‐volume‐fraction vinylene carbonate‐based thermoresponsive electrolyte (HVCE‐N) to enhance the performance of LMBs at room and elevated temperatures. Notably, the introduction of the LiNO 3 additive modifies the solvation structure of Li + and forms a Li 3 N/LiN x O y solid electrolyte interface with high ionic conductivity. Under thermal shock, HVCE‐N undergoes a rapid liquid‐to‐solid phase transition upon free radical polymerization to form a polymer network. More importantly, LiNO 3 can regulate the free radical concentration to control the degree of polymerization, thereby preserving high ion transport capability even after phase transition. As a result, a Li||NCM811 cell based on HVCE‐N exhibits high‐rate performance from 1C to 10C, and stable cycling at 100°C. When subjected to a thermal shock of 200°C, HVCE‐N suppresses thermal runaway for Li||NCM811 pouch cell. This electrolyte design offers a new strategy to develop highly safe LMBs with high‐rate performance.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Safety"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7223990995",
+    "title": "Redirecting Bond Cleavage in Sacrificial Prelithiation via Dual‐Side Separator Engineering for Anode‐Free Lithium Batteries",
+    "authors": "Junyu Zhang, Xiangrui Tian, Jiawen Tang, Yunsong Li, Wenzhuo Tan, Peiwen Fan et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-27",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71761",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Anode‐free lithium metal batteries (AFLMBs) promise extreme gravimetric and volumetric energy densities but suffer from irreversible active lithium loss, sluggish desolvation kinetics, and dendritic proliferation. Herein, we report a catalyst‐induced bond‐cleavage redirection concept to unlock efficient sacrificial prelithiation, implemented via a dual‐side functionalized separator. On the cathode side, a 5 µm MoC 1‐x /NC‐0.3Co coating redirects Li 2 C 2 O 4 decomposition from high‐barrier Li–O cleavage to preferential C─C bond scission. Theoretical calculations and operando characterizations confirm this mechanistic shift, lowering the delithiation potential to 3.79 V at 60°C with a 99.5% Li + utilization rate. To safeguard the liberated lithium inventory against depletion, the anode side integrates a PSSLi‐PFPE bilayer. This coating accelerates Li + desolvation and drives the in‐situ construction of a LiF‐rich solid electrolyte interphase, enabling Li symmetric cells cycling for over 1700 h (1.0 mAh cm −2 , DOD = 80.7%). Bridging fundamental bond kinetics with practical engineering, the assembled 1.0 Ah anode‐free pouch cell (NCM811||MoC 1‐x /NC‐0.3Co‐LCO/PE/PSSLi‐PFPE||Cu) achieves gravimetric and volumetric energy densities of 458.6 Wh kg −1 and 1005.2 Wh L −1 , a power output of 989.1 W kg −1 , retaining 80.1% capacity after 100 cycles. This non‐invasive separator strategy provides a unified framework connecting bond kinetics to practical cell manufacturing, charting a feasible avenue for high‐energy AFLMBs.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7223463902",
     "title": "Mineral Particle Suspensions in Carbonate Electrolyte Enable LiF‐Rich Interphases for Durable Lithium Metal Batteries",
     "authors": "Hongmei Liang, Lisha Mou, Jin Leng, Aiping Wang, Li Wang, Yongsheng Han et al.",
@@ -31,7 +73,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/aenm.71710",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT Lithium metal batteries (LMBs) have attracted extensive attention due to their high energy density. However, when lithium (Li) metal is paired with high‐voltage cathode materials, its practical application is limited by issues such as continuous oxidative decomposition of electrolytes and the incompatibility between electrolytes and aggressive electrodes. Herein, we synthesize a fluorinated lithium organosilicate salt (i.e., lithium fluorobis(fluoropinacolatoborato)silicate, LiPBS) to address the aforementioned challenges. The results show that the LiPBS can form a protective and rigid‐flexible cathode electrolyte interphase (CEI) on the cathode surface. Simultaneously, PBS − readily forms a coordination ion pair (CIP) with Li + , constructing an inorganic‐rich solid electrolyte interphase (SEI) on the Li anode. Furthermore, Si─O groups in the LiPBS can effectively scavenge HF and H 2 O from the electrolyte. These advantageous properties enable LiCoO 2 (LCO, 1.89 mAh cm −2 )/Li (50 µm) coin and pouch cells to exhibit excellent cycling performance at high voltages and elevated rates‒for example, retaining 82% capacity after 250 cycles at 1 C and 4.5 V, compared to 80% retention after only 67 cycles for the LiPF 6 ‐based counterpart. This performance is maintained even at an elevated temperature of 50°C. This work highlights the crucial role of lithium organosilicate salt in determining the electrochemical performance of LMBs.",
     "tags": [
       "Dendrite/interface",
@@ -198,6 +240,27 @@
       "Characterization/modeling"
     ],
     "score": 6
+  },
+  {
+    "id": "https://openalex.org/W7214519475",
+    "title": "“Lithium‐Free” Anode Solid‐State Batteries Enabled by 3D Structured Miec Garnet",
+    "authors": "G. V. Alexander, Aoife Zuercher, Jay Yvonne Easter, Christopher Tang, William Schubert, Jack E. Gritton et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-27",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71648",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Inhomogeneous lithium nucleation at the current collector‐solid electrolyte interface leads to unstable lithium growth and poor reversibility in “lithium‐free” solid‐state batteries. Here we show that stable lithium formation occurs within a mixed ionic and electronic conducting (MIEC) garnet scaffold. The intrinsic electronic conductivity of the porous framework enables lithium to nucleate uniformly along internal pore surfaces, rapidly forming a conformal lithium coating, thus establishing electronic connectivity at very low lithium volume fraction. This uniform lithium formation dramatically lowers anode impedance, enabling reversible lithium plating and stripping with Coulombic efficiencies of a previously unheard‐of 99.95%. When paired with NMC811 cathodes, bilayer (MIEC(P)‐LLZ(D)) “lithium‐free” full cells exhibit stable, highly reversible cycling at practical current densities, all at room temperature with no applied pressure. The interplay between lithium volume fraction and impedance is quantitatively modeled, transforming the understanding of lithium nucleation in a “lithium‐free” cell from an empirical interface problem to a percolation‐governed transport process, guiding the design of electronically percolating scaffolds for next‐generation solid‐state batteries.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
   },
   {
     "id": "https://openalex.org/W7213557003",
