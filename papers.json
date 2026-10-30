@@ -31,7 +31,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/aenm.71761",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT Anode‐free lithium metal batteries (AFLMBs) promise extreme gravimetric and volumetric energy densities but suffer from irreversible active lithium loss, sluggish desolvation kinetics, and dendritic proliferation. Herein, we report a catalyst‐induced bond‐cleavage redirection concept to unlock efficient sacrificial prelithiation, implemented via a dual‐side functionalized separator. On the cathode side, a 5 µm MoC 1‐x /NC‐0.3Co coating redirects Li 2 C 2 O 4 decomposition from high‐barrier Li–O cleavage to preferential C─C bond scission. Theoretical calculations and operando characterizations confirm this mechanistic shift, lowering the delithiation potential to 3.79 V at 60°C with a 99.5% Li + utilization rate. To safeguard the liberated lithium inventory against depletion, the anode side integrates a PSSLi‐PFPE bilayer. This coating accelerates Li + desolvation and drives the in‐situ construction of a LiF‐rich solid electrolyte interphase, enabling Li symmetric cells cycling for over 1700 h (1.0 mAh cm −2 , DOD = 80.7%). Bridging fundamental bond kinetics with practical engineering, the assembled 1.0 Ah anode‐free pouch cell (NCM811||MoC 1‐x /NC‐0.3Co‐LCO/PE/PSSLi‐PFPE||Cu) achieves gravimetric and volumetric energy densities of 458.6 Wh kg −1 and 1005.2 Wh L −1 , a power output of 989.1 W kg −1 , retaining 80.1% capacity after 100 cycles. This non‐invasive separator strategy provides a unified framework connecting bond kinetics to practical cell manufacturing, charting a feasible avenue for high‐energy AFLMBs.",
     "tags": [
       "Dendrite/interface",
@@ -113,7 +113,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.75435",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT The practical deployment of lithium (Li) metal batteries is hindered by not only cycle life but also calendar life. The poor calendar life stems from both the repeated reconstruction of the solid‐electrolyte interphase (SEI) during cycles and, particularly, the continuous growth of SEI during storage. Herein, a durable SEI with high mechanical stability against volume fluctuations and superior passivation capability to suppress electrolyte permeation is demonstrated by integrating inorganics and a cross‐linked polymer into the SEI. Concretely, a cross‐linked polymer with high modulus and low swelling is in‐situ incorporated among the inorganics of an anion‐derived SEI. The elastic modulus of the SEI is significantly increased from 1.63 to 4.37 GPa, and the compactness of the SEI is also improved to suppress electrolyte permeation. Consequently, the cycle life and calendar life of Li metal coin cells are extended by 73% (from 190 to 329 cycles) and 129% (from 1553 to 3561 h), respectively. Furthermore, a prototype pouch cell (506 Wh kg −1 ) undergoes 124 cycles. This work establishes an effective strategy that concurrently improves the mechanical and passivation performance of the SEI, tackling the critical challenge of calendar life in Li metal batteries.",
     "tags": [
       "Dendrite/interface",
@@ -196,26 +196,6 @@
     "tags": [
       "Dendrite/interface",
       "Electrolyte"
-    ],
-    "score": 6
-  },
-  {
-    "id": "https://openalex.org/W7220999763",
-    "title": "Janus Ag Nanoskin‐Armored Polyimide Bilayer Separator Enables Efficient Li‐Nucleation Regulation for Dendrite‐Free Lithium Metal Battery",
-    "authors": "Pengpeng Li, Xinluo Li, Qingsong Zhang, Yisong Zhou, Junyi Han, Nianyu Yue et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-10-07",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71684",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT Uncontrolled lithium (Li) dendrite growth has been regarded as the most critical obstacle for the widespread adoption of Li metal batteries (LMBs), stemming from the preferential nucleation of Li ions (Li + ) at low‐energy‐barrier sites that trigger heterogeneous deposition. Therefore, it is pivotal yet significantly challenging to effectively control Li nucleation and deposition in LMBs. Here, we engineer a Janus Ag nanoskin‐armored polyimide (Ag@PI/PI) bilayer separator by in situ growth Ag nanoparticles on the surface of PI nanofiber and integrating a high‐strength PI nanofiber membrane as the dorsal substrate. Specifically, the Ag nanoskin acts as a three‐dimensional lithiophilic host to seize Li and induce sequential Li nucleation, thereby preventing Li dendrite formation. As a result, the Ag@PI/PI‐Li||Cu cell exhibits a low overpotential of 31.0 mV, high Coulombic efficiency of 98.9%, and prolonged Sand's time of 26.3 h. Significantly, the Ag@PI/PI separator delivers a high Li + transference number (0.70) and exceptional cycling stability (1600 h) in a Li||Li cell. Moreover, the Ag@PI/PI‐based Li||NCM523 cell achieves a remarkable specific capacity of 108.32 mAh g −1 at 5 C while retaining a satisfying capacity retention of 88.7% at 1 C. These results underscore the viability of this universal and efficient Ag nanoskin‐armored strategy for high‐security LMBs applications.",
-    "tags": [
-      "Plating/stripping",
-      "Dendrite/interface",
-      "Characterization/modeling"
     ],
     "score": 6
   },
