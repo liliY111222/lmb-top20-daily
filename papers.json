@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://openalex.org/W7224293834",
+    "title": "Ionic‐Ligand‐Assisted Transport in Fluorinated Poly(ionic liquid) Electrolytes Enables 515 Wh Kg −1 Solid‐State Lithium Metal Batteries",
+    "authors": "Zhicheng Wang, Kun Liang, Chenlu Wang, Ju Ren, Wei Li, Haifeng Tu et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-29",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75524",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Decoupling ionic conductivity from polymer segmental relaxation while maintaining interfacial stability remains a pivotal challenge for solid polymer electrolytes (SPEs). In this study, we construct an ionic‐ligand‐assisted transport framework by copolymerizing a fluorinated acrylate polymer with a poly(ionic liquid) (PIL) and optimizing the lithium bis(fluorosulfonyl)imide (LiFSI) salt concentration. Density functional theory and molecular dynamics simulations reveal that cationic PIL moieties strongly anchor FSI − anions, creating anion‐rich, spatially correlated coordination pathways that facilitate efficient Li + hopping. The optimized electrolyte exhibits a high ionic conductivity (0.38 mS cm −1 ) and an exceptional Li + transference number (0.77) at 30°C. The fluorinated backbone and PIL synergistically expand the oxidative stability window to 4.94 V and promote an inorganic‐rich solid electrolyte interphase (SEI) on the Li‐metal anode. Consequently, Li||Cu cells cycle stably for over 400 cycles with 99.1% average Coulombic efficiency. Solid‐state Li||LiNi 0.9 Co 0.05 Mn 0.05 O 2 (NCM90) cells retain ≈81.0% capacity after 600 cycles at 4.3 V, and ≈83.1% capacity after 200 cycles at 4.5 V. Moreover, a high‐energy‐density (515 Wh kg −1 ) solid‐state pouch cell with an ultrathin Li anode (50 µm) and a high‐loading NCM90 cathode (≈56 mg cm −2 ) delivers stable cycling and exceptional safety. This ionic‐ligand regulation paradigm provides critical mechanistic insights for designing high‐performance and high‐safety solid‐state batteries.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Safety"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7224633139",
+    "title": "Beyond Isolated Active Sites: Adjacent Single‐Atom‐Nanoparticle Electronic Coupling Enables Lateral Lithium Growth",
+    "authors": "Jun Zhang, Yu Dong, Zhenyu Wang, Tongxiang Chen, Xudong Sun, Jing Li et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-28",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75485",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Precise host regulation remains pivotal for dendrite‐free lithium metal anodes (LMAs). While maximizing isolated single‐atom sites improves initial Li nucleation, their uniform adsorption energetics inherently confine Li to these initial sites, favoring localized vertical accumulation over lateral growth. Here we propose an adjacent single‐atom‐nanoparticle electronic coupling strategy to break this thermodynamic bottleneck. Via coordination‐mediated laser direct writing, we construct a hierarchical porous graphene host comprising ultrafine Co nanoparticles and adjacent Co single atoms. Precursor preorganization and the ultrafast, non‐equilibrium kinetics of laser processing concurrently drive in situ graphitization and Co‐species reconstruction, effectively suppressing the aggregation in conventional thermal synthesis. Mechanistically, rather than relying on isolated thermodynamic traps, interfacial electronic coupling reconstructs the local d ‐band center and establishes a directed spatial Li adsorption‐energy gradient. This thermodynamic driving force compels Li to sequentially occupy neighboring sites, effectively precluding localized vertical accumulation. Owing to this spatially regulated deposition, the high‐loading Li||LiFePO 4 full cells retain 71.4% capacity after 1000 cycles at 2 C. This adjacent electronic coupling strategy transcends the isolated active sites paradigm, opening a new dimension for interfacial electronic‐structure regulation in practical LMAs.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7223787443",
     "title": "Bifunctional Additive Enabled Thermoresponsive Electrolytes With Dual‐Mode Manipulation Toward Safe Lithium Metal Batteries",
     "authors": "Xue Yang, Xiao Hang Guo, Ming Hui Zhang, Yu Hao Huang, Yong Li, Bao Ning Zhu et al.",
@@ -93,7 +135,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/aenm.71721",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT The incorporation of solvent N‐methylpyrrolidone (NMP) into polyethylene oxide (PEO) weakens EO‐Li + interaction and boosts Li + transport via strong Li + affinity, but free NMP inevitably reacts with Li metal, undermining interface stability. Herein, we report a dual‐anion coordination strategy that repurposes the residual NMP from a “side‐reaction source” into a “functional component”. LiDFOB and LiNO 3 are introduced as dual‐salt additives into an NMP‐containing PEO/LiTFSI system. Leveraging the preferential coordination of DFOB– and NO 3 – with Li + , an anion‐enriched solvation sheath is constructed, which strengthens the Li + ‐NMP interactions. The modified coordination environment facilitates the preferential formation of a kinetically stable, anion‐derived solid electrolyte interphase (SEI), effectively mitigating interfacial side reactions between the NMP and Li metal. As a result, the obtained electrolyte delivers a high ionic conductivity of 1.69 × 10 −4 S cm −1 and stable cycling over 1200 h at room temperature. The assembled Li/LFP cell exhibits a high capacity retention of 93% after 2000 cycles. Even at room temperate and 0°C, the assembled Li/LFP cell maintains stable and efficient cycling. This work establishes a universal solvent structure tailoring strategy to regulate reactive solvent molecules, opening a fresh avenue for high‐performance PEO‐based solid‐state lithium metal batteries.",
     "tags": [
       "Dendrite/interface",
