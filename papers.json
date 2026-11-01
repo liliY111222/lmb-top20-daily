@@ -1,5 +1,26 @@
 [
   {
+    "id": "https://openalex.org/W7224743253",
+    "title": "Fundamental Design Principles and Engineering Strategies of Liquid‐Phase Electrolytes for Highly Durable Rechargeable Lithium Metal Batteries",
+    "authors": "Yaoda Wang, Zhong Jin",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-30",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75533",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "Lithium (Li) metal has emerged as the premier anode candidate in next-generation high-energy-density batteries due to its ultrahigh theoretical capacity and ultralow electrochemical potential. However, critical technical barriers persist in Li metal anode implementation, such as uncontrolled Li dendrite growth and persistent interfacial side reactions. Acting as the mediating agent between cathodes and anodes, electrolytes critically determine battery overall performance. Taking solvent-salt-additive components as the entry point, adopting liquid-phase electrolyte engineering strategies to optimize electrolyte composition and regulate solvation structure can not only address the inherent issues of Li metal anodes, but also endow Li metal batteries with desired performances, including high safety, high-voltage tolerance, fast-charging capability, and wide-temperature operation. In this review, the design principles of reliable liquid-phase electrolytes for Li metal batteries are discussed in detail. The essential liquid-phase electrolyte engineering strategies, including designing new-type salt/solvent molecular architectures, restructuring salt-solvent combination systems, incorporating electrolyte additives with various functions, utilizing (localized) high-concentration electrolytes, and developing brand-new electrolyte formulations for adapting to different temperature ranges, are comprehensively summarized. Moreover, emerging design strategies, future design considerations, and remaining challenges in electrolyte engineering are highlighted, with the aim of pointing out potential opportunities to propel the practical development of Li metal batteries.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Safety"
+    ],
+    "score": 9
+  },
+  {
     "id": "https://openalex.org/W7224293834",
     "title": "Ionic‐Ligand‐Assisted Transport in Fluorinated Poly(ionic liquid) Electrolytes Enables 515 Wh Kg −1 Solid‐State Lithium Metal Batteries",
     "authors": "Zhicheng Wang, Kun Liang, Chenlu Wang, Ju Ren, Wei Li, Haifeng Tu et al.",
@@ -10,7 +31,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.75524",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT Decoupling ionic conductivity from polymer segmental relaxation while maintaining interfacial stability remains a pivotal challenge for solid polymer electrolytes (SPEs). In this study, we construct an ionic‐ligand‐assisted transport framework by copolymerizing a fluorinated acrylate polymer with a poly(ionic liquid) (PIL) and optimizing the lithium bis(fluorosulfonyl)imide (LiFSI) salt concentration. Density functional theory and molecular dynamics simulations reveal that cationic PIL moieties strongly anchor FSI − anions, creating anion‐rich, spatially correlated coordination pathways that facilitate efficient Li + hopping. The optimized electrolyte exhibits a high ionic conductivity (0.38 mS cm −1 ) and an exceptional Li + transference number (0.77) at 30°C. The fluorinated backbone and PIL synergistically expand the oxidative stability window to 4.94 V and promote an inorganic‐rich solid electrolyte interphase (SEI) on the Li‐metal anode. Consequently, Li||Cu cells cycle stably for over 400 cycles with 99.1% average Coulombic efficiency. Solid‐state Li||LiNi 0.9 Co 0.05 Mn 0.05 O 2 (NCM90) cells retain ≈81.0% capacity after 600 cycles at 4.3 V, and ≈83.1% capacity after 200 cycles at 4.5 V. Moreover, a high‐energy‐density (515 Wh kg −1 ) solid‐state pouch cell with an ultrathin Li anode (50 µm) and a high‐loading NCM90 cathode (≈56 mg cm −2 ) delivers stable cycling and exceptional safety. This ionic‐ligand regulation paradigm provides critical mechanistic insights for designing high‐performance and high‐safety solid‐state batteries.",
     "tags": [
       "Plating/stripping",
@@ -18,6 +39,26 @@
       "Electrolyte",
       "Solid-state LMB",
       "Safety"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7224774526",
+    "title": "Operando Mapping of Population Phase Separation and Lithium‐Plating Dynamics in Graphite Electrode Using Optical Microscopy and Microstructure Modeling",
+    "authors": "Heng Huang, Yang Li, Xuekun Lu, Xinyu Liu, Yang Li, Huanyue Zhang et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-29",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71762",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT The fast‐charging capability of phase‐separating graphite electrodes is largely constrained by heterogeneous reaction kinetics and sluggish mass transport at both the particle and electrode scales, which increase the risk of parasitic lithium plating and associated safety concerns. A deeper mechanistic understanding of the interplay among phase‐separation dynamics, electrode microstructure, and lithium‐plating propensity is therefore essential for guiding the rational design of advanced electrode architectures and fast‐charging protocols. Here, we combine operando optical microscopy with three‐dimensional microstructure‐resolved phase‐field modeling to resolve the interplay between phase separation and lithium plating. Microscopy captures stages evolution, phase mode transitions and structural dynamics across the particle population and at the single‐particle level, which is driven by the slow interfacial reactions. Non‐equilibrium phase‐field simulations elucidate the kinetic control mechanisms governing phase transitions as the current varies. Importantly, a new mechanism of lithium plating associated with interfacial ohmic resistance is identified. Based on these insights, we evaluate particle‐size‐distribution design and use thermal activation as a mechanistic probe to resolve how temperature alters phase‐separation pathways and lithium‐plating behavior. These results may serve as a foundation for improving the physical understanding and driving optimization of fast charging protocols for lithium‐ion batteries.",
+    "tags": [
+      "Plating/stripping",
+      "Safety",
+      "Characterization/modeling"
     ],
     "score": 3
   },
@@ -52,7 +93,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/aenm.71759",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT Thermal safety issues arising from electrolyte instability at elevated temperatures pose a critical challenge for lithium (Li) metal batteries (LMBs). Thermoresponsive electrolytes offer a promising solution, yet battery systems with high‐rate capability and reliable thermal protection have not been realized. Herein, we introduce a bifunctional LiNO 3 additive into a high‐volume‐fraction vinylene carbonate‐based thermoresponsive electrolyte (HVCE‐N) to enhance the performance of LMBs at room and elevated temperatures. Notably, the introduction of the LiNO 3 additive modifies the solvation structure of Li + and forms a Li 3 N/LiN x O y solid electrolyte interface with high ionic conductivity. Under thermal shock, HVCE‐N undergoes a rapid liquid‐to‐solid phase transition upon free radical polymerization to form a polymer network. More importantly, LiNO 3 can regulate the free radical concentration to control the degree of polymerization, thereby preserving high ion transport capability even after phase transition. As a result, a Li||NCM811 cell based on HVCE‐N exhibits high‐rate performance from 1C to 10C, and stable cycling at 100°C. When subjected to a thermal shock of 200°C, HVCE‐N suppresses thermal runaway for Li||NCM811 pouch cell. This electrolyte design offers a new strategy to develop highly safe LMBs with high‐rate performance.",
     "tags": [
       "Dendrite/interface",
@@ -221,25 +262,6 @@
       "Solid-state LMB"
     ],
     "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7220986662",
-    "title": "Polypyrrole as Dissociation Promoter and Interface Stabilizer of Solid Polymer Electrolytes for Solid‐State Li Metal Batteries",
-    "authors": "Zewen Sun, Xiaotong Zhang, Wenjie Zhang, Qiyue Chen, Lijun Fu, Xinhai Yuan et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-10-08",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.75225",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT Advanced solid polymer electrolytes (SPEs) are indispensable for enabling durable, safe, and high‐energy‐density solid‐state lithium metal batteries (SSLMBs). However, the concurrent optimization of lithium‐salt dissociation, Li + transport, and lithium‐metal interfacial chemistry remains a challenge over decades. In this study, a PPy‐regulated solid polymer electrolyte (PPyPL) featuring chemically differentiated coordination sites is developed to reconstruct ion‐solvation chemistry through site‐selective Li + /anion coordination. The resulting coordination architecture affords differentiated molecular interactions in which pyrrolic nitrogen sites preferentially coordinate Li + , whereas hydrogen sites along the PPy backbone interact with bis(trifluoromethanesulfonyl)imide (TFSI − ) anions, thereby simultaneously promoting lithium‐salt dissociation, accelerating Li + transport, and directing LiF/Li 3 N‐rich interphase formation. Benefiting from the synergistic regulation of ion‐solvation chemistry and interfacial evolution, PPyPL achieves an ionic conductivity of 0.76 mS cm −1 at room temperature (25°C), a Li + transference number of 0.65, and ultralong Li plating/stripping stability over 8000 h. It further enables outstanding rate capability and durable cycling in both Li||LiFePO 4 (LFP) and Li||LiNi 0.8 Co 0.1 Mn 0.1 O 2 (NCM811) solid‐state full cells. This work provides a new strategy for regulating Li + /anion coordination in advanced SPEs toward durable SSLMBs.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte"
-    ],
-    "score": 6
   },
   {
     "id": "https://openalex.org/W7220742457",
