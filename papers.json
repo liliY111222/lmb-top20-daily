@@ -1,5 +1,67 @@
 [
   {
+    "id": "https://openalex.org/W7225161353",
+    "title": "Anchored Fluoro‐Shielded Solvation for Lithium Metal Batteries",
+    "authors": "Kaihua Wen, Tengsheng Chi, Junyao You, Lei Mao, Xinxin Zhu, Yan‐Bing He et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-11-02",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75606",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Polyvinylidene fluoride (PVDF)‐based polymer electrolytes are promising candidates for solid‐state lithium metal batteries owing to their favorable overall electrochemical properties. However, conventional PVDF‐based polymer electrolytes suffer from uneven solvation distribution, discontinuous ion‐transport pathways, and unstable electrode/electrolyte interfaces caused by residual solvents and porous PVDF frameworks. Herein, we report an anchored fluoro‐shielded solvation strategy to construct a high‐performance PVDF‐based polymer electrolyte. By integrating polyanionic anchoring sites with fluorinated shielding segments, the optimized electrolyte enables spatially distributed anion‐rich solvation pathways, homogeneous Li + transport, and robust LiF‐rich solid electrolyte interphase (SEI). The polymer electrolyte delivers a high ionic conductivity of 1.26×10 −3 S cm −1 , a Li + transference number of 0.69, an oxidative onset potential of 5.27 V, and a critical current density of 6.4 mA cm −2 . Spectroscopic and interfacial analyses reveal that the anchored fluoro‐shielded solvation structure promotes LiF‐rich SEI formation and suppresses solvent decomposition. Consequently, Li||LiNi 0.8 Co 0.1 Mn 0.1 O 2 batteries retain 80.2% capacity after 2000 cycles under high‐voltage and high‐rate conditions of 4.5 V and 5 C. This work highlights anchored fluoro‐shielded solvation as an effective molecular design principle for advanced polymer electrolytes toward practical high‐voltage and high‐rate solid‐state Li metal batteries.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 6
+  },
+  {
+    "id": "https://openalex.org/W7225184321",
+    "title": "N‐Heterocyclic Molecular Additives Enable Solvation and Interfacial Chemistry Regulation for High‐Stability, High‐Rate, and High‐Capacity Lithium Metal Anodes",
+    "authors": "Fujie Liu, Linglin Xia, Tingting Zhao, Juying Zhou, Jianfang Lu, Cong Liu",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-11-02",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71794",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Most electrolyte additives enable long‐term Li plating/stripping at <3 mA cm − 2 , non‐applicable to practical Li‐metal batteries (LMBs) operating at ≥5 mA cm − 2 and ≥ 5 mAh cm − 2 . Here, we report an interaction chemistry that enables simultaneous solvation and interfacial regulation by exploring a novel N‐heterocyclic molecule (i.e., TPTC)—comprising an N‐heterocyclic core and four pyridine units–as an efficient additive for achieving ultra‐stable Li‐metal anodes under practical conditions. Electron‐rich N atoms in TPTC serve as ion‐dipole interaction sites, inducing competitive coordination that weakens Li + solvation and enhances Li + migration in the bulk electrolyte, which homogenizes Li + concentration near the interface, favoring high‐rate Li deposition. TPTC also adsorbs on Li surface to construct a protective layer with a low interfacial de‐solvation barrier, which–together with low‐barrier Li + transport through heterocyclic cavities–facilitates uniform Li deposition. Meanwhile, electron‐deficient C–H sites in pyridine weakly interact with TFSI − , forming an anion‐rich interfacial region that in situ decomposes into an inorganic‐rich interphase, affording high‐flux Li + transport. This synergy allows stable Li plating/stripping at 10 mA cm −2 /10 mAh cm −2 for 3000 h. Paired with a high‐loading LiFePO 4 cathode (∼15 mg cm −2 ) and thin Li (∼100 µm), the cell maintains 87.8% capacity after 400 cycles.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7225195047",
+    "title": "Zwitterionic Thermoplastic Polyurethane‐Based Quasi‐Solid Polymer Electrolytes for Lithium Metal Batteries With Machine‐Learning‐Assisted Mechanistic Insights",
+    "authors": "Hongbin Na, Kyeonghyeon Nam, Yonghyuk Lee, Sung‐Kon Kim",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-11-02",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71793",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT This study presents a quasi‐solid‐state electrolyte based on zwitterionic thermoplastic polyurethane (QS‐Z‐TPU) for lithium metal batteries. Unlike conventional quasi‐solid polymer electrolytes that mainly serve as passive liquid‐electrolyte reservoirs, QS‐Z‐TPU is designed as an active ion‐regulating matrix via phosphorylcholine‐derived zwitterionic groups in the TPU framework. The resulting electrolyte combines the elasticity and film‐forming capability of TPU with dual‐site ion regulation, where phosphate sites coordinate Li + while quaternary ammonium and urethane N‐H groups immobilize TFSI − anions. This design enhances electrolyte affinity while suppressing destructive swelling due to ionic crosslinking. QS‐Z‐TPU exhibits high ionic conductivity, a wide electrochemical stability window, and an enhanced Li + transference number. Machine‐learning‐assisted molecular modeling further reveals that the zwitterionic oligomer stabilizes separated LiTFSI configurations through cooperative Li + coordination and TFSI − association, substantially reducing the energetic penalty for ion‐pair separation. This regulated ion environment promotes uniform Li + flux at the lithium metal interface and facilitates the formation of a stable inorganic‐rich solid electrolyte interphase. Consequently, QS‐Z‐TPU enables stable Li plating/stripping and improves the cycling stability and rate capability of LFP|Li full cells, further validated in flexible pouch‐cell demonstrations. These findings highlight zwitterionic molecular engineering as an effective strategy for interface‐stabilizing quasi‐solid electrolytes.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7224743253",
     "title": "Fundamental Design Principles and Engineering Strategies of Liquid‐Phase Electrolytes for Highly Durable Rechargeable Lithium Metal Batteries",
     "authors": "Yaoda Wang, Zhong Jin",
@@ -205,44 +267,6 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7221820127",
-    "title": "Beyond Facet Engineering: Dislocation‐Mediated Nucleation Enables Stable Lithium Deposition on Practical Polycrystalline Cu Collectors",
-    "authors": "Xinglong Liang, Yutong Nong, Pengfei Li, Xiaowei Wang, Jitao Nie, Cheng Peng et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-10-14",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.75368",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "Uniform Li deposition on practical Cu current collectors remains challenging in lithium metal batteries. Despite extensive efforts in facet engineering, achieving homogeneous Li deposition on practical polycrystalline Cu collectors remains elusive, highlighting an incomplete understanding of the structural factors governing Li deposition. Herein, a defect-mediated interfacial engineering strategy is developed by simultaneously introducing a high density of geometrically necessary dislocations (GNDs) and enriched <110>/<111> textures on commercial electrodeposited Cu foils. Theoretical calculations and experiments reveal that densely distributed dislocations provide thermodynamically favorable Li adsorption sites and abundant preferential heterogeneous nucleation sites, while the enriched <110>/<111> textures promote Li surface diffusion and lateral growth. This combined effect promotes uniform and compact initial Li deposition, guiding path-dependent deposition evolution and suppressing interfacial heterogeneity. The control experiments further support a key contribution of dislocation defects, while variations in surface chemistry or morphology alone cannot account for the observed performance differences. The optimized Cu foil sustains over 1200 cycles with an average Coulombic efficiency of 99.52% ± 0.20% over the final 200 cycles (n = 4) in Li||Cu cells and improves N/P = 0 Cu||NCM811 full-cell cycling. This work establishes dislocation-mediated nucleation and orientation-regulated growth as a design principle for practical Cu current collectors.",
-    "tags": [
-      "Plating/stripping"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7222243726",
-    "title": "Solvation‐Equilibrium Locking Enables Ultrawide‐Temperature Operation of High‐Voltage Lithium‐Metal Batteries",
-    "authors": "Qingyu Dong, Nan Chen, Yang Li, Li Li, X.J. Liu, Feng Wu et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-10-14",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.75409",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT High‐energy lithium metal batteries are promising for space, polar, deep‐sea, and other extreme environments, but their operation is constrained by temperature‐sensitive ion transport, Li + solvation, and interfacial chemistry. A solvation‐equilibrium‐locked electrolyte (SELE) is reported by combining dimethyl sulfite (DMS), a low‐freezing weakly solvating solvent, with Pyr 13 DFOB (1‐methyl‐1‐propylpyrrolidinium difluoro(oxalato)borate) as an ionic‐liquid co‐solvent. Cooperative ion–dipole and weak C–H⋯O interactions between DMS and Pyr 13 + regulate the free‐solvent reservoir, while TFSI − (bis(trifluoromethanesulfonyl)imide) and DFOB − enrich the primary Li + coordination shell. Variable‐temperature 7 Li NMR, Raman, and molecular dynamics simulations show that solvent‐separated ion pairs, contact ion pairs, and aggregates remain nearly invariant from −60°C to 60°C, unlike the strongly temperature‐responsive Pyr 13 DFOB‐free electrolyte. This locked anion‐rich solvation structure reduces solvent coordination around Li + , mitigates solvent‐derived interfacial decomposition and gas evolution, and promotes LiF‐ and borate‐rich interphases on Li metal and NMC811. Consequently, Li||NMC811 cells deliver discharge capacity at −85°C and operate up to 120°C, while pouch cells remain functional after cooling to −122.9°C. A 6.6 Ah Li||Ni90 pouch cell further achieves 565 Wh kg −1 under lean‐electrolyte conditions, establishing solvation‐equilibrium locking as a molecular design principle for lithium metal batteries operating over a broad temperature range.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7220742457",
     "title": "Mass‐Charge Regulatory Microdomains Enable Coupled Structural and Interfacial Stabilization of Durable 3D Lithium Metal Anodes",
     "authors": "Jiajie Pan, Jieying Hua, Yusi Wang, Haoan Yuan, Junhao Li, Kaixiang Shi et al.",
@@ -343,45 +367,5 @@
       "Electrolyte"
     ],
     "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7203872307",
-    "title": "Screen-Printed Li Arrays with Reinforced Interphase as Ultrathin Anodes for High-Energy–Density Liquid- and Solid-State Batteries",
-    "authors": "Wenting Liu, Zhenyao Wei, De Ning, Zhenhuan Lu, Fengping Zhang, Xuhao Wang et al.",
-    "journal": "Nano-Micro Letters",
-    "journal_rank": 6,
-    "issn": "2150-5551",
-    "date": "2026-08-21",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1007/s40820-026-02342-1",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "Abstract High-energy–density lithium metal batteries, either liquid or solid state, require ultrathin Li anodes, but their implementation is hindered by poor Li processability in fabrication and inhomogeneous Li plating behaviours upon cycling. This work addresses these challenges through a mask-patterned discrete array using a molten salt-derived Li nanocomposite. The screen-printing strategy circumvents the poor wettability of molten Li on copper that causes high Li|Cu contact angle and non-uniform Li spreading, thus fabricating ultrathin Li foils with equivalent thicknesses below 30 μm. Concurrently, the molten salt-derived inorganic nanoparticles in Li favour homogeneous Li deposition and induce inorganic-rich solid electrolyte interphase to jointly suppress active Li consumption. The resulting Li array (10–28 μm) anodes demonstrate remarkable performance in both liquid- and solid-state systems, achieving high energy densities up to 504 Wh kg −1 /1071 Wh L −1 and stable cycling over 260 cycles with high-loading cathodes. This integrated approach resolves both fabrication and cycling challenges of ultrathin Li anodes and offers an alternative solution for high-performance liquid-/solid-state batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7202367461",
-    "title": "A Pyridine Mediator Enables High‐Efficiency, Long‐Cycling Anode‐Less/Free Lithium–Sulfur Batteries With Li 2 S Cathodes",
-    "authors": "Sijia Huang, Pengfei Sang, 孙昊婧, Yongzhu Fu, Xiang Li",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-12",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74616",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is a promising high‐capacity cathode material. Importantly, it can provide lithium source, enabling lithium batteries with an anode‐less/free configuration. However, Li 2 S suffers from poor conductivity, high polarization, low material utilization, as well as the shuttle effect, severely restricting the long cycling performance of batteries. Herein, lithium pyridine‐2‐thiolate (PySLi) is proposed as a multifunctional mediator for Li 2 S‐based anode‐less/free batteries. It is revealed that PySLi can modify the reaction pathway of Li 2 S, comprehensively enhancing its electrochemical redox kinetics and stability. Results show that the energy efficiency of the Li||Li 2 S cell with PySLi stabilizes at ∼80% in the full‐scale range from 0.1 C to 3 C rate, which is much higher than that without PySLi (49% at 0.1 C and 22% at 3 C). The stability of the lithium metal anode is also improved, maintaining a high coulombic efficiency of >98% for 200 cycles and stable lithium stripping/plating behavior for 1000 h. Moreover, an anode‐free battery based on Li 2 S cathode works normally for 150 cycles, and an anode‐less pouch cell retains steady performance for 200 cycles. This multifunctional mediator provides a new strategy for the application of Li 2 S and stable anode‐less/free batteries with high energy density.",
-    "tags": [
-      "Li metal anode",
-      "Plating/stripping",
-      "Solid-state LMB"
-    ],
-    "score": 6
   }
 ]
