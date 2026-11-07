@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://openalex.org/W7225305677",
+    "title": "Super‐Toughness Self‐Healing Composite Solid Electrolyte With Structured Interfacial Reconstruction Enabling Fast Ion Transport and Stable Interface for High‐Performance Solid‐State Lithium Metal Batteries",
+    "authors": "Feng Zou, Zhihong Yao, Bo Peng, Shixin Liu, Runwei Mo",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-11-05",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71809",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Lithium–metal batteries are widely regarded as a key direction for next‐generation energy storage systems due to high energy density. However, LiNi 0 . 8 Co 0 . 1 Mn 0 . 1 O 2 ||Li battery systems face severe challenges in practical application, including lithium dendrite growth, interfacial side reactions and structural degradation of high‐nickel cathodes. Here, we proposed a versatile modification strategy combining in‐situ interfacial transformation with polymer phase regulation to fabricate self‐healing solid polymer electrolyte with fast ion transport and stable interface. This strategy not only constructs fast ion channels and suppresses hydrofluoric acid production by in‐situ converting Li 2 CO 3 on the Li 6.4 La 3 Zr 1.4 Ta 0.6 O 12 surface into Li 2 PO 3 F interfacial layer, but also induces the transition of PVDF from α‐phase to high polarity β‐phase using ethylenediaminetetraacetic acid to promote lithium salt dissolution and reduce Li + migration resistance. The as‐prepared electrolyte exhibits extended electrochemical voltage windows (5.13 V), high room‐temperature ionic conductivity (1.694 mS cm − 1 ), excellent thermal stability (200°C), high elongation at break (422.6%), and superior cycling stability (89.4% retention after 500 cycles at 1 C). A non‐destructive monitoring method based on d p /|d Q | and d T /|d Q | differential signals has been developed to track electrochemical‐mechanical‐thermal responses during battery operation. This work provides an effective strategy for designing solid polymer electrolytes with high ionic conductivity and interfacial stability.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 6
+  },
+  {
     "id": "https://openalex.org/W7225161353",
     "title": "Anchored Fluoro‐Shielded Solvation for Lithium Metal Batteries",
     "authors": "Kaihua Wen, Tengsheng Chi, Junyao You, Lei Mao, Xinxin Zhu, Yan‐Bing He et al.",
@@ -220,26 +240,6 @@
     "cited_by_count": 0,
     "open_access": true,
     "abstract": "ABSTRACT Lithium metal batteries (LMBs) have attracted extensive attention due to their high energy density. However, when lithium (Li) metal is paired with high‐voltage cathode materials, its practical application is limited by issues such as continuous oxidative decomposition of electrolytes and the incompatibility between electrolytes and aggressive electrodes. Herein, we synthesize a fluorinated lithium organosilicate salt (i.e., lithium fluorobis(fluoropinacolatoborato)silicate, LiPBS) to address the aforementioned challenges. The results show that the LiPBS can form a protective and rigid‐flexible cathode electrolyte interphase (CEI) on the cathode surface. Simultaneously, PBS − readily forms a coordination ion pair (CIP) with Li + , constructing an inorganic‐rich solid electrolyte interphase (SEI) on the Li anode. Furthermore, Si─O groups in the LiPBS can effectively scavenge HF and H 2 O from the electrolyte. These advantageous properties enable LiCoO 2 (LCO, 1.89 mAh cm −2 )/Li (50 µm) coin and pouch cells to exhibit excellent cycling performance at high voltages and elevated rates‒for example, retaining 82% capacity after 250 cycles at 1 C and 4.5 V, compared to 80% retention after only 67 cycles for the LiPF 6 ‐based counterpart. This performance is maintained even at an elevated temperature of 50°C. This work highlights the crucial role of lithium organosilicate salt in determining the electrochemical performance of LMBs.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7223096824",
-    "title": "Dual Anion‐Involved Interfacial Chemistry Enables Ultra‐Stable PEO‐Based Solid‐State Lithium Metal Batteries by Suppressing NMP‐Induced Side Reactions",
-    "authors": "Weiya Li, Hongkai Hu, Kang Dong, Jiahao Geng, MengQiu Li, Die Lai et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-10-20",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71721",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT The incorporation of solvent N‐methylpyrrolidone (NMP) into polyethylene oxide (PEO) weakens EO‐Li + interaction and boosts Li + transport via strong Li + affinity, but free NMP inevitably reacts with Li metal, undermining interface stability. Herein, we report a dual‐anion coordination strategy that repurposes the residual NMP from a “side‐reaction source” into a “functional component”. LiDFOB and LiNO 3 are introduced as dual‐salt additives into an NMP‐containing PEO/LiTFSI system. Leveraging the preferential coordination of DFOB– and NO 3 – with Li + , an anion‐enriched solvation sheath is constructed, which strengthens the Li + ‐NMP interactions. The modified coordination environment facilitates the preferential formation of a kinetically stable, anion‐derived solid electrolyte interphase (SEI), effectively mitigating interfacial side reactions between the NMP and Li metal. As a result, the obtained electrolyte delivers a high ionic conductivity of 1.69 × 10 −4 S cm −1 and stable cycling over 1200 h at room temperature. The assembled Li/LFP cell exhibits a high capacity retention of 93% after 2000 cycles. Even at room temperate and 0°C, the assembled Li/LFP cell maintains stable and efficient cycling. This work establishes a universal solvent structure tailoring strategy to regulate reactive solvent molecules, opening a fresh avenue for high‐performance PEO‐based solid‐state lithium metal batteries.",
     "tags": [
       "Dendrite/interface",
       "Electrolyte",
