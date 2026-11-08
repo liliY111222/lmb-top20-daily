@@ -1,5 +1,26 @@
 [
   {
+    "id": "https://openalex.org/W7225434011",
+    "title": "Dual-Nitrate-Releasing Electrospun PAN Nanofiber Separators to Suppress Post-Cycle Corrosion Through Anti-Corrosive Interphase Engineering in Lithium Metal Batteries",
+    "authors": "Seochan Hong, Nayeon Kim, Jae Hyeong Park, Gwan Hyeon Park, Hayoung Lee, Jiyoung Lee et al.",
+    "journal": "Advanced Fiber Materials",
+    "journal_rank": 19,
+    "issn": "2524-7921",
+    "date": "2026-11-06",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1007/s42765-026-00795-y",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "Lithium (Li) metal suffers from continuous chemical corrosion in liquid electrolytes, critically limiting the calendar life of lithium metal batteries (LMBs). Conventional anti-corrosion strategies have primarily focused on stabilizing the initial solid electrolyte interphase (SEI), while corrosion after prolonged cycling remains insufficiently understood. Here, we demonstrate for the first time that repeated Li plating/stripping accelerates subsequent Li corrosion during rest by amplifying the electrolyte-accessible surface area and destabilizing the interphase. We define this cycling-history-dependent degradation as post-cycle corrosion, a critical pathway limiting long-term LMB performance. To address this challenge, we design an electrospun AgNO 3 /Bi(NO 3 ) 3 -embedded polyacrylonitrile (PAN) nanofiber separator (ABPN) as a sustained reservoir of anti-corrosive interphase precursors, implementing the first sustained-release strategy based on dual nitrate species. The continuously supplied nitrate species form a low-solubility, inorganic-rich SEI composed of Li 3 N, LiN x O y , and LiF, suppressing parasitic Li–electrolyte reactions. Concurrently, the in situ formed Li–Ag/Li 3 Bi dual-alloy interphase combines complementary alloy functions to enable uniform Li deposition, enhance interfacial structural stability, and suppress cycling-induced surface-area amplification, thereby mitigating post-cycle corrosion. Consequently, ABPN-based full cells deliver 159 mAh g −1 at 5 C and retain 73.9% capacity after 500 cycles with a 4 h rest after each charge, whereas polypropylene ( PP)-based cells retain only 55.5% after 200 cycles. This work establishes post-cycle corrosion as a critical degradation mode and advances anti-corrosion design beyond SEI stabilization toward simultaneous regulation of interphase chemistry and cycling-induced morphological evolution.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7225305677",
     "title": "Super‐Toughness Self‐Healing Composite Solid Electrolyte With Structured Interfacial Reconstruction Enabling Fast Ion Transport and Stable Interface for High‐Performance Solid‐State Lithium Metal Batteries",
     "authors": "Feng Zou, Zhihong Yao, Bo Peng, Shixin Liu, Runwei Mo",
