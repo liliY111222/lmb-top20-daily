@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://openalex.org/W7225463315",
+    "title": "Anchoring LiZn Nanocrystals With Oligomer Binders for Enhanced Interfacial Stability in Lithium Metal Batteries",
+    "authors": "Zheng Wang, Xin‐Bing Cheng, Feng Jiang, Yun‐Fei Du, Nailu Shen, Ke-Feng Ren et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-11-07",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71814",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Lithium (Li) metal batteries have emerged as one of the most promising candidates for next‐generation energy storage systems due to the potentially high energy density. Nevertheless, repeated interfacial breakdown causes a short lifespan and poor safety. Inspired by the role of plant root systems in anchoring soil, an oligomer‐anchored LiZn nanocrystal composite interphase is constructed on the Li metal anode via a simple spray‐coating strategy, simultaneously enhancing the electrochemical stability and thermal safety of Li metal batteries. The LiZn alloy in the composite interphase restructures the interface energy distribution and reduces the local current density, thereby facilitating uniform lateral Li deposition. The oligomer serves as a binder to glue LiZn particles together and preserve the structural integrity of the interphase. A Li||LiNi 0.5 Co 0.2 Mn 0.3 O 2 coin cell with the composite interphase exhibits a lifespan of 700 cycles at 1 C with a high cathode loading of 3.06 mAh cm −2 . The 1.38 Ah Li||LiNi 0.8 Co 0.1 Mn 0.1 O 2 pouch cell achieves a capacity retention of 86% after 200 cycles. When the cycled pouch cells undergo forced thermal runaway, the composite interphase elevates the trigger temperature from 124°C to 191°C. This interphase design provides novel insights to enhance the service lifespan and thermal safety of high energy density batteries.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Safety"
+    ],
+    "score": 9
+  },
+  {
+    "id": "https://openalex.org/W7225452314",
+    "title": "Ultra‐High Ionic Conductivity Sulfide‐Based Composite Membranes Paired With Stable Interfacial Layer Enables High‐Energy‐Density All‐Solid‐State Batteries",
+    "authors": "Yang Li, Jiachen Hu, Huan Li, Xu Zhao, Peng Lei, Xiaoxue Zhao et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-11-07",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71813",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Intrinsic properties of sulfide solid‐state electrolytes (SEs) are crucial for achieving all‐solid‐state batteries (ASSBs) with high safety and high energy density, yet it is challenging to fabricate high‐performance sulfide SE films in a scalable approach. Furthermore, the inevitable side reactions between sulfide SE and lithium metal anodes exacerbate interfacial incompatibility, causing degradation in the cyclic stability. Here, a high‐performance sulfide SE (Li 5.4 PS 4.4 Cl 0.8 Br 0.8 ) was selected as the base phase to compensate for the loss of electrochemical performance during the dry film‐forming process. It was then combined with Polytetrafluoroethylene binder to prepare a high‐ionic‐conductivity composite membrane (HICCM). To mitigate side reactions between HICCM and the anode, a LiF‐rich interfacial layer forms in situ on the lithium metal surface, and the assembled symmetric cell achieves a high critical current density of 1.3 mA cm −2 and stable cycling for 2000 h (0.2 mA cm −2 ). For electrochemical performance, HICCM exhibits fast ion transport kinetics and electrical insulation, allowing the ASSB configured as FeS 2 //HICCM//LiF‐Li to achieve an energy density of 416.5 Wh kg −1 at a high loading of 3.4 mAh cm −2 . This work demonstrates that by combining HICCM with a stable interface design, ASSBs can achieve longevity and high cell‐level energy density.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Safety"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7225434011",
     "title": "Dual-Nitrate-Releasing Electrospun PAN Nanofiber Separators to Suppress Post-Cycle Corrosion Through Anti-Corrosive Interphase Engineering in Lithium Metal Batteries",
     "authors": "Seochan Hong, Nayeon Kim, Jae Hyeong Park, Gwan Hyeon Park, Hayoung Lee, Jiyoung Lee et al.",
@@ -247,6 +289,28 @@
       "Solid-state LMB"
     ],
     "score": 9
+  },
+  {
+    "id": "https://openalex.org/W7223458800",
+    "title": "Tuning a weakly-coordinating environment via non-polar solvents to promote Li+ interfacial transport in quasi-solid-state Li metal batteries",
+    "authors": "Jie Cui, Lingyan Duan, Qi An, Guiquan Zhao, Li Yang, Haiye Zhu et al.",
+    "journal": "Advanced Powder Materials",
+    "journal_rank": 13,
+    "issn": "2772-834X",
+    "date": "2026-10-24",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1016/j.apmate.2026.100479",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "Polymer electrolytes offer improved safety and interfacial compatibility for lithium metal batteries (LMBs), yet how Li + solvation chemistry governs interfacial stability, especially under high-voltage operation with high-nickel cathodes, remains poorly understood. Here, we introduce a non-polar solvent regulation strategy by incorporating 3,5-dibromobenzotrifluoride (DBTFB) into an in situ polymer electrolyte to construct a weakly coordinating environment. Combined experimental and theoretical investigations reveal that DBTFB restructures the Li + solvation sheath, lowers the Li + de-solvation energy barrier, and accelerates interfacial ion transport. Meanwhile, its electron-deficient fluorinated aromatic framework promotes robust cathode interphase formation through strong interfacial affinity and anion–π interactions, effectively suppressing lattice oxygen release and transition-metal dissolution on Ni-rich cathodes. Consequently, the resulting electrolyte enables stable cycling of Li||NMC811 cells even at 5 C and delivers excellent cycling stability in 1.5 Ah Gr||NMC622 pouch cells. This work offers a practical pathway toward polymer electrolytes compatible with high-nickel cathodes, facilitating the realization of safe and high-energy-density LMBs for next-generation energy storage.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Safety",
+      "Characterization/modeling"
+    ],
+    "score": 6
   },
   {
     "id": "https://openalex.org/W7223176967",
