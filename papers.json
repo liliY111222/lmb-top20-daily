@@ -10,7 +10,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/aenm.71814",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT Lithium (Li) metal batteries have emerged as one of the most promising candidates for next‐generation energy storage systems due to the potentially high energy density. Nevertheless, repeated interfacial breakdown causes a short lifespan and poor safety. Inspired by the role of plant root systems in anchoring soil, an oligomer‐anchored LiZn nanocrystal composite interphase is constructed on the Li metal anode via a simple spray‐coating strategy, simultaneously enhancing the electrochemical stability and thermal safety of Li metal batteries. The LiZn alloy in the composite interphase restructures the interface energy distribution and reduces the local current density, thereby facilitating uniform lateral Li deposition. The oligomer serves as a binder to glue LiZn particles together and preserve the structural integrity of the interphase. A Li||LiNi 0.5 Co 0.2 Mn 0.3 O 2 coin cell with the composite interphase exhibits a lifespan of 700 cycles at 1 C with a high cathode loading of 3.06 mAh cm −2 . The 1.38 Ah Li||LiNi 0.8 Co 0.1 Mn 0.1 O 2 pouch cell achieves a capacity retention of 86% after 200 cycles. When the cycled pouch cells undergo forced thermal runaway, the composite interphase elevates the trigger temperature from 124°C to 191°C. This interphase design provides novel insights to enhance the service lifespan and thermal safety of high energy density batteries.",
     "tags": [
       "Li metal anode",
@@ -30,7 +30,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/aenm.71813",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT Intrinsic properties of sulfide solid‐state electrolytes (SEs) are crucial for achieving all‐solid‐state batteries (ASSBs) with high safety and high energy density, yet it is challenging to fabricate high‐performance sulfide SE films in a scalable approach. Furthermore, the inevitable side reactions between sulfide SE and lithium metal anodes exacerbate interfacial incompatibility, causing degradation in the cyclic stability. Here, a high‐performance sulfide SE (Li 5.4 PS 4.4 Cl 0.8 Br 0.8 ) was selected as the base phase to compensate for the loss of electrochemical performance during the dry film‐forming process. It was then combined with Polytetrafluoroethylene binder to prepare a high‐ionic‐conductivity composite membrane (HICCM). To mitigate side reactions between HICCM and the anode, a LiF‐rich interfacial layer forms in situ on the lithium metal surface, and the assembled symmetric cell achieves a high critical current density of 1.3 mA cm −2 and stable cycling for 2000 h (0.2 mA cm −2 ). For electrochemical performance, HICCM exhibits fast ion transport kinetics and electrical insulation, allowing the ASSB configured as FeS 2 //HICCM//LiF‐Li to achieve an energy density of 416.5 Wh kg −1 at a high loading of 3.4 mAh cm −2 . This work demonstrates that by combining HICCM with a stable interface design, ASSBs can achieve longevity and high cell‐level energy density.",
     "tags": [
       "Li metal anode",
@@ -313,26 +313,6 @@
     "score": 6
   },
   {
-    "id": "https://openalex.org/W7223176967",
-    "title": "A Tailored Multifunctional Lithium Organosilicate Salt Constructing Robust Interphases for High Voltage Lithium Metal Batteries",
-    "authors": "Ningxiang Zhu, Gaojie J. Xu, Guansheng Chen, Shenghang Zhang, Zhilin Yang, Yu Zhao et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-10-22",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71710",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT Lithium metal batteries (LMBs) have attracted extensive attention due to their high energy density. However, when lithium (Li) metal is paired with high‐voltage cathode materials, its practical application is limited by issues such as continuous oxidative decomposition of electrolytes and the incompatibility between electrolytes and aggressive electrodes. Herein, we synthesize a fluorinated lithium organosilicate salt (i.e., lithium fluorobis(fluoropinacolatoborato)silicate, LiPBS) to address the aforementioned challenges. The results show that the LiPBS can form a protective and rigid‐flexible cathode electrolyte interphase (CEI) on the cathode surface. Simultaneously, PBS − readily forms a coordination ion pair (CIP) with Li + , constructing an inorganic‐rich solid electrolyte interphase (SEI) on the Li anode. Furthermore, Si─O groups in the LiPBS can effectively scavenge HF and H 2 O from the electrolyte. These advantageous properties enable LiCoO 2 (LCO, 1.89 mAh cm −2 )/Li (50 µm) coin and pouch cells to exhibit excellent cycling performance at high voltages and elevated rates‒for example, retaining 82% capacity after 250 cycles at 1 C and 4.5 V, compared to 80% retention after only 67 cycles for the LiPF 6 ‐based counterpart. This performance is maintained even at an elevated temperature of 50°C. This work highlights the crucial role of lithium organosilicate salt in determining the electrochemical performance of LMBs.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7222883660",
     "title": "Durable Interphase Incorporating Cross‐Linked Polymer Enables Long‐Calendar‐Life Lithium Metal Batteries",
     "authors": "Jia‐lin Li, Jianxin Tian, Qiang Zhang, Yan‐Bin Gao, Dong‐Hao Zhan, Qiankui Zhang et al.",
@@ -431,25 +411,6 @@
       "Dendrite/interface",
       "Electrolyte",
       "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7212396487",
-    "title": "Lewis Acid‐Enabled Functional SEI/CEI Design for Durable Lithium Metal Batteries",
-    "authors": "Luning Miao, Li Ma, Fuchen Song, Gang Huang, Xinbo Zhang",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-09-12",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71548",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT The development of practical lithium metal batteries requires facile strategies that simultaneously stabilize anode and cathode interfaces while eliminating their native surface oxides. However, the reported research could rarely achieve this dual functionality. Herein, we have developed a dual‐side‐modification strategy using tributylphosphonium tetrafluoroborate (TBPFB) as a Lewis acid to synchronously eliminate the heterogeneous native oxide layers and reconstruct multifunctional inorganic interfaces on both the cathode and anode. The constructed artificial interface on the lithium anode contains LiF, LiBO 2 , Li 3 P, and Li 3 PO 4 , boosting the anode stability by reducing the Li + desolvation barrier and enabling uniform Li + transport. Meanwhile, the LiF‐rich LiNi 0.8 Co 0.1 Mn 0.1 O 2 (NCM811) cathode interface suppresses side reactions and particle cracking, protecting the cathode from transition metal dissolution. Based on the benefits brought by the multifunctional interfaces, the Li||Li symmetric cells achieve a cycling lifespan of over 1700 h, while the Li||NCM811 full cells retain 77% capacity after 500 cycles. Additionally, a 2 Ah pouch cell with an energy density of 423.1 Wh kg −1 maintains over 90% capacity after 100 cycles. This work provides a simple but highly efficient surface modification strategy that stabilizes the most critical interfaces in lithium metal batteries.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte"
     ],
     "score": 3
   },
