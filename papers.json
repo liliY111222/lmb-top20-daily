@@ -291,28 +291,6 @@
     "score": 9
   },
   {
-    "id": "https://openalex.org/W7223458800",
-    "title": "Tuning a weakly-coordinating environment via non-polar solvents to promote Li+ interfacial transport in quasi-solid-state Li metal batteries",
-    "authors": "Jie Cui, Lingyan Duan, Qi An, Guiquan Zhao, Li Yang, Haiye Zhu et al.",
-    "journal": "Advanced Powder Materials",
-    "journal_rank": 13,
-    "issn": "2772-834X",
-    "date": "2026-10-24",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1016/j.apmate.2026.100479",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "Polymer electrolytes offer improved safety and interfacial compatibility for lithium metal batteries (LMBs), yet how Li + solvation chemistry governs interfacial stability, especially under high-voltage operation with high-nickel cathodes, remains poorly understood. Here, we introduce a non-polar solvent regulation strategy by incorporating 3,5-dibromobenzotrifluoride (DBTFB) into an in situ polymer electrolyte to construct a weakly coordinating environment. Combined experimental and theoretical investigations reveal that DBTFB restructures the Li + solvation sheath, lowers the Li + de-solvation energy barrier, and accelerates interfacial ion transport. Meanwhile, its electron-deficient fluorinated aromatic framework promotes robust cathode interphase formation through strong interfacial affinity and anion–π interactions, effectively suppressing lattice oxygen release and transition-metal dissolution on Ni-rich cathodes. Consequently, the resulting electrolyte enables stable cycling of Li||NMC811 cells even at 5 C and delivers excellent cycling stability in 1.5 Ah Gr||NMC622 pouch cells. This work offers a practical pathway toward polymer electrolytes compatible with high-nickel cathodes, facilitating the realization of safe and high-energy-density LMBs for next-generation energy storage.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
-      "Safety",
-      "Characterization/modeling"
-    ],
-    "score": 6
-  },
-  {
     "id": "https://openalex.org/W7222883660",
     "title": "Durable Interphase Incorporating Cross‐Linked Polymer Enables Long‐Calendar‐Life Lithium Metal Batteries",
     "authors": "Jia‐lin Li, Jianxin Tian, Qiang Zhang, Yan‐Bin Gao, Dong‐Hao Zhan, Qiankui Zhang et al.",
@@ -433,25 +411,5 @@
       "Solid-state LMB"
     ],
     "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7202367461",
-    "title": "A Pyridine Mediator Enables High‐Efficiency, Long‐Cycling Anode‐Less/Free Lithium–Sulfur Batteries With Li 2 S Cathodes",
-    "authors": "Sijia Huang, Pengfei Sang, 孙昊婧, Yongzhu Fu, Xiang Li",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-08-12",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.74616",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Lithium sulfide (Li 2 S) is a promising high‐capacity cathode material. Importantly, it can provide lithium source, enabling lithium batteries with an anode‐less/free configuration. However, Li 2 S suffers from poor conductivity, high polarization, low material utilization, as well as the shuttle effect, severely restricting the long cycling performance of batteries. Herein, lithium pyridine‐2‐thiolate (PySLi) is proposed as a multifunctional mediator for Li 2 S‐based anode‐less/free batteries. It is revealed that PySLi can modify the reaction pathway of Li 2 S, comprehensively enhancing its electrochemical redox kinetics and stability. Results show that the energy efficiency of the Li||Li 2 S cell with PySLi stabilizes at ∼80% in the full‐scale range from 0.1 C to 3 C rate, which is much higher than that without PySLi (49% at 0.1 C and 22% at 3 C). The stability of the lithium metal anode is also improved, maintaining a high coulombic efficiency of >98% for 200 cycles and stable lithium stripping/plating behavior for 1000 h. Moreover, an anode‐free battery based on Li 2 S cathode works normally for 150 cycles, and an anode‐less pouch cell retains steady performance for 200 cycles. This multifunctional mediator provides a new strategy for the application of Li 2 S and stable anode‐less/free batteries with high energy density.",
-    "tags": [
-      "Li metal anode",
-      "Plating/stripping",
-      "Solid-state LMB"
-    ],
-    "score": 6
   }
 ]
