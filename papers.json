@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://openalex.org/W7225703764",
+    "title": "Competitive Solvation Structure in a Deep Eutectic Electrolyte Enables High‐Voltage LiCoO 2 ‐Based Pouch Cells With 5000‐Cycle Stability",
+    "authors": "Huijie Tian, Erlei Zhang, Jialin Wang, Qing Li, Yunyun Lei, Hao Wu et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-11-10",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71818",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Anion‐rich solvation structures improve interfacial stability but often impede Li + desolvation, limiting fast‐charging and low‐temperature performance in high‐voltage lithium metal batteries. Unlike conventional high‐concentration or weakly solvating electrolytes, we propose a deep eutectic electrolyte (DEE) using succinonitrile (SN) and dimethyl sulfone (MSM) with competitive coordination capability. This design shifts the Li + solvation from aggregate clusters (AGGs) to a balanced AGGs/contact ion pairs (CIPs) distribution, which lowers the Li + desolvation energy barrier, enhances the transport kinetics, and endows the DEE with an ionic conductivity of 3.87 mS cm −1 and a Li + transference number of 0.81. MSM moderates excessive SN coordination, suppressing parasitic reactions on the anode, thereby enabling stable Li plating/stripping for 6800 h. A lithium bis(trifluoromethanesulfonyl)imide (LiTFSI)/lithium difluoro(oxalato)borate (LiDFOB) dual‐salt system further optimizes interfacial chemistry, yielding a bilayer solid electrolyte interphase comprising an inorganic‐rich inner layer and a flexible organic outer layer. LiCoO 2 ||Li cells retain 97.1% capacity after 1000 cycles at 5C (3.0–4.5 V) and operate stably at −10°C. A 3.0 Ah LiCoO 2 ||Li pouch cell further delivers a high energy density of 417 Wh kg −1 , and LiCoO 2 ||graphite pouch cells sustain long‐term durability over 5000 cycles. This competitive solvation strategy effectively harmonizes kinetics and interfacial robustness for high‐voltage, fast‐charging DEEs.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7225463315",
     "title": "Anchoring LiZn Nanocrystals With Oligomer Binders for Enhanced Interfacial Stability in Lithium Metal Batteries",
     "authors": "Zheng Wang, Xin‐Bing Cheng, Feng Jiang, Yun‐Fei Du, Nailu Shen, Ke-Feng Ren et al.",
