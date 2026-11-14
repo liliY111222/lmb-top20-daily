@@ -246,26 +246,6 @@
     "score": 3
   },
   {
-    "id": "https://openalex.org/W7224633139",
-    "title": "Beyond Isolated Active Sites: Adjacent Single‐Atom‐Nanoparticle Electronic Coupling Enables Lateral Lithium Growth",
-    "authors": "Jun Zhang, Yu Dong, Zhenyu Wang, Tongxiang Chen, Xudong Sun, Jing Li et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-10-28",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.75485",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Precise host regulation remains pivotal for dendrite‐free lithium metal anodes (LMAs). While maximizing isolated single‐atom sites improves initial Li nucleation, their uniform adsorption energetics inherently confine Li to these initial sites, favoring localized vertical accumulation over lateral growth. Here we propose an adjacent single‐atom‐nanoparticle electronic coupling strategy to break this thermodynamic bottleneck. Via coordination‐mediated laser direct writing, we construct a hierarchical porous graphene host comprising ultrafine Co nanoparticles and adjacent Co single atoms. Precursor preorganization and the ultrafast, non‐equilibrium kinetics of laser processing concurrently drive in situ graphitization and Co‐species reconstruction, effectively suppressing the aggregation in conventional thermal synthesis. Mechanistically, rather than relying on isolated thermodynamic traps, interfacial electronic coupling reconstructs the local d ‐band center and establishes a directed spatial Li adsorption‐energy gradient. This thermodynamic driving force compels Li to sequentially occupy neighboring sites, effectively precluding localized vertical accumulation. Owing to this spatially regulated deposition, the high‐loading Li||LiFePO 4 full cells retain 71.4% capacity after 1000 cycles at 2 C. This adjacent electronic coupling strategy transcends the isolated active sites paradigm, opening a new dimension for interfacial electronic‐structure regulation in practical LMAs.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
     "id": "https://openalex.org/W7223787443",
     "title": "Bifunctional Additive Enabled Thermoresponsive Electrolytes With Dual‐Mode Manipulation Toward Safe Lithium Metal Batteries",
     "authors": "Xue Yang, Xiao Hang Guo, Ming Hui Zhang, Yu Hao Huang, Yong Li, Bao Ning Zhu et al.",
@@ -386,26 +366,6 @@
       "Dendrite/interface",
       "Electrolyte",
       "Safety"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7213243464",
-    "title": "Copper‐Governed Divergence of Lithium Deposition Modes in Anode‐Free Lithium Metal Batteries",
-    "authors": "Sida Huo, Li Wang, Yue Wang, Yihui Bai, Meng Li, Ming Fang et al.",
-    "journal": "Advanced Energy Materials",
-    "journal_rank": 12,
-    "issn": "1614-6832",
-    "date": "2026-09-14",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/aenm.71583",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "ABSTRACT Anode‐free lithium metal batteries (AFLMBs) maximize energy density by eliminating anode host materials, but their lifetime is governed by Li deposition on the current collector (CC)—a heterogeneous nucleation and growth process. Current research mainly focuses on electrolyte or artificial interphase engineering, whereas how the CC's physical structure dictates initial deposition behavior remains unclear. Here, we show that the microstructure of Cu foils induces two distinct Li deposition modes: localized nucleation‐selective growth (LS) and distributed nucleation‐competitive coalescence (DCC). Using HLCu and nmCu as model interfaces, we elucidate the evolution pathways of these modes. By integrating AFM, iSCAT, ToF‐SIMS and operando EIS‐DRT, we reveal mode‐specific differences in nucleation sites, interfacial kinetics, and the coupling between morphology, mechanical response, and side reactions. The LS mode generates loose, non‐uniform Li deposits with strong gas evolution, whereas the DCC mode enables dense, continuous, and kinetically stable Li layers. This work demonstrates that the CC is not a passive substrate but a critical component that determines the deposition mode and performance degradation. Optimizing the physical structure of the CC interface offers a key strategy—beyond electrolyte and interphase design—for long‐life AFLMBs.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Characterization/modeling"
     ],
     "score": 3
   },
