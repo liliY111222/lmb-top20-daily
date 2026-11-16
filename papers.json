@@ -10,7 +10,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.75747",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT Ultrathin self‐supporting lithium foils (USSLFs, ≤50 µm) are highly desirable for high‐energy‐density batteries, as eliminating current collectors enhances energy density and reduces material costs. However, the intrinsic mechanical vulnerability of metallic Li remains a critical barrier to both the fabrication and long‐term cycling of USSLFs. Herein, we develop a Li‐rich Li–B–Mg composite foil (LBM) through sequential melt alloying followed by post‐solidification thermomechanical processing, yielding a dense and interconnected LiB 0.88 microrod array with LiMg and MgB 2 lithiophilic phases within the Li‐rich matrix. This architecture enables large‐area (>170 cm 2 ) self‐supporting foils down to 15 µm while preserving a high Li content. During cycling, the microrod array redistributes local stress and restrains deformation, preserving the internal architecture and accessibility of lithiophilic sites. These sites, in turn, favor Li accommodation within the electrode interior, suppressing surface Li accumulation and alleviating local stress concentration. This self‐sustained coupling between stress regulation and lithiophilic guidance supports stable cycling for over 5000 h in symmetric cells using 50 µm LBM foils with about 10% thickness expansion, while 15 µm foils cycle for over 500 h at a depth of discharge of about 37.4%. This work advances the design of practical USSLFs for high‐energy lithium metal batteries.",
     "tags": [
       "Li metal anode"
@@ -28,7 +28,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/adma.75687",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT The development of lithium metal batteries (LMBs) is severely impeded by limited cycle life arising from irreversible lithium dendrite growth. Herein, we design a scalable, protrusion‐targeted electrolytes to achieve industrial‐scale LMBs through retarding the formation of dendritic lithium embryos. The site‐selective‐blocking molecules preferentially adsorbs onto protrusive sites of lithium deposition, which inhibits the local lithium deposition rate to block dendrite initiation. More importantly, the abundant polar functional groups of adsorbed molecules induce directional enrichment of anions, achieving passivation repair of fresh dendritic lithium. This synergy of selective adsorption and interfacial repair effectively inhibits the self‐amplifying growth of lithium dendrites, thereby mitigating continuous electrolyte consumption. An 8 Ah‐level pouch cell with 500 Wh kg −1 delivers an impressive capacity retention of over 80% after 525 cycles. Furthermore, we show large‐scale production of electrolytes for preparing industrial‐scale LMBs. This design offers a viable approach for long‐life LMBs at an industry compatible scale.",
     "tags": [
       "Dendrite/interface",
@@ -47,7 +47,7 @@
     "year": 2026,
     "doi_url": "https://doi.org/10.1002/aenm.71820",
     "cited_by_count": 0,
-    "open_access": false,
+    "open_access": true,
     "abstract": "ABSTRACT Introducing non‐lithium components to fabricate lithium‐based alloy anodes has emerged as a paramount strategy to enhance the processability and stability of lithium metal batteries. However, conventional fabrication suffers from the sluggish wetting kinetics of lithium with non‐lithium components, inducing severe phase heterogeneity and component agglomeration. Herein, we report an ultrafast, spontaneous implosion‐popcorn reaction that explosively disintegrates centimeter‐scale precursor ingots into ultra‐fine particles within seconds, yielding a uniformly dispersed tri‐phase alloy with an interpenetrating network of Fe, Li 3 P, and Li. The as‐obtained lithium alloy exhibits a significantly enhanced Young's modulus and can be processed into different forms, including coatable slurries, self‐standing foils, and active powders. This fabrication method shifts from traditional passive alloying to an active, highly efficient, and homogenous approach. When used as an anode, the homogeneous Li/Fe/Li 3 P architecture facilitates interfacial Li‐ion transfer and regulates initial Li nucleation, thereby promoting dense and uniform Li growth and enabling a cycling lifespan of over 3000 h, together with improved full‐cell stability.",
     "tags": [],
     "score": 3
@@ -232,70 +232,6 @@
       "Electrolyte",
       "Solid-state LMB",
       "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7225867523",
-    "title": "High-Performance Lithium Metal Anodes Enabled by Multi-dimensional Host Materials",
-    "authors": "Xiaoyan Chen, De Gao, Tao Li, Hang Ge, Paul Kim-Ho Chu, Kaifu Huo",
-    "journal": "Advanced Powder Materials",
-    "journal_rank": 13,
-    "issn": "2772-834X",
-    "date": "2026-11-01",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1016/j.apmate.2026.100485",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "Lithium (Li) metal anodes are critical for next-generation high-energy-density batteries, yet their practical application is limited by dendritic Li growth, unstable interfaces, and large volume fluctuations during cycling. Multi-dimensional host materials offer a promising route to suppress dendrite formation and accommodate volume changes, thereby enabling high-performance Li metal anodes. This review presents a dimension-based design framework for Li metal hosts, spanning 0D to 3D architectures and multi-dimensional composites. The framework links host dimensionality to lithiophilicity, ion/electron transport, Li nucleation and growth, interfacial evolution, and structural accommodation, and identifies the characteristic advantages, limitations, and trade-offs of each architecture. Crucially, these dimension-dependent effects are not isolated. Electrolyte chemistry, electric double layer structure, and solid electrolyte interphase formation collectively govern Li + desolvation, interfacial transport, nucleation, and reversibility, even in 3D and multi-dimensional hosts. We therefore discuss host architecture within the broader context in which host design and electrolyte engineering are complementary strategies rather than independent solutions, comparing the roles and limitations of different dimensional designs. Electrochemical performances are compared under explicitly stated testing conditions, including current density, areal capacity, cell configuration, electrolyte composition, and cycling stability. Finally, we outline key challenges and propose design principles for integrating dimensional regulation, interfacial chemistry, and functional complementarity toward high-performance Li metal batteries.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB"
-    ],
-    "score": 9
-  },
-  {
-    "id": "https://openalex.org/W7224743253",
-    "title": "Fundamental Design Principles and Engineering Strategies of Liquid‐Phase Electrolytes for Highly Durable Rechargeable Lithium Metal Batteries",
-    "authors": "Yaoda Wang, Zhong Jin",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-10-30",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.75533",
-    "cited_by_count": 0,
-    "open_access": false,
-    "abstract": "Lithium (Li) metal has emerged as the premier anode candidate in next-generation high-energy-density batteries due to its ultrahigh theoretical capacity and ultralow electrochemical potential. However, critical technical barriers persist in Li metal anode implementation, such as uncontrolled Li dendrite growth and persistent interfacial side reactions. Acting as the mediating agent between cathodes and anodes, electrolytes critically determine battery overall performance. Taking solvent-salt-additive components as the entry point, adopting liquid-phase electrolyte engineering strategies to optimize electrolyte composition and regulate solvation structure can not only address the inherent issues of Li metal anodes, but also endow Li metal batteries with desired performances, including high safety, high-voltage tolerance, fast-charging capability, and wide-temperature operation. In this review, the design principles of reliable liquid-phase electrolytes for Li metal batteries are discussed in detail. The essential liquid-phase electrolyte engineering strategies, including designing new-type salt/solvent molecular architectures, restructuring salt-solvent combination systems, incorporating electrolyte additives with various functions, utilizing (localized) high-concentration electrolytes, and developing brand-new electrolyte formulations for adapting to different temperature ranges, are comprehensively summarized. Moreover, emerging design strategies, future design considerations, and remaining challenges in electrolyte engineering are highlighted, with the aim of pointing out potential opportunities to propel the practical development of Li metal batteries.",
-    "tags": [
-      "Li metal anode",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Safety"
-    ],
-    "score": 9
-  },
-  {
-    "id": "https://openalex.org/W7224293834",
-    "title": "Ionic‐Ligand‐Assisted Transport in Fluorinated Poly(ionic liquid) Electrolytes Enables 515 Wh Kg −1 Solid‐State Lithium Metal Batteries",
-    "authors": "Zhicheng Wang, Kun Liang, Chenlu Wang, Ju Ren, Wei Li, Haifeng Tu et al.",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-10-29",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.75524",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "ABSTRACT Decoupling ionic conductivity from polymer segmental relaxation while maintaining interfacial stability remains a pivotal challenge for solid polymer electrolytes (SPEs). In this study, we construct an ionic‐ligand‐assisted transport framework by copolymerizing a fluorinated acrylate polymer with a poly(ionic liquid) (PIL) and optimizing the lithium bis(fluorosulfonyl)imide (LiFSI) salt concentration. Density functional theory and molecular dynamics simulations reveal that cationic PIL moieties strongly anchor FSI − anions, creating anion‐rich, spatially correlated coordination pathways that facilitate efficient Li + hopping. The optimized electrolyte exhibits a high ionic conductivity (0.38 mS cm −1 ) and an exceptional Li + transference number (0.77) at 30°C. The fluorinated backbone and PIL synergistically expand the oxidative stability window to 4.94 V and promote an inorganic‐rich solid electrolyte interphase (SEI) on the Li‐metal anode. Consequently, Li||Cu cells cycle stably for over 400 cycles with 99.1% average Coulombic efficiency. Solid‐state Li||LiNi 0.9 Co 0.05 Mn 0.05 O 2 (NCM90) cells retain ≈81.0% capacity after 600 cycles at 4.3 V, and ≈83.1% capacity after 200 cycles at 4.5 V. Moreover, a high‐energy‐density (515 Wh kg −1 ) solid‐state pouch cell with an ultrathin Li anode (50 µm) and a high‐loading NCM90 cathode (≈56 mg cm −2 ) delivers stable cycling and exceptional safety. This ionic‐ligand regulation paradigm provides critical mechanistic insights for designing high‐performance and high‐safety solid‐state batteries.",
-    "tags": [
-      "Plating/stripping",
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
-      "Safety"
     ],
     "score": 3
   },
