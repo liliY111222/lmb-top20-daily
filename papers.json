@@ -93,7 +93,7 @@
   {
     "id": "https://openalex.org/W7225463315",
     "title": "Anchoring LiZn Nanocrystals With Oligomer Binders for Enhanced Interfacial Stability in Lithium Metal Batteries",
-    "authors": "Zheng Wang, Xin‐Bing Cheng, Feng Jiang, Yun‐Fei Du, Nailu Shen, Ke-Feng Ren et al.",
+    "authors": "Zheng Wang, Xin Pu Shen, Feng Jiang, Yun‐Fei Du, Nailu Shen, Ke-Feng Ren et al.",
     "journal": "Advanced Energy Materials",
     "journal_rank": 12,
     "issn": "1614-6832",
@@ -150,6 +150,191 @@
       "Electrolyte",
       "Solid-state LMB",
       "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7225305677",
+    "title": "Super‐Toughness Self‐Healing Composite Solid Electrolyte With Structured Interfacial Reconstruction Enabling Fast Ion Transport and Stable Interface for High‐Performance Solid‐State Lithium Metal Batteries",
+    "authors": "Feng Zou, Zhihong Yao, Bo Peng, Shixin Liu, Runwei Mo",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-11-05",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71809",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "ABSTRACT Lithium–metal batteries are widely regarded as a key direction for next‐generation energy storage systems due to high energy density. However, LiNi 0 . 8 Co 0 . 1 Mn 0 . 1 O 2 ||Li battery systems face severe challenges in practical application, including lithium dendrite growth, interfacial side reactions and structural degradation of high‐nickel cathodes. Here, we proposed a versatile modification strategy combining in‐situ interfacial transformation with polymer phase regulation to fabricate self‐healing solid polymer electrolyte with fast ion transport and stable interface. This strategy not only constructs fast ion channels and suppresses hydrofluoric acid production by in‐situ converting Li 2 CO 3 on the Li 6.4 La 3 Zr 1.4 Ta 0.6 O 12 surface into Li 2 PO 3 F interfacial layer, but also induces the transition of PVDF from α‐phase to high polarity β‐phase using ethylenediaminetetraacetic acid to promote lithium salt dissolution and reduce Li + migration resistance. The as‐prepared electrolyte exhibits extended electrochemical voltage windows (5.13 V), high room‐temperature ionic conductivity (1.694 mS cm − 1 ), excellent thermal stability (200°C), high elongation at break (422.6%), and superior cycling stability (89.4% retention after 500 cycles at 1 C). A non‐destructive monitoring method based on d p /|d Q | and d T /|d Q | differential signals has been developed to track electrochemical‐mechanical‐thermal responses during battery operation. This work provides an effective strategy for designing solid polymer electrolytes with high ionic conductivity and interfacial stability.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 6
+  },
+  {
+    "id": "https://openalex.org/W7225184321",
+    "title": "N‐Heterocyclic Molecular Additives Enable Solvation and Interfacial Chemistry Regulation for High‐Stability, High‐Rate, and High‐Capacity Lithium Metal Anodes",
+    "authors": "Fujie Liu, Linglin Xia, Tingting Zhao, Juying Zhou, Jianfang Lu, Cong Liu",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-11-02",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71794",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Most electrolyte additives enable long‐term Li plating/stripping at <3 mA cm − 2 , non‐applicable to practical Li‐metal batteries (LMBs) operating at ≥5 mA cm − 2 and ≥ 5 mAh cm − 2 . Here, we report an interaction chemistry that enables simultaneous solvation and interfacial regulation by exploring a novel N‐heterocyclic molecule (i.e., TPTC)—comprising an N‐heterocyclic core and four pyridine units–as an efficient additive for achieving ultra‐stable Li‐metal anodes under practical conditions. Electron‐rich N atoms in TPTC serve as ion‐dipole interaction sites, inducing competitive coordination that weakens Li + solvation and enhances Li + migration in the bulk electrolyte, which homogenizes Li + concentration near the interface, favoring high‐rate Li deposition. TPTC also adsorbs on Li surface to construct a protective layer with a low interfacial de‐solvation barrier, which–together with low‐barrier Li + transport through heterocyclic cavities–facilitates uniform Li deposition. Meanwhile, electron‐deficient C–H sites in pyridine weakly interact with TFSI − , forming an anion‐rich interfacial region that in situ decomposes into an inorganic‐rich interphase, affording high‐flux Li + transport. This synergy allows stable Li plating/stripping at 10 mA cm −2 /10 mAh cm −2 for 3000 h. Paired with a high‐loading LiFePO 4 cathode (∼15 mg cm −2 ) and thin Li (∼100 µm), the cell maintains 87.8% capacity after 400 cycles.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7224774526",
+    "title": "Operando Mapping of Population Phase Separation and Lithium‐Plating Dynamics in Graphite Electrode Using Optical Microscopy and Microstructure Modeling",
+    "authors": "Heng Huang, Yang Li, Xuekun Lu, Xinyu Liu, Yang Li, Huanyue Zhang et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-29",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71762",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT The fast‐charging capability of phase‐separating graphite electrodes is largely constrained by heterogeneous reaction kinetics and sluggish mass transport at both the particle and electrode scales, which increase the risk of parasitic lithium plating and associated safety concerns. A deeper mechanistic understanding of the interplay among phase‐separation dynamics, electrode microstructure, and lithium‐plating propensity is therefore essential for guiding the rational design of advanced electrode architectures and fast‐charging protocols. Here, we combine operando optical microscopy with three‐dimensional microstructure‐resolved phase‐field modeling to resolve the interplay between phase separation and lithium plating. Microscopy captures stages evolution, phase mode transitions and structural dynamics across the particle population and at the single‐particle level, which is driven by the slow interfacial reactions. Non‐equilibrium phase‐field simulations elucidate the kinetic control mechanisms governing phase transitions as the current varies. Importantly, a new mechanism of lithium plating associated with interfacial ohmic resistance is identified. Based on these insights, we evaluate particle‐size‐distribution design and use thermal activation as a mechanistic probe to resolve how temperature alters phase‐separation pathways and lithium‐plating behavior. These results may serve as a foundation for improving the physical understanding and driving optimization of fast charging protocols for lithium‐ion batteries.",
+    "tags": [
+      "Plating/stripping",
+      "Safety",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7223787443",
+    "title": "Bifunctional Additive Enabled Thermoresponsive Electrolytes With Dual‐Mode Manipulation Toward Safe Lithium Metal Batteries",
+    "authors": "Xue Yang, Xiao Hang Guo, Ming Hui Zhang, Yu Hao Huang, Yong Li, Bao Ning Zhu et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-27",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71759",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Thermal safety issues arising from electrolyte instability at elevated temperatures pose a critical challenge for lithium (Li) metal batteries (LMBs). Thermoresponsive electrolytes offer a promising solution, yet battery systems with high‐rate capability and reliable thermal protection have not been realized. Herein, we introduce a bifunctional LiNO 3 additive into a high‐volume‐fraction vinylene carbonate‐based thermoresponsive electrolyte (HVCE‐N) to enhance the performance of LMBs at room and elevated temperatures. Notably, the introduction of the LiNO 3 additive modifies the solvation structure of Li + and forms a Li 3 N/LiN x O y solid electrolyte interface with high ionic conductivity. Under thermal shock, HVCE‐N undergoes a rapid liquid‐to‐solid phase transition upon free radical polymerization to form a polymer network. More importantly, LiNO 3 can regulate the free radical concentration to control the degree of polymerization, thereby preserving high ion transport capability even after phase transition. As a result, a Li||NCM811 cell based on HVCE‐N exhibits high‐rate performance from 1C to 10C, and stable cycling at 100°C. When subjected to a thermal shock of 200°C, HVCE‐N suppresses thermal runaway for Li||NCM811 pouch cell. This electrolyte design offers a new strategy to develop highly safe LMBs with high‐rate performance.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Safety"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7223990995",
+    "title": "Redirecting Bond Cleavage in Sacrificial Prelithiation via Dual‐Side Separator Engineering for Anode‐Free Lithium Batteries",
+    "authors": "Junyu Zhang, Xiangrui Tian, Jiawen Tang, Yunsong Li, Wenzhuo Tan, Peiwen Fan et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-10-27",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71761",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Anode‐free lithium metal batteries (AFLMBs) promise extreme gravimetric and volumetric energy densities but suffer from irreversible active lithium loss, sluggish desolvation kinetics, and dendritic proliferation. Herein, we report a catalyst‐induced bond‐cleavage redirection concept to unlock efficient sacrificial prelithiation, implemented via a dual‐side functionalized separator. On the cathode side, a 5 µm MoC 1‐x /NC‐0.3Co coating redirects Li 2 C 2 O 4 decomposition from high‐barrier Li–O cleavage to preferential C─C bond scission. Theoretical calculations and operando characterizations confirm this mechanistic shift, lowering the delithiation potential to 3.79 V at 60°C with a 99.5% Li + utilization rate. To safeguard the liberated lithium inventory against depletion, the anode side integrates a PSSLi‐PFPE bilayer. This coating accelerates Li + desolvation and drives the in‐situ construction of a LiF‐rich solid electrolyte interphase, enabling Li symmetric cells cycling for over 1700 h (1.0 mAh cm −2 , DOD = 80.7%). Bridging fundamental bond kinetics with practical engineering, the assembled 1.0 Ah anode‐free pouch cell (NCM811||MoC 1‐x /NC‐0.3Co‐LCO/PE/PSSLi‐PFPE||Cu) achieves gravimetric and volumetric energy densities of 458.6 Wh kg −1 and 1005.2 Wh L −1 , a power output of 989.1 W kg −1 , retaining 80.1% capacity after 100 cycles. This non‐invasive separator strategy provides a unified framework connecting bond kinetics to practical cell manufacturing, charting a feasible avenue for high‐energy AFLMBs.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7222883660",
+    "title": "Durable Interphase Incorporating Cross‐Linked Polymer Enables Long‐Calendar‐Life Lithium Metal Batteries",
+    "authors": "Jia‐lin Li, Jianxin Tian, Qiang Zhang, Yan‐Bin Gao, Dong‐Hao Zhan, Qiankui Zhang et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-18",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75435",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT The practical deployment of lithium (Li) metal batteries is hindered by not only cycle life but also calendar life. The poor calendar life stems from both the repeated reconstruction of the solid‐electrolyte interphase (SEI) during cycles and, particularly, the continuous growth of SEI during storage. Herein, a durable SEI with high mechanical stability against volume fluctuations and superior passivation capability to suppress electrolyte permeation is demonstrated by integrating inorganics and a cross‐linked polymer into the SEI. Concretely, a cross‐linked polymer with high modulus and low swelling is in‐situ incorporated among the inorganics of an anion‐derived SEI. The elastic modulus of the SEI is significantly increased from 1.63 to 4.37 GPa, and the compactness of the SEI is also improved to suppress electrolyte permeation. Consequently, the cycle life and calendar life of Li metal coin cells are extended by 73% (from 190 to 329 cycles) and 129% (from 1553 to 3561 h), respectively. Furthermore, a prototype pouch cell (506 Wh kg −1 ) undergoes 124 cycles. This work establishes an effective strategy that concurrently improves the mechanical and passivation performance of the SEI, tackling the critical challenge of calendar life in Li metal batteries.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte"
+    ],
+    "score": 6
+  },
+  {
+    "id": "https://openalex.org/W7220742457",
+    "title": "Mass‐Charge Regulatory Microdomains Enable Coupled Structural and Interfacial Stabilization of Durable 3D Lithium Metal Anodes",
+    "authors": "Jiajie Pan, Jieying Hua, Yusi Wang, Haoan Yuan, Junhao Li, Kaixiang Shi et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-10-05",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75218",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Three‐dimensional (3D) architectures can stabilize lithium (Li) metal anodes (LMAs) by mitigating localized charge accumulation and volume fluctuation, but the enlarged anode/electrolyte interfaces aggravate parasitic reactions and unstable solid electrolyte interphase (SEI) evolution. In this study, we constructed a mass‐charge regulatory microdomain‐functionalized LMA (MCRM‐Li) by mechanically integrating a hierarchically structured NiS x framework with Li foil to address this structure‐interface dilemma. The embedded conductive matrix partitions bulk Li into ordered microdomains and establishes an interconnected electron transport network to dissipate localized current density. Simultaneously, the in situ formed Li 2 S‐rich interphase suppresses solvent attack and induces Li 2 S/LiF‐enriched SEI formation during cycling, thereby homogenizing Li + flux and facilitating interfacial Li + diffusion. Consequently, the symmetric cell based on MCRM‐Li delivers an ultralong lifespan of over 5380 h with dendrite‐free Li deposition. Moreover, LiFePO 4 full cells retain 94.1% capacity after 1000 cycles at 2 C. This work provides a coupled structural‐interfacial design paradigm for durable lithium metal batteries through regional control of electric‐field distribution and interfacial mass transfer in operating 3D LMAs.",
+    "tags": [
+      "Li metal anode",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB",
+      "Characterization/modeling"
+    ],
+    "score": 6
+  },
+  {
+    "id": "https://openalex.org/W7214519475",
+    "title": "“Lithium‐Free” Anode Solid‐State Batteries Enabled by 3D Structured Miec Garnet",
+    "authors": "G. V. Alexander, Aoife Zuercher, Jay Yvonne Easter, Christopher Tang, William Schubert, Jack E. Gritton et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-09-27",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71648",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT Inhomogeneous lithium nucleation at the current collector‐solid electrolyte interface leads to unstable lithium growth and poor reversibility in “lithium‐free” solid‐state batteries. Here we show that stable lithium formation occurs within a mixed ionic and electronic conducting (MIEC) garnet scaffold. The intrinsic electronic conductivity of the porous framework enables lithium to nucleate uniformly along internal pore surfaces, rapidly forming a conformal lithium coating, thus establishing electronic connectivity at very low lithium volume fraction. This uniform lithium formation dramatically lowers anode impedance, enabling reversible lithium plating and stripping with Coulombic efficiencies of a previously unheard‐of 99.95%. When paired with NMC811 cathodes, bilayer (MIEC(P)‐LLZ(D)) “lithium‐free” full cells exhibit stable, highly reversible cycling at practical current densities, all at room temperature with no applied pressure. The interplay between lithium volume fraction and impedance is quantitatively modeled, transforming the understanding of lithium nucleation in a “lithium‐free” cell from an empirical interface problem to a percolation‐governed transport process, guiding the design of electronically percolating scaffolds for next‐generation solid‐state batteries.",
+    "tags": [
+      "Plating/stripping",
+      "Dendrite/interface",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
+  },
+  {
+    "id": "https://openalex.org/W7213557003",
+    "title": "A Safety‐Engineered Organic–Inorganic Composite Separator Enabling Fire‐Extinguishing and Dendrite‐Free Lithium Metal Battery Operation",
+    "authors": "Yichuan Dai, Mingyan Chuai, Xinyu Deng, Zigeng Wu, Yongjie Feng, Dingyi Zhou et al.",
+    "journal": "Interdisciplinary materials",
+    "journal_rank": 9,
+    "issn": "2767-4401",
+    "date": "2026-09-17",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/idm2.70083",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "ABSTRACT The limited thermal stability, mechanical fragility, and flammability of polyolefin separators impose inherent constraints on the safety and lifespan of lithium metal batteries. Although surface‐coating strategies have been widely explored, single‐component coatings, for example, Al 2 O 3 or polyimide, are unable to simultaneously address dendrite suppression, anti‐thermal shrinkage, and flame retardant. Given these critical challenges, we report a design strategy of multifunctional organic‐inorganic composite separator: (a) an ammonium polyphosphate and poly(acrylic acid) cross‐linked polymer provides intrinsic fire‐retardant behavior and features an electrolyte‐philic characteristic that facilitates Li‐ion transport; (b) a rigid Al 2 O 3 network embedded in the polymer matrix resists thermal shrinkage and blocks dendrite penetration through synergistic SEI protection layers rich in Li 3 N and Li 3 PO 4 . Together, these synergistic functions enable Li||Li cells to cycle stably for 2000 h and deliver long‐term stability in LFP||Li full cells (88% capacity retention over 1000 cycles). Moreover, the average heat release rate per unit area (0.04°C min −1 cm −2 ) of this battery during thermal runaway is markedly suppressed compared to those (0.3°C min −1 cm −2 ) of batteries using polyolefin separators, pouch cells incorporating this separator consistently exhibit rapid self‐extinguishing behavior during repeated ignition tests. This integrated safety‐centric architecture offers a practical pathway towards intrinsically safe, long‐life lithium metal batteries.",
+    "tags": [
+      "Dendrite/interface",
+      "Electrolyte",
+      "Safety"
     ],
     "score": 3
   }
