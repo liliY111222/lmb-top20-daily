@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://openalex.org/W7237343521",
+    "title": "Al/F Co‐Doped Sulfide Electrolyte for Durable All‐Solid‐State Lithium‐Organic Batteries",
+    "authors": "Menglin Li, Shuo Xu, Weili Wang, Chenchen Wang, Weiwei Huang, Kai Zhang et al.",
+    "journal": "Advanced Energy Materials",
+    "journal_rank": 12,
+    "issn": "1614-6832",
+    "date": "2026-11-21",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/aenm.71853",
+    "cited_by_count": 0,
+    "open_access": false,
+    "abstract": "Carbonyl‐containing organic cathodes offer a sustainable route to high‐energy storage, but their reaction with conventional sulfide electrolytes (SEs) causes interfacial degradation in all‐solid‐state lithium‐metal batteries (ASSLMBs). Here we develop an electrolyte‐first strategy that stabilizes both carbonyl cathodes and lithium metal through dual‐site Al/F substitution of an argyrodite SE, Li 5.7 Al 0.1 P 0.9 S 4.5 Cl 1.2 F 0.3 (LPSC‐AF). Hard‐soft acid‐base theory (HSAB) guided local‐bonding reconstruction increases the basicity and hard‐base character of SE ligands, strengthens P‐S coordination and passivates reactive P‐centered sites. Consequently, the 1,2,5,6‐anthracenetetrone (ATO) adsorption energy decreases from −4.41 to −0.15 eV, suppressing interfacial acid‐base coordination, nucleophilic attack and coupled redox reactions. LPSC‐AF retains an ionic conductivity of 3.8 mS cm −1 and supports stable lithium plating/stripping for over 3000 h. ATO‐based ASSLMBs deliver 358.3 mAh g −1 with 100% initial Coulombic efficiency and retain 81% capacity after 2000 cycles at 5 C and 60°C. The approach is also applicable to C4Q cathodes, establishing HSAB‐guided SEs redesign as a route to stable all‐solid‐state lithium‐organic batteries.",
+    "tags": [
+      "Plating/stripping",
+      "Electrolyte",
+      "Solid-state LMB"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7225987107",
     "title": "Li–B–Mg Composite Foils With a LiB 0.88 Microrod Array Enable Ultrathin Self‐Supporting Lithium Metal Anodes",
     "authors": "Xinghao Zhang, Xiaosong Xiong, Jie Wang, Xinying Wang, Shengyao Luo, Xi Liu et al.",
