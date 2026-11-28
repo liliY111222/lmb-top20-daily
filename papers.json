@@ -1,5 +1,24 @@
 [
   {
+    "id": "https://openalex.org/W7240103588",
+    "title": "Interface Engineering to Unlock Multi‐Electron S n+ /S 2− Redox Reaction and High Lithium Anode Utilization",
+    "authors": "Ni Zhang, Hanpu Liang, Runming Zeng, Yifan Ni, Taiwu Yu, Shan Zhang et al.",
+    "journal": "Advanced Materials",
+    "journal_rank": 10,
+    "issn": "0935-9648",
+    "date": "2026-11-26",
+    "year": 2026,
+    "doi_url": "https://doi.org/10.1002/adma.75827",
+    "cited_by_count": 0,
+    "open_access": true,
+    "abstract": "All‐solid‐state lithium–sulfur batteries (ASSLSBs) offer high theoretical energy density, yet their practical viability is impeded by sluggish cathodic redox kinetics and uncontrolled anodic dendrite growth. Here, we address these challenges by a dual‐interface engineering strategy that exploits halogen anion migration to in situ construct phase‐separated localized electrochemical microreactors (LEMRs) at both electrodes. At the cathode, an in situ‐formed Li 6 PS 5 Cl/LiCl/Li 2 S‐LiI internal LEMR activates the S 2− /S n+ (n ≥1) multi‐electron redox reaction beyond the conventional S 2− /S 0 redox reaction while maintaining structural integrity. Concurrently, at the Li anode, an interfacial LiCl/C@LiI/LiCl‐LiI anode LEMR confines Li plating/stripping within the LEMR to suppress lithium dendrites. This dual‐LEMR architecture enables the optimized cells to deliver a capacity retention of 86.3% after 450 cycles at 3.6 mAh cm −2 and 80% after 70 cycles at a high areal capacity of 7.5 mAh cm −2 under a low N/P ratio of 0.78, and to achieve an ultra‐high areal capacity of 32.8 mAh cm −2. This work highlights the potential of anion chemistry as an effective interface engineering strategy to overcome the kinetics and stability limits of all‐solid‐state lithium batteries, and provides a versatile framework for advancing high‐energy ASSLSBs.",
+    "tags": [
+      "Dendrite/interface",
+      "Characterization/modeling"
+    ],
+    "score": 3
+  },
+  {
     "id": "https://openalex.org/W7239422740",
     "title": "Function‐Decoupled Dual‐Anion Doping via Site‐Preferential Regulation Enables High‐Performance Lithium Argyrodite Electrolytes",
     "authors": "Yaru Shi, Libin Hu, Qiuhong Li, Wenhao Fang, Zheng Zhang, Xiaoyu Liu et al.",
@@ -214,27 +233,6 @@
       "Plating/stripping",
       "Safety",
       "Characterization/modeling"
-    ],
-    "score": 3
-  },
-  {
-    "id": "https://openalex.org/W7224100176",
-    "title": "Mechanically‐Driven Reconstruction of Lithium Metal for Stable All‐Solid‐State Batteries",
-    "authors": "Yujian Sun, Hugo Celio, Arumugam Manthiram",
-    "journal": "Advanced Materials",
-    "journal_rank": 10,
-    "issn": "0935-9648",
-    "date": "2026-10-27",
-    "year": 2026,
-    "doi_url": "https://doi.org/10.1002/adma.75548",
-    "cited_by_count": 0,
-    "open_access": true,
-    "abstract": "Dendrite growth at lithium-metal anode remains a critical bottleneck in sulfide-based all-solid-state batteries (ASSBs). Current approaches often rely on alloy anodes that compromise energy density or artificial interlayers, introducing additional processing complexity. Herein, we show that accumulated deformation imposed by repeated folding and rolling mechanically reconstructs commercial Li from surface to bulk, replacing a rough carbonate-rich surface and mixed texture with a refined oxide-passivated surface and a strongly Li(200)-preferred texture. At low and medium folding degrees, surface refinement and renewal of the native passivation layer improve solid-solid contact and interfacial Li-ion transport, but remain insufficient to prevent short circuiting, whereas high-degree reconstruction drives texture homogenization, reduces spatial variations in local interfacial response, and synchronizes Li recession and advancement across the rigid Li | solid-state electrolyte interface. The synchronous interface motion suppresses differential recession and void formation during stripping, while mitigating dendritic Li growth during plating. As a result, Li | LPSCl1.5 | NMC811 full cells achieve 79.3% capacity retention after 1000 cycles at C/2 rate, support 7.4 mA h cm-2 operation with 0.05% decay per cycle, and cycle stably below 0.5 MPa. These findings establish mechanical reconstruction as a direct materials-level strategy for stabilizing Li metal in sulfide-based ASSBs.",
-    "tags": [
-      "Dendrite/interface",
-      "Electrolyte",
-      "Solid-state LMB",
-      "Safety"
     ],
     "score": 3
   },
